@@ -6,3 +6,59 @@
 2025-02-17 12:59:27 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.42.dylib': dlopen(libvips.42.dylib, 0x0002): tried: 'libvips.42.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibvips.42.dylib' (no such file), '/Users/sheeltanna/opt/anaconda3/envs/datasci/bin/../lib/libvips.42.dylib' (no such file), '/usr/lib/libvips.42.dylib' (no such file, not in dyld cache), 'libvips.42.dylib' (no such file).  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.42.dylib'
 2025-02-17 12:59:57 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.42.dylib': dlopen(libvips.42.dylib, 0x0002): tried: 'libvips.42.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibvips.42.dylib' (no such file), '/Users/sheeltanna/opt/anaconda3/envs/datasci/bin/../lib/libvips.42.dylib' (no such file), '/usr/lib/libvips.42.dylib' (no such file, not in dyld cache), 'libvips.42.dylib' (no such file).  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.42.dylib'
 2025-02-17 13:01:22 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.42.dylib': dlopen(libvips.42.dylib, 0x0002): tried: 'libvips.42.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibvips.42.dylib' (no such file), '/Users/sheeltanna/opt/anaconda3/envs/datasci/bin/../lib/libvips.42.dylib' (no such file), '/usr/lib/libvips.42.dylib' (no such file, not in dyld cache), 'libvips.42.dylib' (no such file).  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.42.dylib'
+2025-02-17 18:30:23 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.42.dylib': dlopen(libvips.42.dylib, 0x0002): tried: 'libvips.42.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibvips.42.dylib' (no such file), '/Users/sheeltanna/opt/anaconda3/envs/datasci/bin/../lib/libvips.42.dylib' (no such file), '/usr/lib/libvips.42.dylib' (no such file, not in dyld cache), 'libvips.42.dylib' (no such file).  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.42.dylib'
+2025-02-18 02:19:27 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.42.dylib': dlopen(libvips.42.dylib, 0x0002): tried: 'libvips.42.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OSlibvips.42.dylib' (no such file), '/Users/sheeltanna/miniforge3/envs/cancer_project/bin/../lib/libvips.42.dylib' (no such file), '/usr/lib/libvips.42.dylib' (no such file, not in dyld cache), 'libvips.42.dylib' (no such file).  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.42.dylib'
+2025-02-18 02:30:59 [INFO] - No ROI for AG037F (1), using whole slide.
+2025-02-18 02:30:59 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:30:59 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:30:59 [DEBUG] - AG037F (1): Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:30:59 [DEBUG] - AG037F (1): Grid shape: (98, 110) | Tiles to extract: 10780
+2025-02-18 02:31:15 [INFO] - No ROI for AG037F (1), using whole slide.
+2025-02-18 02:31:15 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:31:15 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:31:15 [DEBUG] - AG037F (1): Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:31:15 [DEBUG] - AG037F (1): Grid shape: (98, 110) | Tiles to extract: 10780
+2025-02-18 02:31:22 [INFO] - No ROI for AG037F (1), using whole slide.
+2025-02-18 02:31:22 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:31:22 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:31:22 [DEBUG] - AG037F (1): Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:31:22 [DEBUG] - AG037F (1): Grid shape: (98, 110) | Tiles to extract: 10780
+2025-02-18 02:32:29 [INFO] - No ROI for AG037F (1), using whole slide.
+2025-02-18 02:32:29 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:32:29 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:32:29 [DEBUG] - AG037F (1): Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:32:29 [DEBUG] - AG037F (1): Grid shape: (98, 110) | Tiles to extract: 10780
+2025-02-18 02:32:30 [INFO] - No ROI for AG037F (1), using whole slide.
+2025-02-18 02:32:30 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:32:30 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:32:30 [DEBUG] - AG037F (1): Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:32:30 [DEBUG] - AG037F (1): Grid shape: (98, 110) | Tiles to extract: 10780
+2025-02-18 02:32:50 [INFO] - No ROI for AG037F (1), using whole slide.
+2025-02-18 02:32:50 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:32:50 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:32:50 [DEBUG] - AG037F (1): Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:32:50 [DEBUG] - AG037F (1): Grid shape: (98, 110) | Tiles to extract: 10780
+2025-02-18 02:33:45 [DEBUG] - Loaded ROIs from /Users/sheeltanna/Cancer_Project_2025/Cancer_Project_2025/AG037F.csv
+2025-02-18 02:33:45 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-02-18 02:33:45 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:33:45 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:33:45 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:33:45 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-02-18 02:35:15 [DEBUG] - Loaded ROIs from /Users/sheeltanna/Cancer_Project_2025/Cancer_Project_2025/AG037F.csv
+2025-02-18 02:35:15 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-02-18 02:35:15 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:35:15 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:35:15 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:35:15 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-02-18 02:35:33 [DEBUG] - Loaded ROIs from /Users/sheeltanna/Cancer_Project_2025/Cancer_Project_2025/AG037F.csv
+2025-02-18 02:35:33 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-02-18 02:35:33 [DEBUG] - Slide origin: (0, 0)
+2025-02-18 02:35:33 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-18 02:35:33 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-02-18 02:35:33 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-02-19 00:26:08 [DEBUG] - Loaded ROIs from /Users/sheeltanna/Cancer_Project_2025/Cancer_Project_2025/AG037F.csv
+2025-02-19 00:26:08 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-02-19 00:26:08 [DEBUG] - Slide origin: (0, 0)
+2025-02-19 00:26:08 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-19 00:26:08 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-02-19 00:26:08 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
