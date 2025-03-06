@@ -92,3 +92,72 @@
 2025-02-28 10:43:21 [DEBUG] - Set up coordinate grid, shape=(98, 110)
 2025-02-28 10:43:21 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
 2025-02-28 10:43:21 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-06 00:53:13 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 00:53:13 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 00:53:13 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 00:53:13 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 00:53:13 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 00:53:13 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 00:58:03 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 00:58:03 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 00:58:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 00:58:03 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 00:58:03 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 00:58:03 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 00:59:30 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 00:59:30 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 00:59:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 00:59:30 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 00:59:30 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 00:59:30 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 01:02:22 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 01:02:22 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 01:02:22 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 01:02:23 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 01:02:23 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 01:02:23 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 01:04:55 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 01:04:55 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 01:04:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 01:04:55 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 01:04:55 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 01:04:55 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 01:04:55 [INFO] - No ROI for AF102F, using whole slide.
+2025-03-06 01:04:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 01:04:55 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 01:04:55 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 49329
+2025-03-06 01:04:55 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 9506
+2025-03-06 01:04:55 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:04:55 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:05:40 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:10:02 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:10:42 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:12:07 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:13:50 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 01:13:50 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 01:13:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 01:13:50 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 01:13:50 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 01:13:50 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 01:13:53 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:21:46 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:23:27 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:23:27 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:23:32 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:23:36 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:28:11 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-06 01:28:11 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 01:28:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 01:28:11 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 01:28:11 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-06 01:28:11 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 01:28:11 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF102F.csv
+2025-03-06 01:28:11 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-06 01:28:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 01:28:11 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-06 01:28:11 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-06 01:28:11 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-06 01:30:37 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:30:37 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:39:35 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 01:39:35 [DEBUG] - Requesting thumbnail at level=3, width=1024
