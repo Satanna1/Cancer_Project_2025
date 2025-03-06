@@ -80,3 +80,15 @@
 2025-02-27 15:40:22 [DEBUG] - Set up coordinate grid, shape=(98, 110)
 2025-02-27 15:40:22 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
 2025-02-27 15:40:22 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-02-27 22:24:41 [DEBUG] - Loaded ROIs from /Users/sheeltanna/Cancer_Project_2025/Cancer_Project_2025/AG037F.csv
+2025-02-27 22:24:41 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-02-27 22:24:41 [DEBUG] - Slide origin: (0, 0)
+2025-02-27 22:24:41 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-27 22:24:41 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-02-27 22:24:41 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-02-28 10:43:21 [DEBUG] - Loaded ROIs from /Users/sheeltanna/Cancer_Project_2025/Cancer_Project_2025/AG037F.csv
+2025-02-28 10:43:21 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-02-28 10:43:21 [DEBUG] - Slide origin: (0, 0)
+2025-02-28 10:43:21 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-02-28 10:43:21 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-02-28 10:43:21 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
