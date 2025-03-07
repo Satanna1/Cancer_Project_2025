@@ -1297,3 +1297,39 @@
 2025-03-06 19:22:41 [DEBUG] - Set up coordinate grid, shape=(90, 78)
 2025-03-06 19:22:41 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
 2025-03-06 19:22:41 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-07 00:51:39 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF239F.csv
+2025-03-07 00:51:39 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-07 00:51:39 [DEBUG] - Slide origin: (0, 0)
+2025-03-07 00:51:39 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-07 00:51:39 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 45815 x 55198
+2025-03-07 00:51:39 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 327
+2025-03-07 00:51:39 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF239F.csv
+2025-03-07 00:51:39 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-07 00:51:39 [DEBUG] - Slide origin: (0, 0)
+2025-03-07 00:51:39 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-07 00:51:39 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-07 00:51:39 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-07 00:55:13 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-07 00:55:13 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-07 00:55:13 [DEBUG] - Slide origin: (0, 0)
+2025-03-07 00:55:13 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-07 00:55:13 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-07 00:55:13 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-07 00:55:13 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF102F.csv
+2025-03-07 00:55:13 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-07 00:55:13 [DEBUG] - Slide origin: (0, 0)
+2025-03-07 00:55:13 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-07 00:55:13 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-07 00:55:13 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-07 01:05:26 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-07 01:05:26 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-07 01:05:26 [DEBUG] - Slide origin: (0, 0)
+2025-03-07 01:05:26 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-07 01:05:26 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-07 01:05:26 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-07 01:05:26 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-07 01:05:26 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-07 01:05:26 [DEBUG] - Slide origin: (0, 0)
+2025-03-07 01:05:26 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-07 01:05:26 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-07 01:05:26 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
