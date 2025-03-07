@@ -1285,3 +1285,15 @@
 2025-03-06 14:36:33 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
 2025-03-06 14:36:33 [DEBUG] - Requesting thumbnail at level=3, width=1024
 2025-03-06 14:36:33 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-06 19:22:41 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF130F.csv
+2025-03-06 19:22:41 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-06 19:22:41 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 19:22:41 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-06 19:22:41 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 45815 x 39429
+2025-03-06 19:22:41 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 282
+2025-03-06 19:22:41 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF130F.csv
+2025-03-06 19:22:41 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-06 19:22:41 [DEBUG] - Slide origin: (0, 0)
+2025-03-06 19:22:41 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-06 19:22:41 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-06 19:22:41 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
