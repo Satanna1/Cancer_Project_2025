@@ -1672,3 +1672,1869 @@
 2025-03-10 23:55:14 [DEBUG] - Set up coordinate grid, shape=(128, 100)
 2025-03-10 23:55:14 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 62350 x 48943
 2025-03-10 23:55:14 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 533
+2025-03-13 22:37:51 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-13 22:37:51 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:37:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:51 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:37:51 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:37:51 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-13 22:37:52 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-13 22:37:52 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:37:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:52 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:37:52 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:37:52 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-13 22:37:52 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:37:52 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:37:54 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2025-03-13 22:37:54 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-13 22:37:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:54 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-13 22:37:54 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-03-13 22:37:54 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-13 22:37:54 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF102F.csv
+2025-03-13 22:37:54 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-13 22:37:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:54 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-13 22:37:54 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-13 22:37:54 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-13 22:37:54 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:37:54 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:37:56 [WARNING] - Skipping invalid ROI (ROI_4): Invalid ROI (ROI_4): ROI must contain at least 4 coordinates.
+2025-03-13 22:37:56 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AH141F.csv
+2025-03-13 22:37:56 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-13 22:37:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:56 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-13 22:37:56 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-13 22:37:56 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 647
+2025-03-13 22:37:56 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AH141F.csv
+2025-03-13 22:37:56 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-13 22:37:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:56 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-13 22:37:56 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-13 22:37:56 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-03-13 22:37:56 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:37:56 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:37:57 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF252.csv
+2025-03-13 22:37:57 [DEBUG] - Slide AF252: extracting tiles from inside ROI.
+2025-03-13 22:37:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:57 [DEBUG] - Set up coordinate grid, shape=(106, 84)
+2025-03-13 22:37:57 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2025-03-13 22:37:57 [DEBUG] - AF252: Grid shape: (106, 84) | Tiles to extract: 306
+2025-03-13 22:37:57 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF252.csv
+2025-03-13 22:37:57 [DEBUG] - Slide AF252: extracting tiles from inside ROI.
+2025-03-13 22:37:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:57 [DEBUG] - Set up coordinate grid, shape=(106, 84)
+2025-03-13 22:37:57 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2025-03-13 22:37:57 [DEBUG] - AF252: Grid shape: (106, 84) | Tiles to extract: 306
+2025-03-13 22:37:57 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:37:57 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:37:59 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-03-13 22:37:59 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-03-13 22:37:59 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:59 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-13 22:37:59 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-03-13 22:37:59 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-03-13 22:37:59 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-03-13 22:37:59 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-03-13 22:37:59 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:37:59 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-13 22:37:59 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-03-13 22:37:59 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-03-13 22:37:59 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:37:59 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:01 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG991M.csv
+2025-03-13 22:38:01 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-13 22:38:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:01 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-13 22:38:01 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 66687 x 64124
+2025-03-13 22:38:01 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 373
+2025-03-13 22:38:01 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG991M.csv
+2025-03-13 22:38:01 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-13 22:38:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:01 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-13 22:38:01 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2025-03-13 22:38:01 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2025-03-13 22:38:01 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:01 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:03 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AH073M.csv
+2025-03-13 22:38:03 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-13 22:38:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:03 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-13 22:38:03 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 66884 x 69447
+2025-03-13 22:38:03 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-13 22:38:03 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AH073M.csv
+2025-03-13 22:38:03 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-13 22:38:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:03 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-13 22:38:03 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2025-03-13 22:38:03 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-13 22:38:03 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:03 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:04 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF135M.csv
+2025-03-13 22:38:04 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-13 22:38:04 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:04 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-13 22:38:04 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-13 22:38:04 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-13 22:38:04 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF135M.csv
+2025-03-13 22:38:04 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-13 22:38:04 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:04 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-13 22:38:04 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-13 22:38:04 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-13 22:38:04 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:04 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:06 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG985F.csv
+2025-03-13 22:38:06 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-13 22:38:06 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:06 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-13 22:38:06 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 26 ROI(s) | Size: 65504 x 56238
+2025-03-13 22:38:06 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 637
+2025-03-13 22:38:07 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG985F.csv
+2025-03-13 22:38:07 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-13 22:38:07 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:07 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-13 22:38:07 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-03-13 22:38:07 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-03-13 22:38:07 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:07 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:08 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF254F.csv
+2025-03-13 22:38:08 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-13 22:38:08 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:08 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-13 22:38:08 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-13 22:38:08 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 360
+2025-03-13 22:38:08 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF254F.csv
+2025-03-13 22:38:08 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-13 22:38:08 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:08 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-13 22:38:08 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-13 22:38:08 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-13 22:38:08 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:08 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:09 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF238F.csv
+2025-03-13 22:38:09 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-13 22:38:09 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:09 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-13 22:38:09 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-13 22:38:09 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 386
+2025-03-13 22:38:09 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF238F.csv
+2025-03-13 22:38:09 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-13 22:38:09 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:09 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-13 22:38:09 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-13 22:38:09 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-13 22:38:09 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:09 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:10 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF113M.csv
+2025-03-13 22:38:10 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-13 22:38:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:10 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-13 22:38:10 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-13 22:38:10 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-13 22:38:10 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF113M.csv
+2025-03-13 22:38:10 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-13 22:38:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:11 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-13 22:38:11 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-13 22:38:11 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-13 22:38:11 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:11 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:12 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF136M.csv
+2025-03-13 22:38:12 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-13 22:38:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:12 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-13 22:38:12 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 37474
+2025-03-13 22:38:12 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-13 22:38:12 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF136M.csv
+2025-03-13 22:38:12 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-13 22:38:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:12 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-13 22:38:12 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-13 22:38:12 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-13 22:38:12 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:12 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:13 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG986F.csv
+2025-03-13 22:38:13 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-13 22:38:13 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:13 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-13 22:38:13 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 62350 x 48943
+2025-03-13 22:38:13 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 533
+2025-03-13 22:38:13 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG986F.csv
+2025-03-13 22:38:13 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-13 22:38:13 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:13 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-13 22:38:13 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-03-13 22:38:13 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-03-13 22:38:13 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:14 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:15 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF130F.csv
+2025-03-13 22:38:15 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-13 22:38:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:15 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-13 22:38:15 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 45815 x 39429
+2025-03-13 22:38:15 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 282
+2025-03-13 22:38:15 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF130F.csv
+2025-03-13 22:38:15 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-13 22:38:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:15 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-13 22:38:15 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-13 22:38:15 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-13 22:38:15 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:15 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:16 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-13 22:38:16 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:38:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:16 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:38:16 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:38:16 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-13 22:38:16 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-13 22:38:16 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:38:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:16 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:38:16 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:38:16 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-13 22:38:16 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:16 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:18 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF107.csv
+2025-03-13 22:38:18 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-13 22:38:18 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:18 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-13 22:38:18 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-13 22:38:18 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-13 22:38:18 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF107.csv
+2025-03-13 22:38:18 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-13 22:38:18 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:18 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-13 22:38:18 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-13 22:38:18 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-13 22:38:18 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:18 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:21 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF239F.csv
+2025-03-13 22:38:21 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-13 22:38:21 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:21 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-13 22:38:21 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 45815 x 55198
+2025-03-13 22:38:21 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 327
+2025-03-13 22:38:21 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF239F.csv
+2025-03-13 22:38:21 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-13 22:38:21 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:21 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-13 22:38:21 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-13 22:38:21 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-13 22:38:21 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:21 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:22 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF257M.csv
+2025-03-13 22:38:22 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-13 22:38:22 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:22 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-13 22:38:22 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 49989
+2025-03-13 22:38:22 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-13 22:38:22 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF257M.csv
+2025-03-13 22:38:22 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-13 22:38:22 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:22 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-13 22:38:22 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-13 22:38:22 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-13 22:38:22 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:22 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:25 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF109.csv
+2025-03-13 22:38:25 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-13 22:38:25 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:25 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-13 22:38:25 [DEBUG] - AF109: Slide info: 0.2532 um/px | 14 ROI(s) | Size: 49800 x 44292
+2025-03-13 22:38:25 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 383
+2025-03-13 22:38:25 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF109.csv
+2025-03-13 22:38:25 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-13 22:38:25 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:25 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-13 22:38:25 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2025-03-13 22:38:25 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 379
+2025-03-13 22:38:25 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:25 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:27 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AH139F.csv
+2025-03-13 22:38:27 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-13 22:38:27 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:27 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-13 22:38:27 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 25 ROI(s) | Size: 67870 x 61955
+2025-03-13 22:38:27 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 680
+2025-03-13 22:38:27 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AH139F.csv
+2025-03-13 22:38:27 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-13 22:38:27 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:27 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-13 22:38:27 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2025-03-13 22:38:27 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2025-03-13 22:38:27 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:27 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:28 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AF104.csv
+2025-03-13 22:38:28 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-13 22:38:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:28 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-13 22:38:28 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-13 22:38:28 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 348
+2025-03-13 22:38:28 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AF104.csv
+2025-03-13 22:38:28 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-13 22:38:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:28 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-13 22:38:28 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-13 22:38:28 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-13 22:38:28 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:29 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-13 22:38:30 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AH063F.csv
+2025-03-13 22:38:30 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-13 22:38:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:30 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-13 22:38:30 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 67475 x 69644
+2025-03-13 22:38:30 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 655
+2025-03-13 22:38:30 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AH063F.csv
+2025-03-13 22:38:30 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-13 22:38:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:30 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-13 22:38:30 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2025-03-13 22:38:30 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2025-03-13 22:38:30 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:30 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:33 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AH074M.csv
+2025-03-13 22:38:33 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-13 22:38:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:33 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-13 22:38:33 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 45 ROI(s) | Size: 75164 x 71419
+2025-03-13 22:38:33 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 819
+2025-03-13 22:38:35 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AH074M.csv
+2025-03-13 22:38:35 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-13 22:38:35 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:35 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-13 22:38:35 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2025-03-13 22:38:35 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2025-03-13 22:38:35 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:35 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-03-13 22:38:38 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-13 22:38:38 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:38:38 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:38 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:38:38 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:38:38 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-13 22:38:38 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-13 22:38:38 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:38:38 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:38 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:38:38 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:38:38 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-13 22:38:38 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG987F.csv
+2025-03-13 22:38:38 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-13 22:38:38 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:38 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-13 22:38:38 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-13 22:38:38 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-13 22:38:39 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG985F.csv
+2025-03-13 22:38:39 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-13 22:38:39 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:39 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-13 22:38:39 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 26 ROI(s) | Size: 65504 x 56238
+2025-03-13 22:38:39 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 637
+2025-03-13 22:38:40 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG991M.csv
+2025-03-13 22:38:40 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-13 22:38:40 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:40 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-13 22:38:40 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 66687 x 64124
+2025-03-13 22:38:40 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 373
+2025-03-13 22:38:41 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AH139F.csv
+2025-03-13 22:38:41 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-13 22:38:41 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:41 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-13 22:38:41 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 25 ROI(s) | Size: 67870 x 61955
+2025-03-13 22:38:41 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 680
+2025-03-13 22:38:42 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AH063F.csv
+2025-03-13 22:38:42 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-13 22:38:42 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:42 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-13 22:38:42 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 67475 x 69644
+2025-03-13 22:38:42 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 655
+2025-03-13 22:38:43 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AH073M.csv
+2025-03-13 22:38:43 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-13 22:38:43 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:43 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-13 22:38:43 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 66884 x 69447
+2025-03-13 22:38:43 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-13 22:38:44 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AH074M.csv
+2025-03-13 22:38:44 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-13 22:38:44 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:44 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-13 22:38:44 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 45 ROI(s) | Size: 75164 x 71419
+2025-03-13 22:38:44 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 819
+2025-03-13 22:38:44 [WARNING] - Skipping invalid ROI (ROI_4): Invalid ROI (ROI_4): ROI must contain at least 4 coordinates.
+2025-03-13 22:38:44 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AH141F.csv
+2025-03-13 22:38:44 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-13 22:38:44 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:45 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-13 22:38:45 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-13 22:38:45 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 647
+2025-03-13 22:38:45 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG986F.csv
+2025-03-13 22:38:45 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-13 22:38:45 [DEBUG] - Slide origin: (0, 0)
+2025-03-13 22:38:45 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-13 22:38:45 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 62350 x 48943
+2025-03-13 22:38:45 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 533
+2025-03-14 12:18:51 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-14 12:18:51 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:18:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:18:51 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:18:51 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:18:51 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-14 12:18:51 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-14 12:18:51 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:18:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:18:51 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:18:51 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:18:51 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-14 12:20:47 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG987F.csv
+2025-03-14 12:20:47 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:20:47 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:20:47 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:20:47 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:20:47 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-14 12:20:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG985F.csv
+2025-03-14 12:20:48 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-14 12:20:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:20:48 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-14 12:20:48 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 26 ROI(s) | Size: 65504 x 56238
+2025-03-14 12:20:48 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 637
+2025-03-14 12:20:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AG991M.csv
+2025-03-14 12:20:50 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-14 12:20:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:20:50 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-14 12:20:50 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 66687 x 64124
+2025-03-14 12:20:50 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 373
+2025-03-14 12:20:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Grayson/Exp2/AH139F.csv
+2025-03-14 12:20:51 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-14 12:20:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:20:51 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-14 12:20:51 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 25 ROI(s) | Size: 67870 x 61955
+2025-03-14 12:20:51 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 680
+2025-03-14 12:21:43 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG987F.csv
+2025-03-14 12:21:43 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:21:43 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:43 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:21:43 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:21:43 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-14 12:21:44 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH213F.csv
+2025-03-14 12:21:44 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2025-03-14 12:21:44 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:44 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2025-03-14 12:21:44 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2025-03-14 12:21:44 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2025-03-14 12:21:45 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH211F.csv
+2025-03-14 12:21:45 [DEBUG] - Slide AH211F: extracting tiles from inside ROI.
+2025-03-14 12:21:45 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:45 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2025-03-14 12:21:45 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2025-03-14 12:21:45 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 1046
+2025-03-14 12:21:46 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-03-14 12:21:46 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-14 12:21:46 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:46 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-14 12:21:46 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-03-14 12:21:46 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-03-14 12:21:47 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH215M.csv
+2025-03-14 12:21:47 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2025-03-14 12:21:47 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:47 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2025-03-14 12:21:47 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2025-03-14 12:21:47 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-03-14 12:21:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH210F.csv
+2025-03-14 12:21:49 [DEBUG] - Slide AH210F: extracting tiles from inside ROI.
+2025-03-14 12:21:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:49 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2025-03-14 12:21:49 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2025-03-14 12:21:49 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 711
+2025-03-14 12:21:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG991M.csv
+2025-03-14 12:21:50 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-14 12:21:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:50 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-14 12:21:50 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2025-03-14 12:21:50 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2025-03-14 12:21:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH139F.csv
+2025-03-14 12:21:50 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-14 12:21:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:50 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-14 12:21:50 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2025-03-14 12:21:50 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2025-03-14 12:21:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH146M.csv
+2025-03-14 12:21:51 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2025-03-14 12:21:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:51 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2025-03-14 12:21:51 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2025-03-14 12:21:51 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2025-03-14 12:21:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH063F.csv
+2025-03-14 12:21:52 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-14 12:21:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:52 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-14 12:21:52 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2025-03-14 12:21:52 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2025-03-14 12:21:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH212F.csv
+2025-03-14 12:21:53 [DEBUG] - Slide AH212F: extracting tiles from inside ROI.
+2025-03-14 12:21:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:53 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2025-03-14 12:21:53 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2025-03-14 12:21:53 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 662
+2025-03-14 12:21:54 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH073M.csv
+2025-03-14 12:21:54 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-14 12:21:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:54 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-14 12:21:54 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2025-03-14 12:21:54 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-14 12:21:55 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH074M.csv
+2025-03-14 12:21:55 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-14 12:21:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:55 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-14 12:21:55 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2025-03-14 12:21:55 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2025-03-14 12:21:56 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-03-14 12:21:56 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-14 12:21:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:56 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-14 12:21:56 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-14 12:21:56 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-03-14 12:21:57 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-03-14 12:21:57 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-03-14 12:21:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:57 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-03-14 12:21:57 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-03-14 12:21:57 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-03-14 12:21:59 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-03-14 12:21:59 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-03-14 12:21:59 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:21:59 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-03-14 12:21:59 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-03-14 12:21:59 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-03-14 12:22:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-03-14 12:22:01 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-14 12:22:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:22:01 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-14 12:22:01 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-03-14 12:22:01 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-03-14 12:23:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG987F.csv
+2025-03-14 12:23:48 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:23:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:49 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:23:49 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:23:49 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-14 12:23:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH213F.csv
+2025-03-14 12:23:50 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2025-03-14 12:23:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:50 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2025-03-14 12:23:50 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2025-03-14 12:23:50 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2025-03-14 12:23:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH211F.csv
+2025-03-14 12:23:51 [DEBUG] - Slide AH211F: extracting tiles from inside ROI.
+2025-03-14 12:23:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:51 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2025-03-14 12:23:51 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2025-03-14 12:23:51 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 1046
+2025-03-14 12:23:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-03-14 12:23:51 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-14 12:23:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:51 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-14 12:23:51 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-03-14 12:23:51 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-03-14 12:23:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH215M.csv
+2025-03-14 12:23:52 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2025-03-14 12:23:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:52 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2025-03-14 12:23:52 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2025-03-14 12:23:52 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-03-14 12:23:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH210F.csv
+2025-03-14 12:23:53 [DEBUG] - Slide AH210F: extracting tiles from inside ROI.
+2025-03-14 12:23:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:53 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2025-03-14 12:23:53 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2025-03-14 12:23:53 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 711
+2025-03-14 12:23:54 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG991M.csv
+2025-03-14 12:23:54 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-14 12:23:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:54 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-14 12:23:54 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2025-03-14 12:23:54 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2025-03-14 12:23:54 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH139F.csv
+2025-03-14 12:23:54 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-14 12:23:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:54 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-14 12:23:54 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2025-03-14 12:23:54 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2025-03-14 12:23:55 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH146M.csv
+2025-03-14 12:23:55 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2025-03-14 12:23:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:55 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2025-03-14 12:23:55 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2025-03-14 12:23:55 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2025-03-14 12:23:56 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH063F.csv
+2025-03-14 12:23:56 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-14 12:23:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:56 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-14 12:23:56 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2025-03-14 12:23:56 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2025-03-14 12:23:57 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH212F.csv
+2025-03-14 12:23:57 [DEBUG] - Slide AH212F: extracting tiles from inside ROI.
+2025-03-14 12:23:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:57 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2025-03-14 12:23:57 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2025-03-14 12:23:57 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 662
+2025-03-14 12:23:58 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH073M.csv
+2025-03-14 12:23:58 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-14 12:23:58 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:58 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-14 12:23:58 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2025-03-14 12:23:58 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-14 12:23:59 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH074M.csv
+2025-03-14 12:23:59 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-14 12:23:59 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:23:59 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-14 12:23:59 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2025-03-14 12:23:59 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2025-03-14 12:24:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-03-14 12:24:01 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-14 12:24:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:24:01 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-14 12:24:01 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-14 12:24:01 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-03-14 12:24:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-03-14 12:24:01 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-03-14 12:24:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:24:02 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-03-14 12:24:02 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-03-14 12:24:02 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-03-14 12:24:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-03-14 12:24:02 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-03-14 12:24:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:24:02 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-03-14 12:24:02 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-03-14 12:24:02 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-03-14 12:24:03 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-03-14 12:24:03 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-14 12:24:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:24:03 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-14 12:24:03 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-03-14 12:24:03 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-03-14 12:28:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG987F.csv
+2025-03-14 12:28:00 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:28:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:00 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:28:00 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:28:00 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-14 12:28:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH213F.csv
+2025-03-14 12:28:01 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2025-03-14 12:28:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:01 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2025-03-14 12:28:01 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2025-03-14 12:28:01 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2025-03-14 12:28:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH211F.csv
+2025-03-14 12:28:02 [DEBUG] - Slide AH211F: extracting tiles from inside ROI.
+2025-03-14 12:28:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:02 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2025-03-14 12:28:02 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2025-03-14 12:28:02 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 1046
+2025-03-14 12:28:03 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-03-14 12:28:03 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-14 12:28:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:03 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-14 12:28:03 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-03-14 12:28:03 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-03-14 12:28:04 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH215M.csv
+2025-03-14 12:28:04 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2025-03-14 12:28:04 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:04 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2025-03-14 12:28:04 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2025-03-14 12:28:04 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-03-14 12:28:05 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH210F.csv
+2025-03-14 12:28:05 [DEBUG] - Slide AH210F: extracting tiles from inside ROI.
+2025-03-14 12:28:05 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:05 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2025-03-14 12:28:05 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2025-03-14 12:28:05 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 711
+2025-03-14 12:28:06 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG991M.csv
+2025-03-14 12:28:06 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-14 12:28:06 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:06 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-14 12:28:06 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2025-03-14 12:28:06 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2025-03-14 12:28:06 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH139F.csv
+2025-03-14 12:28:06 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-14 12:28:06 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:06 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-14 12:28:06 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2025-03-14 12:28:06 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2025-03-14 12:28:08 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH146M.csv
+2025-03-14 12:28:08 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2025-03-14 12:28:08 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:08 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2025-03-14 12:28:08 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2025-03-14 12:28:08 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2025-03-14 12:28:09 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH063F.csv
+2025-03-14 12:28:09 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-14 12:28:09 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:09 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-14 12:28:09 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2025-03-14 12:28:09 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2025-03-14 12:28:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH212F.csv
+2025-03-14 12:28:10 [DEBUG] - Slide AH212F: extracting tiles from inside ROI.
+2025-03-14 12:28:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:10 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2025-03-14 12:28:10 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2025-03-14 12:28:10 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 662
+2025-03-14 12:28:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH073M.csv
+2025-03-14 12:28:11 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-14 12:28:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:11 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-14 12:28:11 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2025-03-14 12:28:11 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-14 12:28:12 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH074M.csv
+2025-03-14 12:28:12 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-14 12:28:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:12 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-14 12:28:12 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2025-03-14 12:28:12 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2025-03-14 12:28:13 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-03-14 12:28:13 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-14 12:28:13 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:14 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-14 12:28:14 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-14 12:28:14 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-03-14 12:28:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-03-14 12:28:15 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-03-14 12:28:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:15 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-03-14 12:28:15 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-03-14 12:28:15 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-03-14 12:28:16 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-03-14 12:28:16 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-03-14 12:28:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:16 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-03-14 12:28:16 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-03-14 12:28:16 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-03-14 12:28:16 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-03-14 12:28:16 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-14 12:28:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:16 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-14 12:28:16 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-03-14 12:28:16 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-03-14 12:28:44 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG987F.csv
+2025-03-14 12:28:44 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:28:44 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:44 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:28:44 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:28:44 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-14 12:28:45 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH213F.csv
+2025-03-14 12:28:45 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2025-03-14 12:28:45 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:45 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2025-03-14 12:28:45 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2025-03-14 12:28:45 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2025-03-14 12:28:46 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH211F.csv
+2025-03-14 12:28:46 [DEBUG] - Slide AH211F: extracting tiles from inside ROI.
+2025-03-14 12:28:46 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:46 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2025-03-14 12:28:46 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2025-03-14 12:28:46 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 1046
+2025-03-14 12:28:47 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-03-14 12:28:47 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-14 12:28:47 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:47 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-14 12:28:47 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-03-14 12:28:47 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-03-14 12:28:47 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH215M.csv
+2025-03-14 12:28:47 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2025-03-14 12:28:47 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:47 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2025-03-14 12:28:47 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2025-03-14 12:28:47 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-03-14 12:28:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH210F.csv
+2025-03-14 12:28:48 [DEBUG] - Slide AH210F: extracting tiles from inside ROI.
+2025-03-14 12:28:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:48 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2025-03-14 12:28:48 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2025-03-14 12:28:48 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 711
+2025-03-14 12:28:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG991M.csv
+2025-03-14 12:28:49 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-14 12:28:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:49 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-14 12:28:49 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2025-03-14 12:28:49 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2025-03-14 12:28:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH139F.csv
+2025-03-14 12:28:49 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-14 12:28:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:49 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-14 12:28:49 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2025-03-14 12:28:49 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2025-03-14 12:28:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH146M.csv
+2025-03-14 12:28:50 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2025-03-14 12:28:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:50 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2025-03-14 12:28:50 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2025-03-14 12:28:50 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2025-03-14 12:28:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH063F.csv
+2025-03-14 12:28:51 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-14 12:28:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:51 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-14 12:28:51 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2025-03-14 12:28:51 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2025-03-14 12:28:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH212F.csv
+2025-03-14 12:28:52 [DEBUG] - Slide AH212F: extracting tiles from inside ROI.
+2025-03-14 12:28:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:52 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2025-03-14 12:28:52 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2025-03-14 12:28:52 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 662
+2025-03-14 12:28:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH073M.csv
+2025-03-14 12:28:53 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-14 12:28:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:53 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-14 12:28:53 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2025-03-14 12:28:53 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-14 12:28:54 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH074M.csv
+2025-03-14 12:28:54 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-14 12:28:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:54 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-14 12:28:54 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2025-03-14 12:28:54 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2025-03-14 12:28:54 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-03-14 12:28:54 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-14 12:28:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:54 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-14 12:28:54 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-14 12:28:54 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-03-14 12:28:55 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-03-14 12:28:55 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-03-14 12:28:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:55 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-03-14 12:28:55 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-03-14 12:28:55 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-03-14 12:28:56 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-03-14 12:28:56 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-03-14 12:28:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:56 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-03-14 12:28:56 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-03-14 12:28:56 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-03-14 12:28:57 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-03-14 12:28:57 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-14 12:28:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:28:57 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-14 12:28:57 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-03-14 12:28:57 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-03-14 12:29:44 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG987F.csv
+2025-03-14 12:29:44 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-14 12:29:44 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:44 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-14 12:29:44 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-14 12:29:44 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-14 12:29:45 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH213F.csv
+2025-03-14 12:29:45 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2025-03-14 12:29:45 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:45 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2025-03-14 12:29:45 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2025-03-14 12:29:45 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2025-03-14 12:29:46 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH211F.csv
+2025-03-14 12:29:46 [DEBUG] - Slide AH211F: extracting tiles from inside ROI.
+2025-03-14 12:29:46 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:46 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2025-03-14 12:29:46 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2025-03-14 12:29:46 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 1046
+2025-03-14 12:29:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-03-14 12:29:48 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-03-14 12:29:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:48 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-03-14 12:29:48 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-03-14 12:29:48 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-03-14 12:29:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH215M.csv
+2025-03-14 12:29:49 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2025-03-14 12:29:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:49 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2025-03-14 12:29:49 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2025-03-14 12:29:49 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-03-14 12:29:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH210F.csv
+2025-03-14 12:29:49 [DEBUG] - Slide AH210F: extracting tiles from inside ROI.
+2025-03-14 12:29:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:49 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2025-03-14 12:29:49 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2025-03-14 12:29:49 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 711
+2025-03-14 12:29:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG991M.csv
+2025-03-14 12:29:50 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2025-03-14 12:29:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:50 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2025-03-14 12:29:50 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2025-03-14 12:29:50 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2025-03-14 12:29:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH139F.csv
+2025-03-14 12:29:50 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2025-03-14 12:29:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:50 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2025-03-14 12:29:50 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2025-03-14 12:29:50 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2025-03-14 12:29:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH146M.csv
+2025-03-14 12:29:51 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2025-03-14 12:29:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:51 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2025-03-14 12:29:51 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2025-03-14 12:29:51 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2025-03-14 12:29:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH063F.csv
+2025-03-14 12:29:52 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2025-03-14 12:29:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:52 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2025-03-14 12:29:52 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2025-03-14 12:29:52 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2025-03-14 12:29:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH212F.csv
+2025-03-14 12:29:53 [DEBUG] - Slide AH212F: extracting tiles from inside ROI.
+2025-03-14 12:29:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:53 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2025-03-14 12:29:53 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2025-03-14 12:29:53 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 662
+2025-03-14 12:29:54 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH073M.csv
+2025-03-14 12:29:54 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2025-03-14 12:29:54 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:54 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2025-03-14 12:29:54 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2025-03-14 12:29:54 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2025-03-14 12:29:55 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH074M.csv
+2025-03-14 12:29:55 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-03-14 12:29:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:55 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-03-14 12:29:55 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2025-03-14 12:29:55 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2025-03-14 12:29:55 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-03-14 12:29:55 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-03-14 12:29:55 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:55 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-03-14 12:29:55 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-03-14 12:29:55 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-03-14 12:29:56 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-03-14 12:29:56 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-03-14 12:29:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:56 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-03-14 12:29:56 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-03-14 12:29:56 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-03-14 12:29:57 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-03-14 12:29:57 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-03-14 12:29:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:57 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-03-14 12:29:57 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-03-14 12:29:57 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-03-14 12:29:58 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-03-14 12:29:58 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-03-14 12:29:58 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:29:58 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-03-14 12:29:58 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-03-14 12:29:58 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-03-14 12:31:47 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF104.csv
+2025-03-14 12:31:47 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-14 12:31:47 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:47 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-14 12:31:47 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-14 12:31:47 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-14 12:31:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF254F.csv
+2025-03-14 12:31:48 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-14 12:31:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:48 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-14 12:31:48 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-14 12:31:48 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-14 12:31:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF271M.csv
+2025-03-14 12:31:48 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2025-03-14 12:31:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:48 [DEBUG] - Set up coordinate grid, shape=(98, 86)
+2025-03-14 12:31:48 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2025-03-14 12:31:48 [DEBUG] - AF271M: Grid shape: (98, 86) | Tiles to extract: 391
+2025-03-14 12:31:48 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF257M.csv
+2025-03-14 12:31:48 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-14 12:31:48 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:48 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-14 12:31:48 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-14 12:31:48 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-14 12:31:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF239F.csv
+2025-03-14 12:31:49 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-14 12:31:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:49 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-14 12:31:49 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-14 12:31:49 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-14 12:31:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG034F.csv
+2025-03-14 12:31:49 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2025-03-14 12:31:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:49 [DEBUG] - Set up coordinate grid, shape=(82, 94)
+2025-03-14 12:31:49 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2025-03-14 12:31:49 [DEBUG] - AG034F: Grid shape: (82, 94) | Tiles to extract: 335
+2025-03-14 12:31:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF135M.csv
+2025-03-14 12:31:49 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-14 12:31:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:49 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:31:49 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-14 12:31:49 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-14 12:31:49 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG037F.csv
+2025-03-14 12:31:49 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-03-14 12:31:49 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:49 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-03-14 12:31:49 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-03-14 12:31:49 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-14 12:31:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG036F.csv
+2025-03-14 12:31:50 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2025-03-14 12:31:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:50 [DEBUG] - Set up coordinate grid, shape=(94, 106)
+2025-03-14 12:31:50 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2025-03-14 12:31:50 [DEBUG] - AG036F: Grid shape: (94, 106) | Tiles to extract: 370
+2025-03-14 12:31:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF259M.csv
+2025-03-14 12:31:50 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2025-03-14 12:31:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:50 [DEBUG] - Set up coordinate grid, shape=(102, 116)
+2025-03-14 12:31:50 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2025-03-14 12:31:50 [DEBUG] - AF259M: Grid shape: (102, 116) | Tiles to extract: 313
+2025-03-14 12:31:50 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG016F.csv
+2025-03-14 12:31:50 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2025-03-14 12:31:50 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:50 [DEBUG] - Set up coordinate grid, shape=(98, 103)
+2025-03-14 12:31:50 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2025-03-14 12:31:50 [DEBUG] - AG016F: Grid shape: (98, 103) | Tiles to extract: 519
+2025-03-14 12:31:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF136M.csv
+2025-03-14 12:31:51 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-14 12:31:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:51 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-14 12:31:51 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-14 12:31:51 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-14 12:31:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF102F.csv
+2025-03-14 12:31:51 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-14 12:31:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:51 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-14 12:31:51 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-14 12:31:51 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-14 12:31:51 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF130F.csv
+2025-03-14 12:31:51 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-14 12:31:51 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:51 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-14 12:31:51 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-14 12:31:51 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-14 12:31:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF238F.csv
+2025-03-14 12:31:52 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-14 12:31:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:52 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-14 12:31:52 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-14 12:31:52 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-14 12:31:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF267F.csv
+2025-03-14 12:31:52 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2025-03-14 12:31:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:52 [DEBUG] - Set up coordinate grid, shape=(110, 97)
+2025-03-14 12:31:52 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2025-03-14 12:31:52 [DEBUG] - AF267F: Grid shape: (110, 97) | Tiles to extract: 392
+2025-03-14 12:31:52 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF406M.csv
+2025-03-14 12:31:52 [DEBUG] - Slide AF406M: extracting tiles from inside ROI.
+2025-03-14 12:31:52 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:52 [DEBUG] - Set up coordinate grid, shape=(126, 119)
+2025-03-14 12:31:52 [DEBUG] - AF406M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 63743 x 60509
+2025-03-14 12:31:52 [DEBUG] - AF406M: Grid shape: (126, 119) | Tiles to extract: 252
+2025-03-14 12:31:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG032F.csv
+2025-03-14 12:31:53 [DEBUG] - Slide AG032F: extracting tiles from inside ROI.
+2025-03-14 12:31:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:53 [DEBUG] - Set up coordinate grid, shape=(118, 128)
+2025-03-14 12:31:53 [DEBUG] - AG032F: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 59759 x 64742
+2025-03-14 12:31:53 [DEBUG] - AG032F: Grid shape: (118, 128) | Tiles to extract: 818
+2025-03-14 12:31:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF113M.csv
+2025-03-14 12:31:53 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-14 12:31:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:53 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-14 12:31:53 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-14 12:31:53 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-14 12:31:53 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF436M.csv
+2025-03-14 12:31:53 [DEBUG] - Slide AF436M: extracting tiles from inside ROI.
+2025-03-14 12:31:53 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:53 [DEBUG] - Set up coordinate grid, shape=(98, 102)
+2025-03-14 12:31:53 [DEBUG] - AF436M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 51935
+2025-03-14 12:31:53 [DEBUG] - AF436M: Grid shape: (98, 102) | Tiles to extract: 401
+2025-03-14 12:31:56 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF109.csv
+2025-03-14 12:31:56 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-14 12:31:56 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:56 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-14 12:31:56 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2025-03-14 12:31:56 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 379
+2025-03-14 12:31:57 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF107.csv
+2025-03-14 12:31:57 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-14 12:31:57 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:57 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-14 12:31:57 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-14 12:31:57 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-14 12:31:58 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF434F.csv
+2025-03-14 12:31:58 [DEBUG] - Slide AF434F: extracting tiles from inside ROI.
+2025-03-14 12:31:58 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:31:58 [DEBUG] - Set up coordinate grid, shape=(114, 96)
+2025-03-14 12:31:58 [DEBUG] - AF434F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 57767 x 48495
+2025-03-14 12:31:58 [DEBUG] - AF434F: Grid shape: (114, 96) | Tiles to extract: 337
+2025-03-14 12:33:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF104.csv
+2025-03-14 12:33:10 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-14 12:33:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:10 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-14 12:33:10 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-14 12:33:10 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-14 12:33:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF254F.csv
+2025-03-14 12:33:10 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-14 12:33:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:10 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-14 12:33:10 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-14 12:33:10 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-14 12:33:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF271M.csv
+2025-03-14 12:33:10 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2025-03-14 12:33:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:10 [DEBUG] - Set up coordinate grid, shape=(98, 86)
+2025-03-14 12:33:10 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2025-03-14 12:33:10 [DEBUG] - AF271M: Grid shape: (98, 86) | Tiles to extract: 391
+2025-03-14 12:33:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF257M.csv
+2025-03-14 12:33:10 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-14 12:33:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:10 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-14 12:33:10 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-14 12:33:10 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-14 12:33:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF239F.csv
+2025-03-14 12:33:10 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-14 12:33:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:10 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-14 12:33:10 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-14 12:33:10 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-14 12:33:10 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG034F.csv
+2025-03-14 12:33:10 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2025-03-14 12:33:10 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:10 [DEBUG] - Set up coordinate grid, shape=(82, 94)
+2025-03-14 12:33:10 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2025-03-14 12:33:10 [DEBUG] - AG034F: Grid shape: (82, 94) | Tiles to extract: 335
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF135M.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:33:11 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-14 12:33:11 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG037F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-03-14 12:33:11 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-03-14 12:33:11 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG036F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(94, 106)
+2025-03-14 12:33:11 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2025-03-14 12:33:11 [DEBUG] - AG036F: Grid shape: (94, 106) | Tiles to extract: 370
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF259M.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(102, 116)
+2025-03-14 12:33:11 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2025-03-14 12:33:11 [DEBUG] - AF259M: Grid shape: (102, 116) | Tiles to extract: 313
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG016F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(98, 103)
+2025-03-14 12:33:11 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2025-03-14 12:33:11 [DEBUG] - AG016F: Grid shape: (98, 103) | Tiles to extract: 519
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF136M.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-14 12:33:11 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-14 12:33:11 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF102F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-14 12:33:11 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-14 12:33:11 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF130F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-14 12:33:11 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-14 12:33:11 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF238F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-14 12:33:11 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-14 12:33:11 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF267F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(110, 97)
+2025-03-14 12:33:11 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2025-03-14 12:33:11 [DEBUG] - AF267F: Grid shape: (110, 97) | Tiles to extract: 392
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF406M.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AF406M: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(126, 119)
+2025-03-14 12:33:11 [DEBUG] - AF406M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 63743 x 60509
+2025-03-14 12:33:11 [DEBUG] - AF406M: Grid shape: (126, 119) | Tiles to extract: 252
+2025-03-14 12:33:11 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG032F.csv
+2025-03-14 12:33:11 [DEBUG] - Slide AG032F: extracting tiles from inside ROI.
+2025-03-14 12:33:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:11 [DEBUG] - Set up coordinate grid, shape=(118, 128)
+2025-03-14 12:33:11 [DEBUG] - AG032F: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 59759 x 64742
+2025-03-14 12:33:11 [DEBUG] - AG032F: Grid shape: (118, 128) | Tiles to extract: 818
+2025-03-14 12:33:12 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF113M.csv
+2025-03-14 12:33:12 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-14 12:33:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:12 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-14 12:33:12 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-14 12:33:12 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-14 12:33:12 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF436M.csv
+2025-03-14 12:33:12 [DEBUG] - Slide AF436M: extracting tiles from inside ROI.
+2025-03-14 12:33:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:12 [DEBUG] - Set up coordinate grid, shape=(98, 102)
+2025-03-14 12:33:12 [DEBUG] - AF436M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 51935
+2025-03-14 12:33:12 [DEBUG] - AF436M: Grid shape: (98, 102) | Tiles to extract: 401
+2025-03-14 12:33:12 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF109.csv
+2025-03-14 12:33:12 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-14 12:33:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:12 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-14 12:33:12 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2025-03-14 12:33:12 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 379
+2025-03-14 12:33:12 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF107.csv
+2025-03-14 12:33:12 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-14 12:33:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:12 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-14 12:33:12 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-14 12:33:12 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-14 12:33:12 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF434F.csv
+2025-03-14 12:33:12 [DEBUG] - Slide AF434F: extracting tiles from inside ROI.
+2025-03-14 12:33:12 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:12 [DEBUG] - Set up coordinate grid, shape=(114, 96)
+2025-03-14 12:33:12 [DEBUG] - AF434F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 57767 x 48495
+2025-03-14 12:33:12 [DEBUG] - AF434F: Grid shape: (114, 96) | Tiles to extract: 337
+2025-03-14 12:33:31 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF104.csv
+2025-03-14 12:33:31 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-14 12:33:31 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:31 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-14 12:33:31 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-14 12:33:31 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-14 12:33:31 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF254F.csv
+2025-03-14 12:33:31 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-14 12:33:31 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:31 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-14 12:33:31 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-14 12:33:31 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-14 12:33:31 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF271M.csv
+2025-03-14 12:33:31 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2025-03-14 12:33:31 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:31 [DEBUG] - Set up coordinate grid, shape=(98, 86)
+2025-03-14 12:33:31 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2025-03-14 12:33:31 [DEBUG] - AF271M: Grid shape: (98, 86) | Tiles to extract: 391
+2025-03-14 12:33:31 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF257M.csv
+2025-03-14 12:33:31 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-14 12:33:31 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:31 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-14 12:33:31 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-14 12:33:31 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-14 12:33:31 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF239F.csv
+2025-03-14 12:33:31 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-14 12:33:31 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:31 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-14 12:33:31 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-14 12:33:31 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG034F.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(82, 94)
+2025-03-14 12:33:32 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2025-03-14 12:33:32 [DEBUG] - AG034F: Grid shape: (82, 94) | Tiles to extract: 335
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF135M.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:33:32 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-14 12:33:32 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG037F.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-03-14 12:33:32 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-03-14 12:33:32 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG036F.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(94, 106)
+2025-03-14 12:33:32 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2025-03-14 12:33:32 [DEBUG] - AG036F: Grid shape: (94, 106) | Tiles to extract: 370
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF259M.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(102, 116)
+2025-03-14 12:33:32 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2025-03-14 12:33:32 [DEBUG] - AF259M: Grid shape: (102, 116) | Tiles to extract: 313
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG016F.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(98, 103)
+2025-03-14 12:33:32 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2025-03-14 12:33:32 [DEBUG] - AG016F: Grid shape: (98, 103) | Tiles to extract: 519
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF136M.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-14 12:33:32 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-14 12:33:32 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF102F.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-14 12:33:32 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-14 12:33:32 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-14 12:33:32 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF130F.csv
+2025-03-14 12:33:32 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-14 12:33:32 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:32 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-14 12:33:32 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-14 12:33:32 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF238F.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-14 12:33:33 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-14 12:33:33 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF267F.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(110, 97)
+2025-03-14 12:33:33 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2025-03-14 12:33:33 [DEBUG] - AF267F: Grid shape: (110, 97) | Tiles to extract: 392
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF406M.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF406M: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(126, 119)
+2025-03-14 12:33:33 [DEBUG] - AF406M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 63743 x 60509
+2025-03-14 12:33:33 [DEBUG] - AF406M: Grid shape: (126, 119) | Tiles to extract: 252
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG032F.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AG032F: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(118, 128)
+2025-03-14 12:33:33 [DEBUG] - AG032F: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 59759 x 64742
+2025-03-14 12:33:33 [DEBUG] - AG032F: Grid shape: (118, 128) | Tiles to extract: 818
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF113M.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-14 12:33:33 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-14 12:33:33 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF436M.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF436M: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(98, 102)
+2025-03-14 12:33:33 [DEBUG] - AF436M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 51935
+2025-03-14 12:33:33 [DEBUG] - AF436M: Grid shape: (98, 102) | Tiles to extract: 401
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF109.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-14 12:33:33 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2025-03-14 12:33:33 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 379
+2025-03-14 12:33:33 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF107.csv
+2025-03-14 12:33:33 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-14 12:33:33 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:33 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-14 12:33:33 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-14 12:33:33 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-14 12:33:34 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF434F.csv
+2025-03-14 12:33:34 [DEBUG] - Slide AF434F: extracting tiles from inside ROI.
+2025-03-14 12:33:34 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:33:34 [DEBUG] - Set up coordinate grid, shape=(114, 96)
+2025-03-14 12:33:34 [DEBUG] - AF434F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 57767 x 48495
+2025-03-14 12:33:34 [DEBUG] - AF434F: Grid shape: (114, 96) | Tiles to extract: 337
+2025-03-14 12:35:59 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF104.csv
+2025-03-14 12:35:59 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-14 12:35:59 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-14 12:36:00 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-14 12:36:00 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-14 12:36:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF254F.csv
+2025-03-14 12:36:00 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-14 12:36:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-14 12:36:00 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-14 12:36:00 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-14 12:36:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF271M.csv
+2025-03-14 12:36:00 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2025-03-14 12:36:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(98, 86)
+2025-03-14 12:36:00 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2025-03-14 12:36:00 [DEBUG] - AF271M: Grid shape: (98, 86) | Tiles to extract: 391
+2025-03-14 12:36:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF257M.csv
+2025-03-14 12:36:00 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-14 12:36:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-14 12:36:00 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-14 12:36:00 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-14 12:36:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF239F.csv
+2025-03-14 12:36:00 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-14 12:36:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-14 12:36:00 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-14 12:36:00 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-14 12:36:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG034F.csv
+2025-03-14 12:36:00 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2025-03-14 12:36:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(82, 94)
+2025-03-14 12:36:00 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2025-03-14 12:36:00 [DEBUG] - AG034F: Grid shape: (82, 94) | Tiles to extract: 335
+2025-03-14 12:36:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF135M.csv
+2025-03-14 12:36:00 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-14 12:36:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:00 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:36:00 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-14 12:36:00 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-14 12:36:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG037F.csv
+2025-03-14 12:36:01 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-03-14 12:36:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:01 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-03-14 12:36:01 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-03-14 12:36:01 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-14 12:36:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG036F.csv
+2025-03-14 12:36:01 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2025-03-14 12:36:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:01 [DEBUG] - Set up coordinate grid, shape=(94, 106)
+2025-03-14 12:36:01 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2025-03-14 12:36:01 [DEBUG] - AG036F: Grid shape: (94, 106) | Tiles to extract: 370
+2025-03-14 12:36:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF259M.csv
+2025-03-14 12:36:01 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2025-03-14 12:36:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:01 [DEBUG] - Set up coordinate grid, shape=(102, 116)
+2025-03-14 12:36:01 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2025-03-14 12:36:01 [DEBUG] - AF259M: Grid shape: (102, 116) | Tiles to extract: 313
+2025-03-14 12:36:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG016F.csv
+2025-03-14 12:36:01 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2025-03-14 12:36:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:02 [DEBUG] - Set up coordinate grid, shape=(98, 103)
+2025-03-14 12:36:02 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2025-03-14 12:36:02 [DEBUG] - AG016F: Grid shape: (98, 103) | Tiles to extract: 519
+2025-03-14 12:36:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF136M.csv
+2025-03-14 12:36:02 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-14 12:36:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:02 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-14 12:36:02 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-14 12:36:02 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-14 12:36:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF102F.csv
+2025-03-14 12:36:02 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-14 12:36:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:02 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-14 12:36:02 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-14 12:36:02 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-14 12:36:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF130F.csv
+2025-03-14 12:36:02 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-14 12:36:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:02 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-14 12:36:02 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-14 12:36:02 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-14 12:36:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF238F.csv
+2025-03-14 12:36:02 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-14 12:36:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:02 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-14 12:36:02 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-14 12:36:02 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-14 12:36:03 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF267F.csv
+2025-03-14 12:36:03 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2025-03-14 12:36:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:03 [DEBUG] - Set up coordinate grid, shape=(110, 97)
+2025-03-14 12:36:03 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2025-03-14 12:36:03 [DEBUG] - AF267F: Grid shape: (110, 97) | Tiles to extract: 392
+2025-03-14 12:36:14 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF104.csv
+2025-03-14 12:36:14 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-14 12:36:14 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:14 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-14 12:36:14 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-14 12:36:14 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-14 12:36:14 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF254F.csv
+2025-03-14 12:36:14 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-14 12:36:14 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:14 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-14 12:36:14 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-14 12:36:14 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-14 12:36:14 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF271M.csv
+2025-03-14 12:36:14 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2025-03-14 12:36:14 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:14 [DEBUG] - Set up coordinate grid, shape=(98, 86)
+2025-03-14 12:36:14 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2025-03-14 12:36:14 [DEBUG] - AF271M: Grid shape: (98, 86) | Tiles to extract: 391
+2025-03-14 12:36:14 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF257M.csv
+2025-03-14 12:36:14 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-14 12:36:14 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:14 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-14 12:36:14 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-14 12:36:14 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-14 12:36:14 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF239F.csv
+2025-03-14 12:36:14 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-14 12:36:14 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:14 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-14 12:36:14 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-14 12:36:14 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-14 12:36:14 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG034F.csv
+2025-03-14 12:36:14 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2025-03-14 12:36:14 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:14 [DEBUG] - Set up coordinate grid, shape=(82, 94)
+2025-03-14 12:36:14 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2025-03-14 12:36:14 [DEBUG] - AG034F: Grid shape: (82, 94) | Tiles to extract: 335
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF135M.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:36:15 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-14 12:36:15 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG037F.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-03-14 12:36:15 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-03-14 12:36:15 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG036F.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(94, 106)
+2025-03-14 12:36:15 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2025-03-14 12:36:15 [DEBUG] - AG036F: Grid shape: (94, 106) | Tiles to extract: 370
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF259M.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(102, 116)
+2025-03-14 12:36:15 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2025-03-14 12:36:15 [DEBUG] - AF259M: Grid shape: (102, 116) | Tiles to extract: 313
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG016F.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(98, 103)
+2025-03-14 12:36:15 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2025-03-14 12:36:15 [DEBUG] - AG016F: Grid shape: (98, 103) | Tiles to extract: 519
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF136M.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-14 12:36:15 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-14 12:36:15 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-14 12:36:15 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF102F.csv
+2025-03-14 12:36:15 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-14 12:36:15 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:15 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-14 12:36:15 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-14 12:36:15 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-14 12:36:16 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF130F.csv
+2025-03-14 12:36:16 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-14 12:36:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:16 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-14 12:36:16 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-14 12:36:16 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-14 12:36:16 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF238F.csv
+2025-03-14 12:36:16 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-14 12:36:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:16 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-14 12:36:16 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-14 12:36:16 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-14 12:36:16 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF267F.csv
+2025-03-14 12:36:16 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2025-03-14 12:36:16 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:16 [DEBUG] - Set up coordinate grid, shape=(110, 97)
+2025-03-14 12:36:16 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2025-03-14 12:36:16 [DEBUG] - AF267F: Grid shape: (110, 97) | Tiles to extract: 392
+2025-03-14 12:36:17 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF406M.csv
+2025-03-14 12:36:17 [DEBUG] - Slide AF406M: extracting tiles from inside ROI.
+2025-03-14 12:36:17 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:17 [DEBUG] - Set up coordinate grid, shape=(126, 119)
+2025-03-14 12:36:17 [DEBUG] - AF406M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 63743 x 60509
+2025-03-14 12:36:17 [DEBUG] - AF406M: Grid shape: (126, 119) | Tiles to extract: 252
+2025-03-14 12:36:17 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG032F.csv
+2025-03-14 12:36:17 [DEBUG] - Slide AG032F: extracting tiles from inside ROI.
+2025-03-14 12:36:17 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:17 [DEBUG] - Set up coordinate grid, shape=(118, 128)
+2025-03-14 12:36:17 [DEBUG] - AG032F: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 59759 x 64742
+2025-03-14 12:36:17 [DEBUG] - AG032F: Grid shape: (118, 128) | Tiles to extract: 818
+2025-03-14 12:36:17 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF113M.csv
+2025-03-14 12:36:17 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-14 12:36:17 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:17 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-14 12:36:17 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-14 12:36:17 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-14 12:36:17 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF436M.csv
+2025-03-14 12:36:17 [DEBUG] - Slide AF436M: extracting tiles from inside ROI.
+2025-03-14 12:36:17 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:17 [DEBUG] - Set up coordinate grid, shape=(98, 102)
+2025-03-14 12:36:17 [DEBUG] - AF436M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 51935
+2025-03-14 12:36:17 [DEBUG] - AF436M: Grid shape: (98, 102) | Tiles to extract: 401
+2025-03-14 12:36:17 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF109.csv
+2025-03-14 12:36:17 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-14 12:36:17 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:17 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-14 12:36:17 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2025-03-14 12:36:17 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 379
+2025-03-14 12:36:18 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF107.csv
+2025-03-14 12:36:18 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-14 12:36:18 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:18 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-14 12:36:18 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-14 12:36:18 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-14 12:36:18 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF434F.csv
+2025-03-14 12:36:18 [DEBUG] - Slide AF434F: extracting tiles from inside ROI.
+2025-03-14 12:36:18 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:36:18 [DEBUG] - Set up coordinate grid, shape=(114, 96)
+2025-03-14 12:36:18 [DEBUG] - AF434F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 57767 x 48495
+2025-03-14 12:36:18 [DEBUG] - AF434F: Grid shape: (114, 96) | Tiles to extract: 337
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF104.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-03-14 12:37:28 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-03-14 12:37:28 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 347
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF254F.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-03-14 12:37:28 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-03-14 12:37:28 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 353
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF271M.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(98, 86)
+2025-03-14 12:37:28 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2025-03-14 12:37:28 [DEBUG] - AF271M: Grid shape: (98, 86) | Tiles to extract: 391
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF257M.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-03-14 12:37:28 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2025-03-14 12:37:28 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF239F.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-03-14 12:37:28 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2025-03-14 12:37:28 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 332
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG034F.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(82, 94)
+2025-03-14 12:37:28 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2025-03-14 12:37:28 [DEBUG] - AG034F: Grid shape: (82, 94) | Tiles to extract: 335
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF135M.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:37:28 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-03-14 12:37:28 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG037F.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(98, 110)
+2025-03-14 12:37:28 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2025-03-14 12:37:28 [DEBUG] - AG037F: Grid shape: (98, 110) | Tiles to extract: 461
+2025-03-14 12:37:28 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG036F.csv
+2025-03-14 12:37:28 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2025-03-14 12:37:28 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:28 [DEBUG] - Set up coordinate grid, shape=(94, 106)
+2025-03-14 12:37:28 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2025-03-14 12:37:28 [DEBUG] - AG036F: Grid shape: (94, 106) | Tiles to extract: 370
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF259M.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(102, 116)
+2025-03-14 12:37:29 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2025-03-14 12:37:29 [DEBUG] - AF259M: Grid shape: (102, 116) | Tiles to extract: 313
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG016F.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(98, 103)
+2025-03-14 12:37:29 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2025-03-14 12:37:29 [DEBUG] - AG016F: Grid shape: (98, 103) | Tiles to extract: 519
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF136M.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-03-14 12:37:29 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2025-03-14 12:37:29 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF102F.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-03-14 12:37:29 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2025-03-14 12:37:29 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF130F.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-03-14 12:37:29 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2025-03-14 12:37:29 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 283
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF238F.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-03-14 12:37:29 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-03-14 12:37:29 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 383
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF267F.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(110, 97)
+2025-03-14 12:37:29 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2025-03-14 12:37:29 [DEBUG] - AF267F: Grid shape: (110, 97) | Tiles to extract: 392
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF406M.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF406M: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(126, 119)
+2025-03-14 12:37:29 [DEBUG] - AF406M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 63743 x 60509
+2025-03-14 12:37:29 [DEBUG] - AF406M: Grid shape: (126, 119) | Tiles to extract: 252
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG032F.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AG032F: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(118, 128)
+2025-03-14 12:37:29 [DEBUG] - AG032F: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 59759 x 64742
+2025-03-14 12:37:29 [DEBUG] - AG032F: Grid shape: (118, 128) | Tiles to extract: 818
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF113M.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-03-14 12:37:29 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-03-14 12:37:29 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF436M.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF436M: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(98, 102)
+2025-03-14 12:37:29 [DEBUG] - AF436M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 51935
+2025-03-14 12:37:29 [DEBUG] - AF436M: Grid shape: (98, 102) | Tiles to extract: 401
+2025-03-14 12:37:29 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF109.csv
+2025-03-14 12:37:29 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-03-14 12:37:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:29 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-03-14 12:37:29 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2025-03-14 12:37:29 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 379
+2025-03-14 12:37:30 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF107.csv
+2025-03-14 12:37:30 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-03-14 12:37:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:30 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-03-14 12:37:30 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-03-14 12:37:30 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-03-14 12:37:30 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF434F.csv
+2025-03-14 12:37:30 [DEBUG] - Slide AF434F: extracting tiles from inside ROI.
+2025-03-14 12:37:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:30 [DEBUG] - Set up coordinate grid, shape=(114, 96)
+2025-03-14 12:37:30 [DEBUG] - AF434F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 57767 x 48495
+2025-03-14 12:37:30 [DEBUG] - AF434F: Grid shape: (114, 96) | Tiles to extract: 337
+2025-03-14 12:37:30 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG033F.csv
+2025-03-14 12:37:30 [DEBUG] - Slide AG033F: extracting tiles from inside ROI.
+2025-03-14 12:37:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:30 [DEBUG] - Set up coordinate grid, shape=(90, 93)
+2025-03-14 12:37:30 [DEBUG] - AG033F: Slide info: 0.2532 um/px | 17 ROI(s) | Size: 45815 x 47068
+2025-03-14 12:37:30 [DEBUG] - AG033F: Grid shape: (90, 93) | Tiles to extract: 804
+2025-03-14 12:37:30 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF252.csv
+2025-03-14 12:37:30 [DEBUG] - Slide AF252: extracting tiles from inside ROI.
+2025-03-14 12:37:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:30 [DEBUG] - Set up coordinate grid, shape=(106, 84)
+2025-03-14 12:37:30 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2025-03-14 12:37:30 [DEBUG] - AF252: Grid shape: (106, 84) | Tiles to extract: 306
+2025-03-14 12:37:30 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AF110F.csv
+2025-03-14 12:37:30 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-03-14 12:37:30 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:31 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-03-14 12:37:31 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-03-14 12:37:31 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-03-14 12:37:31 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp1/AG020F.csv
+2025-03-14 12:37:31 [DEBUG] - Slide AG020F: extracting tiles from inside ROI.
+2025-03-14 12:37:31 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:37:31 [DEBUG] - Set up coordinate grid, shape=(98, 106)
+2025-03-14 12:37:31 [DEBUG] - AG020F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 53557
+2025-03-14 12:37:31 [DEBUG] - AG020F: Grid shape: (98, 106) | Tiles to extract: 303
+2025-03-14 12:40:00 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ578M.csv
+2025-03-14 12:40:00 [DEBUG] - Slide AJ578M: extracting tiles from inside ROI.
+2025-03-14 12:40:00 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:00 [DEBUG] - Set up coordinate grid, shape=(126, 113)
+2025-03-14 12:40:00 [DEBUG] - AJ578M: Slide info: 0.263492 um/px | 4 ROI(s) | Size: 61364 x 54858
+2025-03-14 12:40:00 [DEBUG] - AJ578M: Grid shape: (126, 113) | Tiles to extract: 394
+2025-03-14 12:40:01 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ395M.csv
+2025-03-14 12:40:01 [DEBUG] - Slide AJ395M: extracting tiles from inside ROI.
+2025-03-14 12:40:01 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:01 [DEBUG] - Set up coordinate grid, shape=(130, 129)
+2025-03-14 12:40:01 [DEBUG] - AJ395M: Slide info: 0.263492 um/px | 4 ROI(s) | Size: 63335 x 62744
+2025-03-14 12:40:01 [DEBUG] - AJ395M: Grid shape: (130, 129) | Tiles to extract: 435
+2025-03-14 12:40:02 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ404M.csv
+2025-03-14 12:40:02 [DEBUG] - Slide AJ404M: extracting tiles from inside ROI.
+2025-03-14 12:40:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:02 [DEBUG] - Set up coordinate grid, shape=(123, 119)
+2025-03-14 12:40:02 [DEBUG] - AJ404M: Slide info: 0.263492 um/px | 5 ROI(s) | Size: 59984 x 57815
+2025-03-14 12:40:02 [DEBUG] - AJ404M: Grid shape: (123, 119) | Tiles to extract: 447
+2025-03-14 12:40:03 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ393M.csv
+2025-03-14 12:40:03 [DEBUG] - Slide AJ393M: extracting tiles from inside ROI.
+2025-03-14 12:40:03 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:03 [DEBUG] - Set up coordinate grid, shape=(127, 119)
+2025-03-14 12:40:03 [DEBUG] - AJ393M: Slide info: 0.263492 um/px | 5 ROI(s) | Size: 61955 x 58012
+2025-03-14 12:40:03 [DEBUG] - AJ393M: Grid shape: (127, 119) | Tiles to extract: 255
+2025-03-14 12:40:04 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ483F.csv
+2025-03-14 12:40:04 [DEBUG] - Slide AJ483F: extracting tiles from inside ROI.
+2025-03-14 12:40:04 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:04 [DEBUG] - Set up coordinate grid, shape=(107, 108)
+2025-03-14 12:40:04 [DEBUG] - AJ483F: Slide info: 0.263492 um/px | 4 ROI(s) | Size: 52098 x 52689
+2025-03-14 12:40:04 [DEBUG] - AJ483F: Grid shape: (107, 108) | Tiles to extract: 339
+2025-03-14 12:40:05 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ407M.csv
+2025-03-14 12:40:05 [DEBUG] - Slide AJ407M: extracting tiles from inside ROI.
+2025-03-14 12:40:05 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:05 [DEBUG] - Set up coordinate grid, shape=(128, 132)
+2025-03-14 12:40:05 [DEBUG] - AJ407M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 62350 x 64321
+2025-03-14 12:40:05 [DEBUG] - AJ407M: Grid shape: (128, 132) | Tiles to extract: 449
+2025-03-14 12:40:06 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ572M.csv
+2025-03-14 12:40:06 [DEBUG] - Slide AJ572M: extracting tiles from inside ROI.
+2025-03-14 12:40:06 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:06 [DEBUG] - Set up coordinate grid, shape=(118, 124)
+2025-03-14 12:40:06 [DEBUG] - AJ572M: Slide info: 0.263492 um/px | 5 ROI(s) | Size: 57421 x 60575
+2025-03-14 12:40:06 [DEBUG] - AJ572M: Grid shape: (118, 124) | Tiles to extract: 346
+2025-03-14 12:40:07 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ396M.csv
+2025-03-14 12:40:07 [DEBUG] - Slide AJ396M: extracting tiles from inside ROI.
+2025-03-14 12:40:07 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:07 [DEBUG] - Set up coordinate grid, shape=(134, 114)
+2025-03-14 12:40:07 [DEBUG] - AJ396M: Slide info: 0.263492 um/px | 3 ROI(s) | Size: 65307 x 55449
+2025-03-14 12:40:07 [DEBUG] - AJ396M: Grid shape: (134, 114) | Tiles to extract: 388
+2025-03-14 12:40:08 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ406M.csv
+2025-03-14 12:40:08 [DEBUG] - Slide AJ406M: extracting tiles from inside ROI.
+2025-03-14 12:40:08 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:08 [DEBUG] - Set up coordinate grid, shape=(142, 127)
+2025-03-14 12:40:08 [DEBUG] - AJ406M: Slide info: 0.263492 um/px | 9 ROI(s) | Size: 69250 x 61758
+2025-03-14 12:40:08 [DEBUG] - AJ406M: Grid shape: (142, 127) | Tiles to extract: 611
+2025-03-14 12:40:09 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ409M.csv
+2025-03-14 12:40:09 [DEBUG] - Slide AJ409M: extracting tiles from inside ROI.
+2025-03-14 12:40:09 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:09 [DEBUG] - Set up coordinate grid, shape=(147, 135)
+2025-03-14 12:40:09 [DEBUG] - AJ409M: Slide info: 0.263492 um/px | 3 ROI(s) | Size: 71419 x 65504
+2025-03-14 12:40:09 [DEBUG] - AJ409M: Grid shape: (147, 135) | Tiles to extract: 413
+2025-03-14 12:40:09 [DEBUG] - Loaded ROIs from /home/joeychan/cancer_project/Cancer_Project_2025/Anna/exp3/AJ583M.csv
+2025-03-14 12:40:09 [DEBUG] - Slide AJ583M: extracting tiles from inside ROI.
+2025-03-14 12:40:09 [DEBUG] - Slide origin: (0, 0)
+2025-03-14 12:40:09 [DEBUG] - Set up coordinate grid, shape=(116, 123)
+2025-03-14 12:40:09 [DEBUG] - AJ583M: Slide info: 0.263492 um/px | 2 ROI(s) | Size: 56632 x 59787
+2025-03-14 12:40:09 [DEBUG] - AJ583M: Grid shape: (116, 123) | Tiles to extract: 470
+2025-03-20 23:35:11 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-20 23:35:11 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-20 23:35:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-20 23:35:11 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-20 23:35:11 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-20 23:35:11 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-20 23:35:11 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-20 23:35:11 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-20 23:35:11 [DEBUG] - Slide origin: (0, 0)
+2025-03-20 23:35:11 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-20 23:35:11 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-20 23:35:11 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-20 23:35:11 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-20 23:35:12 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-20 23:39:29 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-20 23:39:29 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-20 23:39:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-20 23:39:29 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-20 23:39:29 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-20 23:39:29 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-20 23:39:29 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-20 23:39:29 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-20 23:39:29 [DEBUG] - Slide origin: (0, 0)
+2025-03-20 23:39:29 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-20 23:39:29 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-20 23:39:29 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-20 23:40:02 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2025-03-20 23:40:02 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-20 23:40:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-20 23:40:02 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-20 23:40:02 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2025-03-20 23:40:02 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 576
+2025-03-20 23:40:02 [DEBUG] - Loaded ROIs from /home/joeychan/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-03-20 23:40:02 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-03-20 23:40:02 [DEBUG] - Slide origin: (0, 0)
+2025-03-20 23:40:02 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-03-20 23:40:02 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-03-20 23:40:02 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-03-20 23:40:02 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-03-20 23:40:03 [DEBUG] - Requesting thumbnail at level=2, width=1024
