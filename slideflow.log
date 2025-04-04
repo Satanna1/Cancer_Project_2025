@@ -7772,3 +7772,143 @@
 2025-04-04 03:37:14 [DEBUG] - Set up coordinate grid, shape=(128, 100)
 2025-04-04 03:37:14 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
 2025-04-04 03:37:14 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-04-04 17:21:58 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-04-04 17:21:58 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:21:58 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:21:58 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:21:58 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:21:58 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:21:59 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-04-04 17:21:59 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:21:59 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:21:59 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:21:59 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:21:59 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:21:59 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:21:59 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:22:21 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-04-04 17:22:21 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:22:21 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:22:21 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:22:21 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:22:21 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:22:21 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-04-04 17:22:21 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:22:21 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:22:21 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:22:21 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:22:21 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:22:21 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:22:21 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:30:53 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-04-04 17:30:53 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:30:53 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:30:53 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:30:53 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:30:53 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:30:55 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-04-04 17:30:55 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:30:55 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:30:55 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:30:55 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:30:55 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:30:55 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:30:55 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:37:33 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-04-04 17:37:33 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:37:33 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:37:33 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:37:33 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:37:33 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:37:33 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-04-04 17:37:33 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:37:33 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:37:33 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:37:33 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:37:33 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-04-04 17:37:33 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:37:33 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-04-04 17:38:45 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF104.csv
+2025-04-04 17:38:45 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2025-04-04 17:38:45 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:45 [DEBUG] - Set up coordinate grid, shape=(102, 85)
+2025-04-04 17:38:45 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2025-04-04 17:38:45 [DEBUG] - AF104: Grid shape: (102, 85) | Tiles to extract: 348
+2025-04-04 17:38:46 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF254F.csv
+2025-04-04 17:38:46 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2025-04-04 17:38:46 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:46 [DEBUG] - Set up coordinate grid, shape=(102, 102)
+2025-04-04 17:38:46 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2025-04-04 17:38:46 [DEBUG] - AF254F: Grid shape: (102, 102) | Tiles to extract: 360
+2025-04-04 17:38:46 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF257M.csv
+2025-04-04 17:38:46 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2025-04-04 17:38:46 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:47 [DEBUG] - Set up coordinate grid, shape=(94, 98)
+2025-04-04 17:38:47 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 49989
+2025-04-04 17:38:47 [DEBUG] - AF257M: Grid shape: (94, 98) | Tiles to extract: 315
+2025-04-04 17:38:47 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF239F.csv
+2025-04-04 17:38:47 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2025-04-04 17:38:47 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:47 [DEBUG] - Set up coordinate grid, shape=(90, 109)
+2025-04-04 17:38:47 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 45815 x 55198
+2025-04-04 17:38:47 [DEBUG] - AF239F: Grid shape: (90, 109) | Tiles to extract: 327
+2025-04-04 17:38:48 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF135M.csv
+2025-04-04 17:38:48 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2025-04-04 17:38:48 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:48 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:38:48 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2025-04-04 17:38:48 [DEBUG] - AF135M: Grid shape: (98, 105) | Tiles to extract: 337
+2025-04-04 17:38:49 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF136M.csv
+2025-04-04 17:38:49 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2025-04-04 17:38:49 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:49 [DEBUG] - Set up coordinate grid, shape=(94, 74)
+2025-04-04 17:38:49 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 37474
+2025-04-04 17:38:49 [DEBUG] - AF136M: Grid shape: (94, 74) | Tiles to extract: 348
+2025-04-04 17:38:50 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF102F.csv
+2025-04-04 17:38:50 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2025-04-04 17:38:50 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:50 [DEBUG] - Set up coordinate grid, shape=(98, 97)
+2025-04-04 17:38:50 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2025-04-04 17:38:50 [DEBUG] - AF102F: Grid shape: (98, 97) | Tiles to extract: 353
+2025-04-04 17:38:50 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF130F.csv
+2025-04-04 17:38:50 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2025-04-04 17:38:50 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:50 [DEBUG] - Set up coordinate grid, shape=(90, 78)
+2025-04-04 17:38:50 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 45815 x 39429
+2025-04-04 17:38:50 [DEBUG] - AF130F: Grid shape: (90, 78) | Tiles to extract: 282
+2025-04-04 17:38:51 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF238F.csv
+2025-04-04 17:38:51 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2025-04-04 17:38:51 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:51 [DEBUG] - Set up coordinate grid, shape=(94, 105)
+2025-04-04 17:38:51 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2025-04-04 17:38:51 [DEBUG] - AF238F: Grid shape: (94, 105) | Tiles to extract: 386
+2025-04-04 17:38:52 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF113M.csv
+2025-04-04 17:38:52 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2025-04-04 17:38:52 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:52 [DEBUG] - Set up coordinate grid, shape=(106, 100)
+2025-04-04 17:38:52 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2025-04-04 17:38:52 [DEBUG] - AF113M: Grid shape: (106, 100) | Tiles to extract: 347
+2025-04-04 17:38:52 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF109.csv
+2025-04-04 17:38:52 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2025-04-04 17:38:52 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:52 [DEBUG] - Set up coordinate grid, shape=(98, 87)
+2025-04-04 17:38:52 [DEBUG] - AF109: Slide info: 0.2532 um/px | 14 ROI(s) | Size: 49800 x 44292
+2025-04-04 17:38:52 [DEBUG] - AF109: Grid shape: (98, 87) | Tiles to extract: 383
+2025-04-04 17:38:53 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF107.csv
+2025-04-04 17:38:53 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2025-04-04 17:38:53 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:53 [DEBUG] - Set up coordinate grid, shape=(102, 91)
+2025-04-04 17:38:53 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2025-04-04 17:38:53 [DEBUG] - AF107: Grid shape: (102, 91) | Tiles to extract: 257
+2025-04-04 17:38:54 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF252.csv
+2025-04-04 17:38:54 [DEBUG] - Slide AF252: extracting tiles from inside ROI.
+2025-04-04 17:38:54 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:54 [DEBUG] - Set up coordinate grid, shape=(106, 84)
+2025-04-04 17:38:54 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2025-04-04 17:38:54 [DEBUG] - AF252: Grid shape: (106, 84) | Tiles to extract: 306
+2025-04-04 17:38:54 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp1/AF110F.csv
+2025-04-04 17:38:54 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-04-04 17:38:54 [DEBUG] - Slide origin: (0, 0)
+2025-04-04 17:38:54 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-04-04 17:38:54 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-04-04 17:38:54 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
