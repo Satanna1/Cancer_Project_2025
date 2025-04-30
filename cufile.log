@@ -21,3 +21,5 @@
  04-04-2025 17:21:55:113 [pid=3910787 tid=3910787] NOTICE  cufio-drv:830 running in compatible mode
  04-04-2025 17:30:49:147 [pid=3912076 tid=3912076] NOTICE  cufio-drv:830 running in compatible mode
  17-04-2025 19:11:36:320 [pid=7642 tid=7642] NOTICE  cufio-drv:830 running in compatible mode
+ 25-04-2025 09:10:44:686 [pid=15779 tid=15779] NOTICE  cufio-drv:830 running in compatible mode
+ 25-04-2025 12:00:44:503 [pid=20966 tid=20966] NOTICE  cufio-drv:830 running in compatible mode
