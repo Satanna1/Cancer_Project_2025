@@ -1,0 +1,3032 @@
+roi_name,label,x_base,y_base
+ROI_17,Invasive carcinoma,60996,7248
+ROI_17,Invasive carcinoma,60935,7241
+ROI_17,Invasive carcinoma,60927,7233
+ROI_17,Invasive carcinoma,60760,7233
+ROI_17,Invasive carcinoma,60753,7241
+ROI_17,Invasive carcinoma,60684,7241
+ROI_17,Invasive carcinoma,60677,7233
+ROI_17,Invasive carcinoma,60593,7233
+ROI_17,Invasive carcinoma,60586,7226
+ROI_17,Invasive carcinoma,60404,7226
+ROI_17,Invasive carcinoma,60396,7233
+ROI_17,Invasive carcinoma,60328,7233
+ROI_17,Invasive carcinoma,60320,7241
+ROI_17,Invasive carcinoma,60244,7241
+ROI_17,Invasive carcinoma,60199,7256
+ROI_17,Invasive carcinoma,60168,7256
+ROI_17,Invasive carcinoma,60085,7286
+ROI_17,Invasive carcinoma,59986,7294
+ROI_17,Invasive carcinoma,59979,7286
+ROI_17,Invasive carcinoma,59872,7279
+ROI_17,Invasive carcinoma,59751,7218
+ROI_17,Invasive carcinoma,59660,7203
+ROI_17,Invasive carcinoma,59652,7195
+ROI_17,Invasive carcinoma,59599,7195
+ROI_17,Invasive carcinoma,59591,7188
+ROI_17,Invasive carcinoma,59456.4602272727,7192.98295454546
+ROI_17,Invasive carcinoma,59452,7135
+ROI_17,Invasive carcinoma,59440,7147
+ROI_17,Invasive carcinoma,59392,7147
+ROI_17,Invasive carcinoma,59093,7207
+ROI_17,Invasive carcinoma,58949,7267
+ROI_17,Invasive carcinoma,58854,7279
+ROI_17,Invasive carcinoma,58782,7303
+ROI_17,Invasive carcinoma,58710,7339
+ROI_17,Invasive carcinoma,58614,7363
+ROI_17,Invasive carcinoma,58387,7483
+ROI_17,Invasive carcinoma,58279,7602
+ROI_17,Invasive carcinoma,58123,7722
+ROI_17,Invasive carcinoma,58190,7670
+ROI_17,Invasive carcinoma,58149,7689
+ROI_17,Invasive carcinoma,58127,7711
+ROI_17,Invasive carcinoma,58035,7764
+ROI_17,Invasive carcinoma,57914,7886
+ROI_17,Invasive carcinoma,57899,7924
+ROI_17,Invasive carcinoma,57876,7954
+ROI_17,Invasive carcinoma,57876,7969
+ROI_17,Invasive carcinoma,57846,8030
+ROI_17,Invasive carcinoma,57830,8045
+ROI_17,Invasive carcinoma,57815,8114
+ROI_17,Invasive carcinoma,57800,8144
+ROI_17,Invasive carcinoma,57793,8197
+ROI_17,Invasive carcinoma,57770,8250
+ROI_17,Invasive carcinoma,57755,8311
+ROI_17,Invasive carcinoma,57755,8569
+ROI_17,Invasive carcinoma,57777,8660
+ROI_17,Invasive carcinoma,57777,8698
+ROI_17,Invasive carcinoma,57823,8835
+ROI_17,Invasive carcinoma,57868,8933
+ROI_17,Invasive carcinoma,57899,8979
+ROI_17,Invasive carcinoma,57914,9032
+ROI_17,Invasive carcinoma,57937,9070
+ROI_17,Invasive carcinoma,57944,9100
+ROI_17,Invasive carcinoma,57960,9116
+ROI_17,Invasive carcinoma,57990,9214
+ROI_17,Invasive carcinoma,58005,9237
+ROI_17,Invasive carcinoma,58164,9396
+ROI_17,Invasive carcinoma,58218,9419
+ROI_17,Invasive carcinoma,58256,9419
+ROI_17,Invasive carcinoma,58324,9457
+ROI_17,Invasive carcinoma,58392,9518
+ROI_17,Invasive carcinoma,58438,9586
+ROI_17,Invasive carcinoma,58468,9616
+ROI_17,Invasive carcinoma,58522,9647
+ROI_17,Invasive carcinoma,58519.5183129856,9635.73695893452
+ROI_17,Invasive carcinoma,58566,9793
+ROI_17,Invasive carcinoma,58578,9877
+ROI_17,Invasive carcinoma,58638,10021
+ROI_17,Invasive carcinoma,58674,10153
+ROI_17,Invasive carcinoma,58722,10368
+ROI_17,Invasive carcinoma,58722,10536
+ROI_17,Invasive carcinoma,58698,10608
+ROI_17,Invasive carcinoma,58698,10667
+ROI_17,Invasive carcinoma,58674,10811
+ROI_17,Invasive carcinoma,58674,11051
+ROI_17,Invasive carcinoma,58722,11266
+ROI_17,Invasive carcinoma,58734,11362
+ROI_17,Invasive carcinoma,58770,11446
+ROI_17,Invasive carcinoma,58806,11577
+ROI_17,Invasive carcinoma,58818,11661
+ROI_17,Invasive carcinoma,58818,11745
+ROI_17,Invasive carcinoma,58878,11913
+ROI_17,Invasive carcinoma,59009,12056
+ROI_17,Invasive carcinoma,59081,12188
+ROI_17,Invasive carcinoma,59105,12248
+ROI_17,Invasive carcinoma,59105,12415
+ROI_17,Invasive carcinoma,59081,12523
+ROI_17,Invasive carcinoma,59081,12631
+ROI_17,Invasive carcinoma,59069,12715
+ROI_17,Invasive carcinoma,58997,13110
+ROI_17,Invasive carcinoma,58973,13158
+ROI_17,Invasive carcinoma,58938,13301
+ROI_17,Invasive carcinoma,58806,13565
+ROI_17,Invasive carcinoma,58734,13673
+ROI_17,Invasive carcinoma,58650,13780
+ROI_17,Invasive carcinoma,58411,14056
+ROI_17,Invasive carcinoma,58303,14151
+ROI_17,Invasive carcinoma,58243,14187
+ROI_17,Invasive carcinoma,58183,14247
+ROI_17,Invasive carcinoma,58052,14355
+ROI_17,Invasive carcinoma,57980,14391
+ROI_17,Invasive carcinoma,57740,14594
+ROI_17,Invasive carcinoma,57656,14642
+ROI_17,Invasive carcinoma,57597,14702
+ROI_17,Invasive carcinoma,57513,14762
+ROI_17,Invasive carcinoma,57345,14942
+ROI_17,Invasive carcinoma,57285,15061
+ROI_17,Invasive carcinoma,57106,15313
+ROI_17,Invasive carcinoma,57046,15444
+ROI_17,Invasive carcinoma,57010,15492
+ROI_17,Invasive carcinoma,56986,15600
+ROI_17,Invasive carcinoma,56950,15672
+ROI_17,Invasive carcinoma,56938,15768
+ROI_17,Invasive carcinoma,56902,15828
+ROI_17,Invasive carcinoma,56890,15911
+ROI_17,Invasive carcinoma,56854,15995
+ROI_17,Invasive carcinoma,56830,16079
+ROI_17,Invasive carcinoma,56794,16283
+ROI_17,Invasive carcinoma,56794,16642
+ROI_17,Invasive carcinoma,56830,16785
+ROI_17,Invasive carcinoma,56974,17109
+ROI_17,Invasive carcinoma,57082,17192
+ROI_17,Invasive carcinoma,57201,17252
+ROI_17,Invasive carcinoma,57209.4375,17253.6875
+ROI_17,Invasive carcinoma,57223,17275
+ROI_17,Invasive carcinoma,57238,17328
+ROI_17,Invasive carcinoma,57276,17389
+ROI_17,Invasive carcinoma,57299,17465
+ROI_17,Invasive carcinoma,57337,17533
+ROI_17,Invasive carcinoma,57413,17602
+ROI_17,Invasive carcinoma,57466,17624
+ROI_17,Invasive carcinoma,57580,17624
+ROI_17,Invasive carcinoma,57588,17617
+ROI_17,Invasive carcinoma,57679,17609
+ROI_17,Invasive carcinoma,57884,17541
+ROI_17,Invasive carcinoma,58035,17526
+ROI_17,Invasive carcinoma,58096,17495
+ROI_17,Invasive carcinoma,58210,17457
+ROI_17,Invasive carcinoma,58263,17450
+ROI_17,Invasive carcinoma,58438,17374
+ROI_17,Invasive carcinoma,58529,17313
+ROI_17,Invasive carcinoma,58597,17283
+ROI_17,Invasive carcinoma,58727.4340166099,17164.5141375834
+ROI_17,Invasive carcinoma,58758,17157
+ROI_17,Invasive carcinoma,58818,17157
+ROI_17,Invasive carcinoma,58878,17133
+ROI_17,Invasive carcinoma,58914,17133
+ROI_17,Invasive carcinoma,59021,17097
+ROI_17,Invasive carcinoma,59093,17085
+ROI_17,Invasive carcinoma,59261,17037
+ROI_17,Invasive carcinoma,59524,16941
+ROI_17,Invasive carcinoma,59584,16893
+ROI_17,Invasive carcinoma,59656,16869
+ROI_17,Invasive carcinoma,59788,16785
+ROI_17,Invasive carcinoma,60015,16582
+ROI_17,Invasive carcinoma,60578,16007
+ROI_17,Invasive carcinoma,60633.6196260569,15960.3092771228
+ROI_17,Invasive carcinoma,60700,15932
+ROI_17,Invasive carcinoma,60776,15879
+ROI_17,Invasive carcinoma,60813,15841
+ROI_17,Invasive carcinoma,60897,15787
+ROI_17,Invasive carcinoma,60935,15772
+ROI_17,Invasive carcinoma,60973,15742
+ROI_17,Invasive carcinoma,61026,15719
+ROI_17,Invasive carcinoma,61041,15704
+ROI_17,Invasive carcinoma,61132,15666
+ROI_17,Invasive carcinoma,61147,15651
+ROI_17,Invasive carcinoma,61239,15605
+ROI_17,Invasive carcinoma,61254,15605
+ROI_17,Invasive carcinoma,61292,15583
+ROI_17,Invasive carcinoma,61383,15552
+ROI_17,Invasive carcinoma,61443,15514
+ROI_17,Invasive carcinoma,61527,15476
+ROI_17,Invasive carcinoma,61679,15378
+ROI_17,Invasive carcinoma,61853,15233
+ROI_17,Invasive carcinoma,61869,15233
+ROI_17,Invasive carcinoma,61884,15218
+ROI_17,Invasive carcinoma,61929,15203
+ROI_17,Invasive carcinoma,61982,15165
+ROI_17,Invasive carcinoma,62127,15013
+ROI_17,Invasive carcinoma,62180,14907
+ROI_17,Invasive carcinoma,62233,14846
+ROI_17,Invasive carcinoma,62278,14770
+ROI_17,Invasive carcinoma,62301,14694
+ROI_17,Invasive carcinoma,62324,14664
+ROI_17,Invasive carcinoma,62324,14649
+ROI_17,Invasive carcinoma,62347,14611
+ROI_17,Invasive carcinoma,62400,14436
+ROI_17,Invasive carcinoma,62415,14414
+ROI_17,Invasive carcinoma,62430,14338
+ROI_17,Invasive carcinoma,62499,14148
+ROI_17,Invasive carcinoma,62506,14087
+ROI_17,Invasive carcinoma,62514,14080
+ROI_17,Invasive carcinoma,62529,14011
+ROI_17,Invasive carcinoma,62658,13753
+ROI_17,Invasive carcinoma,62719,13670
+ROI_17,Invasive carcinoma,62726,13639
+ROI_17,Invasive carcinoma,62757,13586
+ROI_17,Invasive carcinoma,62787,13488
+ROI_17,Invasive carcinoma,62833,13396
+ROI_17,Invasive carcinoma,62848,13328
+ROI_17,Invasive carcinoma,62870,13275
+ROI_17,Invasive carcinoma,62886,13192
+ROI_17,Invasive carcinoma,62908,13123
+ROI_17,Invasive carcinoma,62931,13085
+ROI_17,Invasive carcinoma,62939,13040
+ROI_17,Invasive carcinoma,62954,13017
+ROI_17,Invasive carcinoma,62962,12971
+ROI_17,Invasive carcinoma,62984,12918
+ROI_17,Invasive carcinoma,63007,12782
+ROI_17,Invasive carcinoma,63015,12774
+ROI_17,Invasive carcinoma,63015,12744
+ROI_17,Invasive carcinoma,63022,12736
+ROI_17,Invasive carcinoma,63022,12706
+ROI_17,Invasive carcinoma,63030,12698
+ROI_17,Invasive carcinoma,63037,12508
+ROI_17,Invasive carcinoma,63030,12501
+ROI_17,Invasive carcinoma,63030,12410
+ROI_17,Invasive carcinoma,63022,12402
+ROI_17,Invasive carcinoma,63015,12167
+ROI_17,Invasive carcinoma,63007,12159
+ROI_17,Invasive carcinoma,63007,12099
+ROI_17,Invasive carcinoma,63000,12091
+ROI_17,Invasive carcinoma,63000,12007
+ROI_17,Invasive carcinoma,62992,12000
+ROI_17,Invasive carcinoma,62992,11787
+ROI_17,Invasive carcinoma,62984,11780
+ROI_17,Invasive carcinoma,62984,11727
+ROI_17,Invasive carcinoma,62992,11719
+ROI_17,Invasive carcinoma,62992,11499
+ROI_17,Invasive carcinoma,63000,11491
+ROI_17,Invasive carcinoma,62992,11484
+ROI_17,Invasive carcinoma,62992,11423
+ROI_17,Invasive carcinoma,62984,11415
+ROI_17,Invasive carcinoma,62984,11377
+ROI_17,Invasive carcinoma,62969,11332
+ROI_17,Invasive carcinoma,62962,11264
+ROI_17,Invasive carcinoma,62931,11195
+ROI_17,Invasive carcinoma,62931,11180
+ROI_17,Invasive carcinoma,62863,11036
+ROI_17,Invasive carcinoma,62833,10990
+ROI_17,Invasive carcinoma,62742.025477707,10883.2038216561
+ROI_17,Invasive carcinoma,62733,10811
+ROI_17,Invasive carcinoma,62697,10679
+ROI_17,Invasive carcinoma,62661,10560
+ROI_17,Invasive carcinoma,62601,10416
+ROI_17,Invasive carcinoma,62493,10069
+ROI_17,Invasive carcinoma,62386,9638
+ROI_17,Invasive carcinoma,62170,8991
+ROI_17,Invasive carcinoma,62110,8848
+ROI_17,Invasive carcinoma,62050,8656
+ROI_17,Invasive carcinoma,62026,8512
+ROI_17,Invasive carcinoma,61991,8381
+ROI_17,Invasive carcinoma,61883,8093
+ROI_17,Invasive carcinoma,61607,7698
+ROI_17,Invasive carcinoma,61548,7590
+ROI_17,Invasive carcinoma,61464,7483
+ROI_17,Invasive carcinoma,61416,7459
+ROI_17,Invasive carcinoma,61356,7411
+ROI_17,Invasive carcinoma,61248,7363
+ROI_17,Invasive carcinoma,61239.9413919414,7361.94505494506
+ROI_17,Invasive carcinoma,61208,7332
+ROI_17,Invasive carcinoma,61117,7286
+ROI_17,Invasive carcinoma,61094,7286
+ROI_17,Invasive carcinoma,60996,7248
+ROI_16,Invasive carcinoma,51598,22987
+ROI_16,Invasive carcinoma,51706,22915
+ROI_16,Invasive carcinoma,51802,22867
+ROI_16,Invasive carcinoma,51862,22820
+ROI_16,Invasive carcinoma,51993,22760
+ROI_16,Invasive carcinoma,52149,22604
+ROI_16,Invasive carcinoma,52460,22377
+ROI_16,Invasive carcinoma,52796,22113
+ROI_16,Invasive carcinoma,52939,21958
+ROI_16,Invasive carcinoma,53107,21814
+ROI_16,Invasive carcinoma,53274,21646
+ROI_16,Invasive carcinoma,53478,21479
+ROI_16,Invasive carcinoma,53622,21335
+ROI_16,Invasive carcinoma,53789,21119
+ROI_16,Invasive carcinoma,53885,20880
+ROI_16,Invasive carcinoma,54005,20629
+ROI_16,Invasive carcinoma,54041,20521
+ROI_16,Invasive carcinoma,54041,20293
+ROI_16,Invasive carcinoma,54017,20174
+ROI_16,Invasive carcinoma,54017,20078
+ROI_16,Invasive carcinoma,53993,19910
+ROI_16,Invasive carcinoma,53969,19779
+ROI_16,Invasive carcinoma,53885,19467
+ROI_16,Invasive carcinoma,53813,19383
+ROI_16,Invasive carcinoma,53765,19348
+ROI_16,Invasive carcinoma,53741,19288
+ROI_16,Invasive carcinoma,53586,19216
+ROI_16,Invasive carcinoma,53478,19192
+ROI_16,Invasive carcinoma,53442,19168
+ROI_16,Invasive carcinoma,52915,19168
+ROI_16,Invasive carcinoma,52712,19204
+ROI_16,Invasive carcinoma,52556,19264
+ROI_16,Invasive carcinoma,52484,19276
+ROI_16,Invasive carcinoma,52377,19336
+ROI_16,Invasive carcinoma,52293,19359
+ROI_16,Invasive carcinoma,52209,19395
+ROI_16,Invasive carcinoma,51467,19623
+ROI_16,Invasive carcinoma,51335,19683
+ROI_16,Invasive carcinoma,51251,19743
+ROI_16,Invasive carcinoma,51203,19767
+ROI_16,Invasive carcinoma,51083,19886
+ROI_16,Invasive carcinoma,51024,19922
+ROI_16,Invasive carcinoma,50904,19970
+ROI_16,Invasive carcinoma,50856,20006
+ROI_16,Invasive carcinoma,50772,20042
+ROI_16,Invasive carcinoma,50664,20102
+ROI_16,Invasive carcinoma,50605,20126
+ROI_16,Invasive carcinoma,50545,20138
+ROI_16,Invasive carcinoma,50473,20186
+ROI_16,Invasive carcinoma,50413,20210
+ROI_16,Invasive carcinoma,50377,20245
+ROI_16,Invasive carcinoma,50317,20269
+ROI_16,Invasive carcinoma,50138,20413
+ROI_16,Invasive carcinoma,50102,20461
+ROI_16,Invasive carcinoma,50018,20521
+ROI_16,Invasive carcinoma,49958,20581
+ROI_16,Invasive carcinoma,49898,20665
+ROI_16,Invasive carcinoma,49778,20772
+ROI_16,Invasive carcinoma,49695,20904
+ROI_16,Invasive carcinoma,49599,21012
+ROI_16,Invasive carcinoma,49455,21215
+ROI_16,Invasive carcinoma,49359,21431
+ROI_16,Invasive carcinoma,49288,21527
+ROI_16,Invasive carcinoma,49240,21634
+ROI_16,Invasive carcinoma,49168,21742
+ROI_16,Invasive carcinoma,49012,22041
+ROI_16,Invasive carcinoma,48893,22460
+ROI_16,Invasive carcinoma,48857,22652
+ROI_16,Invasive carcinoma,48821,22772
+ROI_16,Invasive carcinoma,48821,22987
+ROI_16,Invasive carcinoma,48845,23143
+ROI_16,Invasive carcinoma,48869,23286
+ROI_16,Invasive carcinoma,48916,23370
+ROI_16,Invasive carcinoma,48952,23382
+ROI_16,Invasive carcinoma,49012,23418
+ROI_16,Invasive carcinoma,49108,23526
+ROI_16,Invasive carcinoma,49156,23622
+ROI_16,Invasive carcinoma,49252,23885
+ROI_16,Invasive carcinoma,49300,23969
+ROI_16,Invasive carcinoma,49324,24029
+ROI_16,Invasive carcinoma,49683,23909
+ROI_16,Invasive carcinoma,49732,23909
+ROI_16,Invasive carcinoma,49777,23894
+ROI_16,Invasive carcinoma,49823,23894
+ROI_16,Invasive carcinoma,49861,23879
+ROI_16,Invasive carcinoma,49929,23871
+ROI_16,Invasive carcinoma,50081,23818
+ROI_16,Invasive carcinoma,50126,23810
+ROI_16,Invasive carcinoma,50164,23788
+ROI_16,Invasive carcinoma,50210,23780
+ROI_16,Invasive carcinoma,50233,23765
+ROI_16,Invasive carcinoma,50270,23757
+ROI_16,Invasive carcinoma,50354,23712
+ROI_16,Invasive carcinoma,50468,23689
+ROI_16,Invasive carcinoma,50567,23643
+ROI_16,Invasive carcinoma,50612,23606
+ROI_16,Invasive carcinoma,50673,23575
+ROI_16,Invasive carcinoma,50878,23507
+ROI_16,Invasive carcinoma,51105,23363
+ROI_16,Invasive carcinoma,51174,23302
+ROI_16,Invasive carcinoma,51227,23272
+ROI_16,Invasive carcinoma,51479.7092133052,23041.1789862724
+ROI_16,Invasive carcinoma,51598,22987
+ROI_5,Invasive carcinoma,55729,37989
+ROI_5,Invasive carcinoma,55777,37881
+ROI_5,Invasive carcinoma,55813,37761
+ROI_5,Invasive carcinoma,55861,37642
+ROI_5,Invasive carcinoma,56004,37438
+ROI_5,Invasive carcinoma,56040,37342
+ROI_5,Invasive carcinoma,56112,37223
+ROI_5,Invasive carcinoma,56160,37175
+ROI_5,Invasive carcinoma,56232,37127
+ROI_5,Invasive carcinoma,56351,37103
+ROI_5,Invasive carcinoma,56758,37103
+ROI_5,Invasive carcinoma,56986,37199
+ROI_5,Invasive carcinoma,57034,37235
+ROI_5,Invasive carcinoma,57154,37366
+ROI_5,Invasive carcinoma,57225,37474
+ROI_5,Invasive carcinoma,57237,37510
+ROI_5,Invasive carcinoma,57249,37690
+ROI_5,Invasive carcinoma,57249,37845
+ROI_5,Invasive carcinoma,57213,38109
+ROI_5,Invasive carcinoma,57178,38216
+ROI_5,Invasive carcinoma,57130,38312
+ROI_5,Invasive carcinoma,57022,38683
+ROI_5,Invasive carcinoma,57010,38707
+ROI_5,Invasive carcinoma,56902,38815
+ROI_5,Invasive carcinoma,56675,38935
+ROI_5,Invasive carcinoma,56591,38971
+ROI_5,Invasive carcinoma,56519,38971
+ROI_5,Invasive carcinoma,56459,38995
+ROI_5,Invasive carcinoma,56351,39018
+ROI_5,Invasive carcinoma,56256,39066
+ROI_5,Invasive carcinoma,56004,39150
+ROI_5,Invasive carcinoma,55861,39210
+ROI_5,Invasive carcinoma,55741,39234
+ROI_5,Invasive carcinoma,55705,39258
+ROI_5,Invasive carcinoma,55633,39282
+ROI_5,Invasive carcinoma,55453,39282
+ROI_5,Invasive carcinoma,55346,39222
+ROI_5,Invasive carcinoma,55322,39126
+ROI_5,Invasive carcinoma,55298,38923
+ROI_5,Invasive carcinoma,55298,38707
+ROI_5,Invasive carcinoma,55322,38564
+ROI_5,Invasive carcinoma,55430,38360
+ROI_5,Invasive carcinoma,55453,38336
+ROI_5,Invasive carcinoma,55501,38312
+ROI_5,Invasive carcinoma,55573,38216
+ROI_5,Invasive carcinoma,55597,38168
+ROI_5,Invasive carcinoma,55621,38144
+ROI_5,Invasive carcinoma,55633,38097
+ROI_5,Invasive carcinoma,55657,38073
+ROI_5,Invasive carcinoma,55681,38001
+ROI_5,Invasive carcinoma,55729,37989
+ROI_15,Dysplasia,39120,17533
+ROI_15,Dysplasia,39143,17533
+ROI_15,Dysplasia,39173,17548
+ROI_15,Dysplasia,39219,17548
+ROI_15,Dysplasia,39226,17556
+ROI_15,Dysplasia,39249,17548
+ROI_15,Dysplasia,39325,17548
+ROI_15,Dysplasia,39416,17518
+ROI_15,Dysplasia,39454,17495
+ROI_15,Dysplasia,39492,17488
+ROI_15,Dysplasia,39530,17465
+ROI_15,Dysplasia,39629,17435
+ROI_15,Dysplasia,39720,17389
+ROI_15,Dysplasia,39735,17374
+ROI_15,Dysplasia,39925,17283
+ROI_15,Dysplasia,39955,17260
+ROI_15,Dysplasia,39993,17252
+ROI_15,Dysplasia,40259,17131
+ROI_15,Dysplasia,40297,17123
+ROI_15,Dysplasia,40373,17085
+ROI_15,Dysplasia,40388,17070
+ROI_15,Dysplasia,40403,17070
+ROI_15,Dysplasia,40547,16994
+ROI_15,Dysplasia,40691,16896
+ROI_15,Dysplasia,40745,16873
+ROI_15,Dysplasia,40813,16827
+ROI_15,Dysplasia,41086,16691
+ROI_15,Dysplasia,41101,16691
+ROI_15,Dysplasia,41170,16660
+ROI_15,Dysplasia,41208,16660
+ROI_15,Dysplasia,41314,16622
+ROI_15,Dysplasia,41428,16607
+ROI_15,Dysplasia,41466,16592
+ROI_15,Dysplasia,41549,16584
+ROI_15,Dysplasia,41716,16524
+ROI_15,Dysplasia,41769,16516
+ROI_15,Dysplasia,41868,16463
+ROI_15,Dysplasia,41913,16448
+ROI_15,Dysplasia,42020,16372
+ROI_15,Dysplasia,42043,16364
+ROI_15,Dysplasia,42088,16326
+ROI_15,Dysplasia,42247,16250
+ROI_15,Dysplasia,42270,16250
+ROI_15,Dysplasia,42339,16213
+ROI_15,Dysplasia,42354,16213
+ROI_15,Dysplasia,42430,16167
+ROI_15,Dysplasia,42589,16091
+ROI_15,Dysplasia,42612,16068
+ROI_15,Dysplasia,42673,16038
+ROI_15,Dysplasia,42710,16008
+ROI_15,Dysplasia,42794,15970
+ROI_15,Dysplasia,42938,15879
+ROI_15,Dysplasia,42999,15818
+ROI_15,Dysplasia,43166,15567
+ROI_15,Dysplasia,43348,15393
+ROI_15,Dysplasia,43561,15249
+ROI_15,Dysplasia,43591,15241
+ROI_15,Dysplasia,43766,15127
+ROI_15,Dysplasia,43849,15089
+ROI_15,Dysplasia,43887,15059
+ROI_15,Dysplasia,43910,15051
+ROI_15,Dysplasia,43978,14990
+ROI_15,Dysplasia,44069,14930
+ROI_15,Dysplasia,44107,14915
+ROI_15,Dysplasia,44206,14846
+ROI_15,Dysplasia,44229,14839
+ROI_15,Dysplasia,44418,14656
+ROI_15,Dysplasia,44570,14527
+ROI_15,Dysplasia,44631,14482
+ROI_15,Dysplasia,44889,14330
+ROI_15,Dysplasia,44980,14247
+ROI_15,Dysplasia,45079,14193
+ROI_15,Dysplasia,45170,14171
+ROI_15,Dysplasia,45238,14140
+ROI_15,Dysplasia,45268,14140
+ROI_15,Dysplasia,45344,14118
+ROI_15,Dysplasia,45542,14019
+ROI_15,Dysplasia,45610,14004
+ROI_15,Dysplasia,45618,13996
+ROI_15,Dysplasia,45678,13989
+ROI_15,Dysplasia,45747,13958
+ROI_15,Dysplasia,45762,13958
+ROI_15,Dysplasia,45959,13860
+ROI_15,Dysplasia,45982,13837
+ROI_15,Dysplasia,46043,13806
+ROI_15,Dysplasia,46111,13753
+ROI_15,Dysplasia,46164,13738
+ROI_15,Dysplasia,46293,13677
+ROI_15,Dysplasia,46316,13677
+ROI_15,Dysplasia,46339,13662
+ROI_15,Dysplasia,46361,13662
+ROI_15,Dysplasia,46415,13639
+ROI_15,Dysplasia,46483,13624
+ROI_15,Dysplasia,46627,13556
+ROI_15,Dysplasia,46688,13518
+ROI_15,Dysplasia,46741,13503
+ROI_15,Dysplasia,46809,13465
+ROI_15,Dysplasia,46991,13404
+ROI_15,Dysplasia,47075,13389
+ROI_15,Dysplasia,47083,13381
+ROI_15,Dysplasia,47113,13381
+ROI_15,Dysplasia,47151,13366
+ROI_15,Dysplasia,47250,13359
+ROI_15,Dysplasia,47257,13351
+ROI_15,Dysplasia,47310,13351
+ROI_15,Dysplasia,47379,13328
+ROI_15,Dysplasia,47454,13321
+ROI_15,Dysplasia,47477,13305
+ROI_15,Dysplasia,47591,13267
+ROI_15,Dysplasia,47705,13214
+ROI_15,Dysplasia,47948,13138
+ROI_15,Dysplasia,47993,13116
+ROI_15,Dysplasia,48046,13108
+ROI_15,Dysplasia,48069,13093
+ROI_15,Dysplasia,48107,13085
+ROI_15,Dysplasia,48168,13055
+ROI_15,Dysplasia,48221,13017
+ROI_15,Dysplasia,48274,12964
+ROI_15,Dysplasia,48365,12896
+ROI_15,Dysplasia,48487,12789
+ROI_15,Dysplasia,48585,12736
+ROI_15,Dysplasia,48601,12736
+ROI_15,Dysplasia,48661,12706
+ROI_15,Dysplasia,48851,12584
+ROI_15,Dysplasia,49048,12379
+ROI_15,Dysplasia,49177,12288
+ROI_15,Dysplasia,49253,12250
+ROI_15,Dysplasia,49352,12220
+ROI_15,Dysplasia,49572,12114
+ROI_15,Dysplasia,49603,12106
+ROI_15,Dysplasia,49701,12030
+ROI_15,Dysplasia,49770,11992
+ROI_15,Dysplasia,49883,11954
+ROI_15,Dysplasia,49982,11932
+ROI_15,Dysplasia,50157,11856
+ROI_15,Dysplasia,50248,11795
+ROI_15,Dysplasia,50301,11749
+ROI_15,Dysplasia,50384,11711
+ROI_15,Dysplasia,50483,11643
+ROI_15,Dysplasia,50513,11636
+ROI_15,Dysplasia,50529,11620
+ROI_15,Dysplasia,50544,11620
+ROI_15,Dysplasia,50559,11605
+ROI_15,Dysplasia,50597,11590
+ROI_15,Dysplasia,50658,11552
+ROI_15,Dysplasia,50688,11522
+ROI_15,Dysplasia,50855,11431
+ROI_15,Dysplasia,50916,11415
+ROI_15,Dysplasia,50938,11400
+ROI_15,Dysplasia,50984,11393
+ROI_15,Dysplasia,51007,11377
+ROI_15,Dysplasia,51174,11340
+ROI_15,Dysplasia,51227,11309
+ROI_15,Dysplasia,51257,11302
+ROI_15,Dysplasia,51348,11241
+ROI_15,Dysplasia,51500,11173
+ROI_15,Dysplasia,51530,11173
+ROI_15,Dysplasia,51538,11165
+ROI_15,Dysplasia,51614,11165
+ROI_15,Dysplasia,51660,11150
+ROI_15,Dysplasia,51766,11142
+ROI_15,Dysplasia,51827,11119
+ROI_15,Dysplasia,51902,11104
+ROI_15,Dysplasia,52092,11021
+ROI_15,Dysplasia,52123,11021
+ROI_15,Dysplasia,52160,11006
+ROI_15,Dysplasia,52191,11006
+ROI_15,Dysplasia,52198,10998
+ROI_15,Dysplasia,52236,10998
+ROI_15,Dysplasia,52244,10990
+ROI_15,Dysplasia,52327,10983
+ROI_15,Dysplasia,52335,10975
+ROI_15,Dysplasia,52419,10968
+ROI_15,Dysplasia,52494,10945
+ROI_15,Dysplasia,52578,10937
+ROI_15,Dysplasia,52677,10899
+ROI_15,Dysplasia,52745,10892
+ROI_15,Dysplasia,52798,10869
+ROI_15,Dysplasia,52897,10854
+ROI_15,Dysplasia,52935,10839
+ROI_15,Dysplasia,52965,10839
+ROI_15,Dysplasia,52973,10831
+ROI_15,Dysplasia,53102,10801
+ROI_15,Dysplasia,53238,10732
+ROI_15,Dysplasia,53253,10732
+ROI_15,Dysplasia,53390,10672
+ROI_15,Dysplasia,53466,10649
+ROI_15,Dysplasia,53724,10520
+ROI_15,Dysplasia,53777,10482
+ROI_15,Dysplasia,53846,10451
+ROI_15,Dysplasia,53868,10429
+ROI_15,Dysplasia,53906,10413
+ROI_15,Dysplasia,53921,10398
+ROI_15,Dysplasia,53952,10391
+ROI_15,Dysplasia,54066,10330
+ROI_15,Dysplasia,54157,10262
+ROI_15,Dysplasia,54172,10262
+ROI_15,Dysplasia,54430,10133
+ROI_15,Dysplasia,54627,10011
+ROI_15,Dysplasia,54741,9928
+ROI_15,Dysplasia,54885,9859
+ROI_15,Dysplasia,54939,9852
+ROI_15,Dysplasia,54946,9844
+ROI_15,Dysplasia,54984,9844
+ROI_15,Dysplasia,54992,9837
+ROI_15,Dysplasia,55037,9837
+ROI_15,Dysplasia,55045,9829
+ROI_15,Dysplasia,55227,9829
+ROI_15,Dysplasia,55235,9837
+ROI_15,Dysplasia,55310,9844
+ROI_15,Dysplasia,55379,9867
+ROI_15,Dysplasia,55470,9928
+ROI_15,Dysplasia,55561,10026
+ROI_15,Dysplasia,55660,10254
+ROI_15,Dysplasia,55667,10300
+ROI_15,Dysplasia,55682,10322
+ROI_15,Dysplasia,55682,10345
+ROI_15,Dysplasia,55720,10459
+ROI_15,Dysplasia,55720,10497
+ROI_15,Dysplasia,55736,10535
+ROI_15,Dysplasia,55736,10565
+ROI_15,Dysplasia,55751,10603
+ROI_15,Dysplasia,55751,10641
+ROI_15,Dysplasia,55773,10694
+ROI_15,Dysplasia,55781,10747
+ROI_15,Dysplasia,55887,11013
+ROI_15,Dysplasia,56009,11127
+ROI_15,Dysplasia,56054,11142
+ROI_15,Dysplasia,56092,11165
+ROI_15,Dysplasia,56107,11165
+ROI_15,Dysplasia,56130,11180
+ROI_15,Dysplasia,56199,11203
+ROI_15,Dysplasia,56237,11203
+ROI_15,Dysplasia,56244,11210
+ROI_15,Dysplasia,56320,11218
+ROI_15,Dysplasia,56328,11226
+ROI_15,Dysplasia,56388,11226
+ROI_15,Dysplasia,56396,11233
+ROI_15,Dysplasia,56426,11233
+ROI_15,Dysplasia,56434,11241
+ROI_15,Dysplasia,56525,11256
+ROI_15,Dysplasia,56533,11264
+ROI_15,Dysplasia,56563,11264
+ROI_15,Dysplasia,56586,11279
+ROI_15,Dysplasia,56639,11294
+ROI_15,Dysplasia,56821,11393
+ROI_15,Dysplasia,56965,11506
+ROI_15,Dysplasia,57041,11590
+ROI_15,Dysplasia,57094,11666
+ROI_15,Dysplasia,57163,11848
+ROI_15,Dysplasia,57178,11932
+ROI_15,Dysplasia,57185,11939
+ROI_15,Dysplasia,57193,12053
+ROI_15,Dysplasia,57200,12061
+ROI_15,Dysplasia,57200,12099
+ROI_15,Dysplasia,57208,12106
+ROI_15,Dysplasia,57208,12182
+ROI_15,Dysplasia,57216,12190
+ROI_15,Dysplasia,57216,12448
+ROI_15,Dysplasia,57208,12455
+ROI_15,Dysplasia,57208,12508
+ROI_15,Dysplasia,57200,12516
+ROI_15,Dysplasia,57193,12637
+ROI_15,Dysplasia,57185,12645
+ROI_15,Dysplasia,57170,12729
+ROI_15,Dysplasia,57155,12759
+ROI_15,Dysplasia,57155,12782
+ROI_15,Dysplasia,57132,12835
+ROI_15,Dysplasia,57132,12858
+ROI_15,Dysplasia,57094,12933
+ROI_15,Dysplasia,57094,12949
+ROI_15,Dysplasia,57049,13032
+ROI_15,Dysplasia,57026,13116
+ROI_15,Dysplasia,56996,13184
+ROI_15,Dysplasia,56988,13321
+ROI_15,Dysplasia,56996,13328
+ROI_15,Dysplasia,56996,13366
+ROI_15,Dysplasia,57011,13412
+ROI_15,Dysplasia,57026,13427
+ROI_15,Dysplasia,57033,13472
+ROI_15,Dysplasia,56988,13579
+ROI_15,Dysplasia,56904,13708
+ROI_15,Dysplasia,56867,13753
+ROI_15,Dysplasia,56829,13784
+ROI_15,Dysplasia,56768,13867
+ROI_15,Dysplasia,56639,13973
+ROI_15,Dysplasia,56578,14011
+ROI_15,Dysplasia,56533,14057
+ROI_15,Dysplasia,56464,14102
+ROI_15,Dysplasia,56411,14171
+ROI_15,Dysplasia,56297,14285
+ROI_15,Dysplasia,56237,14383
+ROI_15,Dysplasia,56168,14467
+ROI_15,Dysplasia,56123,14550
+ROI_15,Dysplasia,55986,14679
+ROI_15,Dysplasia,55933,14710
+ROI_15,Dysplasia,55804,14816
+ROI_15,Dysplasia,55736,14861
+ROI_15,Dysplasia,55637,15006
+ROI_15,Dysplasia,55629,15044
+ROI_15,Dysplasia,55599,15104
+ROI_15,Dysplasia,55561,15218
+ROI_15,Dysplasia,55546,15294
+ROI_15,Dysplasia,55515,15347
+ROI_15,Dysplasia,55515,15362
+ROI_15,Dysplasia,55462,15484
+ROI_15,Dysplasia,55386,15605
+ROI_15,Dysplasia,55219,15810
+ROI_15,Dysplasia,54939,16091
+ROI_15,Dysplasia,54908,16144
+ROI_15,Dysplasia,54840,16205
+ROI_15,Dysplasia,54810,16258
+ROI_15,Dysplasia,54749,16319
+ROI_15,Dysplasia,54696,16410
+ROI_15,Dysplasia,54650,16463
+ROI_15,Dysplasia,54612,16539
+ROI_15,Dysplasia,54551,16615
+ROI_15,Dysplasia,54293,16744
+ROI_15,Dysplasia,54278,16744
+ROI_15,Dysplasia,54248,16767
+ROI_15,Dysplasia,54157,16797
+ROI_15,Dysplasia,54119,16827
+ROI_15,Dysplasia,54073,16850
+ROI_15,Dysplasia,54028,16858
+ROI_15,Dysplasia,53967,16896
+ROI_15,Dysplasia,53899,16918
+ROI_15,Dysplasia,53830,16964
+ROI_15,Dysplasia,53800,16994
+ROI_15,Dysplasia,53663,17078
+ROI_15,Dysplasia,53603,17131
+ROI_15,Dysplasia,53527,17176
+ROI_15,Dysplasia,53367,17298
+ROI_15,Dysplasia,53291,17343
+ROI_15,Dysplasia,53231,17404
+ROI_15,Dysplasia,53147,17465
+ROI_15,Dysplasia,53079,17541
+ROI_15,Dysplasia,53071,17541
+ROI_15,Dysplasia,53003,17609
+ROI_15,Dysplasia,52851,17715
+ROI_15,Dysplasia,52593,17844
+ROI_15,Dysplasia,52578,17844
+ROI_15,Dysplasia,52555,17860
+ROI_15,Dysplasia,52540,17860
+ROI_15,Dysplasia,52449,17898
+ROI_15,Dysplasia,52381,17913
+ROI_15,Dysplasia,52077,18042
+ROI_15,Dysplasia,51978,18103
+ROI_15,Dysplasia,51880,18148
+ROI_15,Dysplasia,51804,18201
+ROI_15,Dysplasia,51751,18224
+ROI_15,Dysplasia,51690,18270
+ROI_15,Dysplasia,51614,18307
+ROI_15,Dysplasia,51576,18338
+ROI_15,Dysplasia,51485,18383
+ROI_15,Dysplasia,51462,18406
+ROI_15,Dysplasia,51439,18414
+ROI_15,Dysplasia,51386,18452
+ROI_15,Dysplasia,51295,18497
+ROI_15,Dysplasia,51212,18558
+ROI_15,Dysplasia,51189,18566
+ROI_15,Dysplasia,51136,18611
+ROI_15,Dysplasia,51075,18641
+ROI_15,Dysplasia,50984,18702
+ROI_15,Dysplasia,50870,18793
+ROI_15,Dysplasia,50847,18801
+ROI_15,Dysplasia,50741,18877
+ROI_15,Dysplasia,50711,18884
+ROI_15,Dysplasia,50696,18900
+ROI_15,Dysplasia,50680,18900
+ROI_15,Dysplasia,50597,18960
+ROI_15,Dysplasia,50536,18991
+ROI_15,Dysplasia,50483,19036
+ROI_15,Dysplasia,50430,19066
+ROI_15,Dysplasia,50316,19165
+ROI_15,Dysplasia,50202,19241
+ROI_15,Dysplasia,50141,19294
+ROI_15,Dysplasia,49944,19423
+ROI_15,Dysplasia,49800,19530
+ROI_15,Dysplasia,49770,19560
+ROI_15,Dysplasia,49739,19575
+ROI_15,Dysplasia,49504,19788
+ROI_15,Dysplasia,49466,19810
+ROI_15,Dysplasia,49382,19886
+ROI_15,Dysplasia,49314,19932
+ROI_15,Dysplasia,49215,20015
+ROI_15,Dysplasia,49109,20084
+ROI_15,Dysplasia,49026,20152
+ROI_15,Dysplasia,48973,20182
+ROI_15,Dysplasia,48699,20425
+ROI_15,Dysplasia,48699,20433
+ROI_15,Dysplasia,48601,20531
+ROI_15,Dysplasia,48555,20600
+ROI_15,Dysplasia,48487,20676
+ROI_15,Dysplasia,48434,20767
+ROI_15,Dysplasia,48388,20827
+ROI_15,Dysplasia,48380,20850
+ROI_15,Dysplasia,48198,21116
+ROI_15,Dysplasia,48191,21139
+ROI_15,Dysplasia,48062,21306
+ROI_15,Dysplasia,48001,21366
+ROI_15,Dysplasia,47955,21427
+ROI_15,Dysplasia,47948,21450
+ROI_15,Dysplasia,47872,21541
+ROI_15,Dysplasia,47849,21594
+ROI_15,Dysplasia,47781,21685
+ROI_15,Dysplasia,47758,21731
+ROI_15,Dysplasia,47735,21753
+ROI_15,Dysplasia,47705,21814
+ROI_15,Dysplasia,47553,22012
+ROI_15,Dysplasia,47333,22239
+ROI_15,Dysplasia,47272,22277
+ROI_15,Dysplasia,47189,22361
+ROI_15,Dysplasia,47136,22399
+ROI_15,Dysplasia,47045,22482
+ROI_15,Dysplasia,47014,22497
+ROI_15,Dysplasia,46900,22604
+ROI_15,Dysplasia,46878,22611
+ROI_15,Dysplasia,46756,22717
+ROI_15,Dysplasia,46650,22786
+ROI_15,Dysplasia,46589,22839
+ROI_15,Dysplasia,46498,22884
+ROI_15,Dysplasia,46445,22930
+ROI_15,Dysplasia,46377,22968
+ROI_15,Dysplasia,46240,23074
+ROI_15,Dysplasia,46065,23180
+ROI_15,Dysplasia,45785,23317
+ROI_15,Dysplasia,45686,23347
+ROI_15,Dysplasia,45648,23347
+ROI_15,Dysplasia,45602,23363
+ROI_15,Dysplasia,45435,23363
+ROI_15,Dysplasia,45428,23355
+ROI_15,Dysplasia,45360,23355
+ROI_15,Dysplasia,45352,23347
+ROI_15,Dysplasia,45268,23340
+ROI_15,Dysplasia,45223,23325
+ROI_15,Dysplasia,45177,23325
+ROI_15,Dysplasia,45109,23302
+ROI_15,Dysplasia,45086,23302
+ROI_15,Dysplasia,45056,23287
+ROI_15,Dysplasia,44972,23272
+ROI_15,Dysplasia,44843,23226
+ROI_15,Dysplasia,44752,23211
+ROI_15,Dysplasia,44714,23196
+ROI_15,Dysplasia,44623,23188
+ROI_15,Dysplasia,44616,23180
+ROI_15,Dysplasia,44494,23180
+ROI_15,Dysplasia,44487,23173
+ROI_15,Dysplasia,44449,23173
+ROI_15,Dysplasia,44441,23180
+ROI_15,Dysplasia,44396,23180
+ROI_15,Dysplasia,44388,23188
+ROI_15,Dysplasia,44289,23196
+ROI_15,Dysplasia,44282,23203
+ROI_15,Dysplasia,44229,23203
+ROI_15,Dysplasia,44221,23211
+ROI_15,Dysplasia,44191,23211
+ROI_15,Dysplasia,44122,23234
+ROI_15,Dysplasia,44092,23234
+ROI_15,Dysplasia,43970,23279
+ROI_15,Dysplasia,43728,23393
+ROI_15,Dysplasia,43674,23431
+ROI_15,Dysplasia,43629,23476
+ROI_15,Dysplasia,43576,23552
+ROI_15,Dysplasia,43492,23719
+ROI_15,Dysplasia,43470,23795
+ROI_15,Dysplasia,43439,23856
+ROI_15,Dysplasia,43416,23940
+ROI_15,Dysplasia,43348,24069
+ROI_15,Dysplasia,43348,24084
+ROI_15,Dysplasia,43265,24213
+ROI_15,Dysplasia,43234,24236
+ROI_15,Dysplasia,43166,24311
+ROI_15,Dysplasia,43044,24395
+ROI_15,Dysplasia,42817,24577
+ROI_15,Dysplasia,42695,24645
+ROI_15,Dysplasia,42680,24661
+ROI_15,Dysplasia,42635,24676
+ROI_15,Dysplasia,42597,24699
+ROI_15,Dysplasia,42513,24721
+ROI_15,Dysplasia,42316,24820
+ROI_15,Dysplasia,42164,24873
+ROI_15,Dysplasia,42073,24919
+ROI_15,Dysplasia,42058,24934
+ROI_15,Dysplasia,42005,24957
+ROI_15,Dysplasia,41967,24987
+ROI_15,Dysplasia,41906,25017
+ROI_15,Dysplasia,41822,25093
+ROI_15,Dysplasia,41693,25192
+ROI_15,Dysplasia,41534,25298
+ROI_15,Dysplasia,41390,25382
+ROI_15,Dysplasia,41299,25450
+ROI_15,Dysplasia,40965,25617
+ROI_15,Dysplasia,40889,25640
+ROI_15,Dysplasia,40707,25731
+ROI_15,Dysplasia,40691,25731
+ROI_15,Dysplasia,40631,25761
+ROI_15,Dysplasia,40494,25852
+ROI_15,Dysplasia,40456,25867
+ROI_15,Dysplasia,40221,26034
+ROI_15,Dysplasia,40084,26148
+ROI_15,Dysplasia,39568,26642
+ROI_15,Dysplasia,39333,26839
+ROI_15,Dysplasia,39310,26847
+ROI_15,Dysplasia,39135,26968
+ROI_15,Dysplasia,39060,27006
+ROI_15,Dysplasia,38870,27127
+ROI_15,Dysplasia,38817,27150
+ROI_15,Dysplasia,38733,27226
+ROI_15,Dysplasia,38710,27234
+ROI_15,Dysplasia,38657,27279
+ROI_15,Dysplasia,38490,27386
+ROI_15,Dysplasia,38437,27431
+ROI_15,Dysplasia,38331,27484
+ROI_15,Dysplasia,38270,27530
+ROI_15,Dysplasia,38141,27598
+ROI_15,Dysplasia,37936,27727
+ROI_15,Dysplasia,37868,27795
+ROI_15,Dysplasia,37784,27856
+ROI_15,Dysplasia,37739,27902
+ROI_15,Dysplasia,37633,27978
+ROI_15,Dysplasia,37587,28000
+ROI_15,Dysplasia,37564,28023
+ROI_15,Dysplasia,37382,28114
+ROI_15,Dysplasia,37329,28152
+ROI_15,Dysplasia,37154,28236
+ROI_15,Dysplasia,37078,28289
+ROI_15,Dysplasia,36957,28350
+ROI_15,Dysplasia,36691,28554
+ROI_15,Dysplasia,36608,28600
+ROI_15,Dysplasia,36540,28653
+ROI_15,Dysplasia,36335,28782
+ROI_15,Dysplasia,36312,28805
+ROI_15,Dysplasia,36289,28813
+ROI_15,Dysplasia,36175,28888
+ROI_15,Dysplasia,36016,29017
+ROI_15,Dysplasia,35780,29169
+ROI_15,Dysplasia,35659,29230
+ROI_15,Dysplasia,35469,29351
+ROI_15,Dysplasia,35325,29465
+ROI_15,Dysplasia,35234,29549
+ROI_15,Dysplasia,35188,29579
+ROI_15,Dysplasia,35082,29678
+ROI_15,Dysplasia,34991,29739
+ROI_15,Dysplasia,34938,29792
+ROI_15,Dysplasia,34824,29875
+ROI_15,Dysplasia,34596,30103
+ROI_15,Dysplasia,34520,30156
+ROI_15,Dysplasia,34445,30232
+ROI_15,Dysplasia,34399,30262
+ROI_15,Dysplasia,34262,30399
+ROI_15,Dysplasia,34118,30573
+ROI_15,Dysplasia,34057,30627
+ROI_15,Dysplasia,33875,30816
+ROI_15,Dysplasia,33875,30824
+ROI_15,Dysplasia,33663,31036
+ROI_15,Dysplasia,33663,31044
+ROI_15,Dysplasia,33564,31128
+ROI_15,Dysplasia,33511,31196
+ROI_15,Dysplasia,33352,31348
+ROI_15,Dysplasia,33276,31401
+ROI_15,Dysplasia,33223,31454
+ROI_15,Dysplasia,33177,31477
+ROI_15,Dysplasia,32881,31674
+ROI_15,Dysplasia,32608,31796
+ROI_15,Dysplasia,32539,31841
+ROI_15,Dysplasia,32441,31887
+ROI_15,Dysplasia,32380,31932
+ROI_15,Dysplasia,32334,31947
+ROI_15,Dysplasia,32266,31993
+ROI_15,Dysplasia,32167,32038
+ROI_15,Dysplasia,32046,32114
+ROI_15,Dysplasia,31963,32183
+ROI_15,Dysplasia,31811,32342
+ROI_15,Dysplasia,31727,32418
+ROI_15,Dysplasia,31659,32471
+ROI_15,Dysplasia,31606,32501
+ROI_15,Dysplasia,31401,32676
+ROI_15,Dysplasia,31363,32699
+ROI_15,Dysplasia,31234,32843
+ROI_15,Dysplasia,31112,33010
+ROI_15,Dysplasia,30968,33162
+ROI_15,Dysplasia,30756,33321
+ROI_15,Dysplasia,30634,33427
+ROI_15,Dysplasia,30611,33435
+ROI_15,Dysplasia,30558,33481
+ROI_15,Dysplasia,30437,33556
+ROI_15,Dysplasia,30315,33655
+ROI_15,Dysplasia,30247,33693
+ROI_15,Dysplasia,30179,33761
+ROI_15,Dysplasia,30088,33815
+ROI_15,Dysplasia,29966,33906
+ROI_15,Dysplasia,29921,33921
+ROI_15,Dysplasia,29754,34027
+ROI_15,Dysplasia,29739,34027
+ROI_15,Dysplasia,29701,34050
+ROI_15,Dysplasia,29564,34095
+ROI_15,Dysplasia,29526,34095
+ROI_15,Dysplasia,29518,34103
+ROI_15,Dysplasia,29435,34103
+ROI_15,Dysplasia,29427,34095
+ROI_15,Dysplasia,29405,34095
+ROI_15,Dysplasia,29336,34057
+ROI_15,Dysplasia,29260,33989
+ROI_15,Dysplasia,29222,33974
+ROI_15,Dysplasia,29184,33944
+ROI_15,Dysplasia,29124,33921
+ROI_15,Dysplasia,29040,33921
+ROI_15,Dysplasia,29033,33928
+ROI_15,Dysplasia,29010,33928
+ROI_15,Dysplasia,28904,33982
+ROI_15,Dysplasia,28866,34012
+ROI_15,Dysplasia,28828,34057
+ROI_15,Dysplasia,28805,34111
+ROI_15,Dysplasia,28805,34224
+ROI_15,Dysplasia,28820,34255
+ROI_15,Dysplasia,28828,34316
+ROI_15,Dysplasia,28888,34414
+ROI_15,Dysplasia,28888,34483
+ROI_15,Dysplasia,28828,34551
+ROI_15,Dysplasia,28729,34612
+ROI_15,Dysplasia,28570,34680
+ROI_15,Dysplasia,28448,34763
+ROI_15,Dysplasia,28099,34938
+ROI_15,Dysplasia,28023,34999
+ROI_15,Dysplasia,27947,35044
+ROI_15,Dysplasia,27864,35113
+ROI_15,Dysplasia,27765,35181
+ROI_15,Dysplasia,27742,35188
+ROI_15,Dysplasia,27697,35226
+ROI_15,Dysplasia,27545,35287
+ROI_15,Dysplasia,27522,35287
+ROI_15,Dysplasia,27515,35295
+ROI_15,Dysplasia,27492,35295
+ROI_15,Dysplasia,27423,35317
+ROI_15,Dysplasia,27325,35363
+ROI_15,Dysplasia,27272,35401
+ROI_15,Dysplasia,27249,35409
+ROI_15,Dysplasia,27067,35553
+ROI_15,Dysplasia,26953,35659
+ROI_15,Dysplasia,26907,35705
+ROI_15,Dysplasia,26831,35803
+ROI_15,Dysplasia,26793,35879
+ROI_15,Dysplasia,26763,35970
+ROI_15,Dysplasia,26756,36039
+ROI_15,Dysplasia,26733,36092
+ROI_15,Dysplasia,26725,36152
+ROI_15,Dysplasia,26710,36190
+ROI_15,Dysplasia,26710,36259
+ROI_15,Dysplasia,26702,36266
+ROI_15,Dysplasia,26702,36312
+ROI_15,Dysplasia,26710,36319
+ROI_15,Dysplasia,26710,36486
+ROI_15,Dysplasia,26702,36494
+ROI_15,Dysplasia,26702,36532
+ROI_15,Dysplasia,26680,36615
+ROI_15,Dysplasia,26672,36699
+ROI_15,Dysplasia,26664,36706
+ROI_15,Dysplasia,26672,36873
+ROI_15,Dysplasia,26680,36881
+ROI_15,Dysplasia,26687,36980
+ROI_15,Dysplasia,26695,36987
+ROI_15,Dysplasia,26710,37078
+ROI_15,Dysplasia,26740,37162
+ROI_15,Dysplasia,26748,37238
+ROI_15,Dysplasia,26733,37283
+ROI_15,Dysplasia,26695,37352
+ROI_15,Dysplasia,26589,37450
+ROI_15,Dysplasia,26490,37587
+ROI_15,Dysplasia,26444,37701
+ROI_15,Dysplasia,26444,37724
+ROI_15,Dysplasia,26429,37746
+ROI_15,Dysplasia,26422,37800
+ROI_15,Dysplasia,26399,37860
+ROI_15,Dysplasia,26391,37929
+ROI_15,Dysplasia,26338,38111
+ROI_15,Dysplasia,26338,38171
+ROI_15,Dysplasia,26330,38179
+ROI_15,Dysplasia,26330,38293
+ROI_15,Dysplasia,26376,38399
+ROI_15,Dysplasia,26444,38467
+ROI_15,Dysplasia,26505,38498
+ROI_15,Dysplasia,26528,38498
+ROI_15,Dysplasia,26589,38521
+ROI_15,Dysplasia,26687,38521
+ROI_15,Dysplasia,26695,38513
+ROI_15,Dysplasia,26733,38513
+ROI_15,Dysplasia,26839,38475
+ROI_15,Dysplasia,26976,38460
+ROI_15,Dysplasia,27014,38445
+ROI_15,Dysplasia,27105,38430
+ROI_15,Dysplasia,27158,38407
+ROI_15,Dysplasia,27241,38392
+ROI_15,Dysplasia,27348,38354
+ROI_15,Dysplasia,27393,38354
+ROI_15,Dysplasia,27469,38376
+ROI_15,Dysplasia,27871,38384
+ROI_15,Dysplasia,27879,38376
+ROI_15,Dysplasia,27917,38376
+ROI_15,Dysplasia,27924,38369
+ROI_15,Dysplasia,27978,38361
+ROI_15,Dysplasia,28053,38331
+ROI_15,Dysplasia,28084,38331
+ROI_15,Dysplasia,28114,38316
+ROI_15,Dysplasia,28183,38300
+ROI_15,Dysplasia,28205,38285
+ROI_15,Dysplasia,28266,38270
+ROI_15,Dysplasia,28304,38247
+ROI_15,Dysplasia,28319,38247
+ROI_15,Dysplasia,28372,38217
+ROI_15,Dysplasia,28387,38217
+ROI_15,Dysplasia,28441,38187
+ROI_15,Dysplasia,28456,38187
+ROI_15,Dysplasia,28494,38164
+ROI_15,Dysplasia,28539,38149
+ROI_15,Dysplasia,28608,38103
+ROI_15,Dysplasia,28813,37997
+ROI_15,Dysplasia,28934,37906
+ROI_15,Dysplasia,29048,37784
+ROI_15,Dysplasia,29093,37716
+ROI_15,Dysplasia,29124,37640
+ROI_15,Dysplasia,29131,37595
+ROI_15,Dysplasia,29162,37534
+ROI_15,Dysplasia,29184,37450
+ROI_15,Dysplasia,29253,37344
+ROI_15,Dysplasia,29291,37306
+ROI_15,Dysplasia,29313,37306
+ROI_15,Dysplasia,29359,37329
+ROI_15,Dysplasia,29374,37329
+ROI_15,Dysplasia,29458,37377
+ROI_15,Dysplasia,29534,37374
+ROI_15,Dysplasia,29599,37312
+ROI_15,Dysplasia,29604,37206
+ROI_15,Dysplasia,29593,37139
+ROI_15,Dysplasia,29552,37059
+ROI_15,Dysplasia,29493,37004
+ROI_15,Dysplasia,29305,36883
+ROI_15,Dysplasia,29023,36730
+ROI_15,Dysplasia,28879,36698
+ROI_15,Dysplasia,28835,36699
+ROI_15,Dysplasia,28767,36661
+ROI_15,Dysplasia,28699,36653
+ROI_15,Dysplasia,28691,36661
+ROI_15,Dysplasia,28562,36669
+ROI_15,Dysplasia,28554,36676
+ROI_15,Dysplasia,28479,36676
+ROI_15,Dysplasia,28456,36669
+ROI_15,Dysplasia,28334,36593
+ROI_15,Dysplasia,28251,36555
+ROI_15,Dysplasia,28137,36479
+ROI_15,Dysplasia,28038,36388
+ROI_15,Dysplasia,28023,36342
+ROI_15,Dysplasia,28046,36312
+ROI_15,Dysplasia,28091,36289
+ROI_15,Dysplasia,28205,36251
+ROI_15,Dysplasia,28251,36206
+ROI_15,Dysplasia,28274,36160
+ROI_15,Dysplasia,28274,36069
+ROI_15,Dysplasia,28251,36008
+ROI_15,Dysplasia,28251,35917
+ROI_15,Dysplasia,28274,35864
+ROI_15,Dysplasia,28327,35803
+ROI_15,Dysplasia,28501,35636
+ROI_15,Dysplasia,28615,35560
+ROI_15,Dysplasia,28676,35500
+ROI_15,Dysplasia,28744,35409
+ROI_15,Dysplasia,28805,35287
+ROI_15,Dysplasia,28850,35242
+ROI_15,Dysplasia,28904,35219
+ROI_15,Dysplasia,28942,35219
+ROI_15,Dysplasia,29078,35264
+ROI_15,Dysplasia,29131,35272
+ROI_15,Dysplasia,29139,35280
+ROI_15,Dysplasia,29184,35280
+ROI_15,Dysplasia,29192,35287
+ROI_15,Dysplasia,29435,35287
+ROI_15,Dysplasia,29503,35264
+ROI_15,Dysplasia,29564,35226
+ROI_15,Dysplasia,29579,35188
+ROI_15,Dysplasia,29579,35128
+ROI_15,Dysplasia,29556,35097
+ROI_15,Dysplasia,29443,35037
+ROI_15,Dysplasia,29389,34991
+ROI_15,Dysplasia,29382,34976
+ROI_15,Dysplasia,29382,34908
+ROI_15,Dysplasia,29405,34862
+ROI_15,Dysplasia,29594,34612
+ROI_15,Dysplasia,29670,34543
+ROI_15,Dysplasia,29875,34414
+ROI_15,Dysplasia,30164,34270
+ROI_15,Dysplasia,30179,34270
+ROI_15,Dysplasia,30194,34255
+ROI_15,Dysplasia,30285,34209
+ROI_15,Dysplasia,30300,34209
+ROI_15,Dysplasia,30482,34088
+ROI_15,Dysplasia,30543,34057
+ROI_15,Dysplasia,30566,34035
+ROI_15,Dysplasia,30740,33921
+ROI_15,Dysplasia,30870,33845
+ROI_15,Dysplasia,30892,33822
+ROI_15,Dysplasia,30915,33815
+ROI_15,Dysplasia,30999,33746
+ROI_15,Dysplasia,31029,33731
+ROI_15,Dysplasia,31097,33670
+ROI_15,Dysplasia,31196,33602
+ROI_15,Dysplasia,31219,33594
+ROI_15,Dysplasia,31279,33549
+ROI_15,Dysplasia,31317,33534
+ROI_15,Dysplasia,31378,33488
+ROI_15,Dysplasia,31401,33481
+ROI_15,Dysplasia,31735,33207
+ROI_15,Dysplasia,31849,33093
+ROI_15,Dysplasia,31955,32964
+ROI_15,Dysplasia,32069,32851
+ROI_15,Dysplasia,32099,32835
+ROI_15,Dysplasia,32183,32760
+ROI_15,Dysplasia,32296,32691
+ROI_15,Dysplasia,32342,32684
+ROI_15,Dysplasia,32539,32600
+ROI_15,Dysplasia,32585,32593
+ROI_15,Dysplasia,32608,32577
+ROI_15,Dysplasia,32722,32555
+ROI_15,Dysplasia,32729,32547
+ROI_15,Dysplasia,32805,32539
+ROI_15,Dysplasia,32835,32524
+ROI_15,Dysplasia,32896,32517
+ROI_15,Dysplasia,32926,32501
+ROI_15,Dysplasia,32964,32501
+ROI_15,Dysplasia,33033,32479
+ROI_15,Dysplasia,33086,32448
+ROI_15,Dysplasia,33101,32448
+ROI_15,Dysplasia,33131,32426
+ROI_15,Dysplasia,33162,32418
+ROI_15,Dysplasia,33192,32395
+ROI_15,Dysplasia,33230,32380
+ROI_15,Dysplasia,33374,32274
+ROI_15,Dysplasia,33465,32228
+ROI_15,Dysplasia,33526,32183
+ROI_15,Dysplasia,33587,32152
+ROI_15,Dysplasia,33648,32137
+ROI_15,Dysplasia,33708,32092
+ROI_15,Dysplasia,33754,32076
+ROI_15,Dysplasia,33807,32038
+ROI_15,Dysplasia,33868,32008
+ROI_15,Dysplasia,33944,31985
+ROI_15,Dysplasia,34073,31871
+ROI_15,Dysplasia,34164,31826
+ROI_15,Dysplasia,34179,31811
+ROI_15,Dysplasia,34308,31750
+ROI_15,Dysplasia,34391,31727
+ROI_15,Dysplasia,34467,31689
+ROI_15,Dysplasia,34528,31674
+ROI_15,Dysplasia,34574,31651
+ROI_15,Dysplasia,34634,31606
+ROI_15,Dysplasia,34816,31522
+ROI_15,Dysplasia,34892,31469
+ROI_15,Dysplasia,35021,31416
+ROI_15,Dysplasia,35082,31363
+ROI_15,Dysplasia,35158,31325
+ROI_15,Dysplasia,35264,31249
+ROI_15,Dysplasia,35355,31196
+ROI_15,Dysplasia,35598,31014
+ROI_15,Dysplasia,35705,30953
+ROI_15,Dysplasia,35735,30923
+ROI_15,Dysplasia,35978,30771
+ROI_15,Dysplasia,36008,30740
+ROI_15,Dysplasia,36084,30695
+ROI_15,Dysplasia,36206,30604
+ROI_15,Dysplasia,36221,30604
+ROI_15,Dysplasia,36266,30581
+ROI_15,Dysplasia,36373,30505
+ROI_15,Dysplasia,36426,30482
+ROI_15,Dysplasia,36509,30422
+ROI_15,Dysplasia,36555,30399
+ROI_15,Dysplasia,36577,30376
+ROI_15,Dysplasia,36676,30315
+ROI_15,Dysplasia,36889,30148
+ROI_15,Dysplasia,36987,30088
+ROI_15,Dysplasia,37078,30012
+ROI_15,Dysplasia,37147,29974
+ROI_15,Dysplasia,37207,29928
+ROI_15,Dysplasia,37230,29921
+ROI_15,Dysplasia,37336,29845
+ROI_15,Dysplasia,37359,29837
+ROI_15,Dysplasia,37458,29761
+ROI_15,Dysplasia,37503,29739
+ROI_15,Dysplasia,37663,29625
+ROI_15,Dysplasia,37739,29587
+ROI_15,Dysplasia,37807,29526
+ROI_15,Dysplasia,37944,29443
+ROI_15,Dysplasia,38035,29374
+ROI_15,Dysplasia,38149,29313
+ROI_15,Dysplasia,38217,29253
+ROI_15,Dysplasia,38338,29184
+ROI_15,Dysplasia,38437,29109
+ROI_15,Dysplasia,38680,28980
+ROI_15,Dysplasia,38847,28866
+ROI_15,Dysplasia,38885,28850
+ROI_15,Dysplasia,38999,28775
+ROI_15,Dysplasia,39082,28737
+ROI_15,Dysplasia,39097,28721
+ROI_15,Dysplasia,39151,28699
+ROI_15,Dysplasia,39166,28683
+ROI_15,Dysplasia,39409,28554
+ROI_15,Dysplasia,39462,28516
+ROI_15,Dysplasia,39720,28380
+ROI_15,Dysplasia,39826,28312
+ROI_15,Dysplasia,39932,28228
+ROI_15,Dysplasia,40016,28190
+ROI_15,Dysplasia,40175,28084
+ROI_15,Dysplasia,40213,28069
+ROI_15,Dysplasia,40274,28023
+ROI_15,Dysplasia,40502,27894
+ROI_15,Dysplasia,40661,27773
+ROI_15,Dysplasia,40927,27613
+ROI_15,Dysplasia,41063,27492
+ROI_15,Dysplasia,41139,27446
+ROI_15,Dysplasia,41177,27408
+ROI_15,Dysplasia,41291,27332
+ROI_15,Dysplasia,41337,27287
+ROI_15,Dysplasia,41435,27219
+ROI_15,Dysplasia,41496,27165
+ROI_15,Dysplasia,41731,27036
+ROI_15,Dysplasia,41800,26983
+ROI_15,Dysplasia,41822,26976
+ROI_15,Dysplasia,41936,26900
+ROI_15,Dysplasia,42247,26649
+ROI_15,Dysplasia,42308,26619
+ROI_15,Dysplasia,42483,26497
+ROI_15,Dysplasia,42506,26490
+ROI_15,Dysplasia,42650,26384
+ROI_15,Dysplasia,42802,26300
+ROI_15,Dysplasia,42817,26285
+ROI_15,Dysplasia,42984,26201
+ROI_15,Dysplasia,43060,26179
+ROI_15,Dysplasia,43082,26163
+ROI_15,Dysplasia,43204,26126
+ROI_15,Dysplasia,43280,26118
+ROI_15,Dysplasia,43287,26110
+ROI_15,Dysplasia,43318,26110
+ROI_15,Dysplasia,43356,26095
+ROI_15,Dysplasia,43409,26088
+ROI_15,Dysplasia,43462,26065
+ROI_15,Dysplasia,43515,26057
+ROI_15,Dysplasia,43553,26042
+ROI_15,Dysplasia,43583,26042
+ROI_15,Dysplasia,43705,26004
+ROI_15,Dysplasia,43796,25996
+ROI_15,Dysplasia,43879,25959
+ROI_15,Dysplasia,43940,25943
+ROI_15,Dysplasia,44069,25875
+ROI_15,Dysplasia,44137,25822
+ROI_15,Dysplasia,44244,25716
+ROI_15,Dysplasia,44342,25594
+ROI_15,Dysplasia,44403,25480
+ROI_15,Dysplasia,44464,25420
+ROI_15,Dysplasia,44479,25389
+ROI_15,Dysplasia,44502,25366
+ROI_15,Dysplasia,44540,25291
+ROI_15,Dysplasia,44563,25222
+ROI_15,Dysplasia,44638,25131
+ROI_15,Dysplasia,44669,25055
+ROI_15,Dysplasia,44707,25017
+ROI_15,Dysplasia,44760,24995
+ROI_15,Dysplasia,44821,24941
+ROI_15,Dysplasia,44874,24919
+ROI_15,Dysplasia,44957,24866
+ROI_15,Dysplasia,45041,24843
+ROI_15,Dysplasia,45079,24797
+ROI_15,Dysplasia,45185,24729
+ROI_15,Dysplasia,45306,24668
+ROI_15,Dysplasia,45329,24668
+ROI_15,Dysplasia,45397,24645
+ROI_15,Dysplasia,45549,24623
+ROI_15,Dysplasia,45587,24607
+ROI_15,Dysplasia,45663,24600
+ROI_15,Dysplasia,45671,24592
+ROI_15,Dysplasia,45853,24577
+ROI_15,Dysplasia,45860,24570
+ROI_15,Dysplasia,45921,24570
+ROI_15,Dysplasia,45929,24562
+ROI_15,Dysplasia,45997,24562
+ROI_15,Dysplasia,46005,24554
+ROI_15,Dysplasia,46126,24547
+ROI_15,Dysplasia,46134,24539
+ROI_15,Dysplasia,46210,24539
+ROI_15,Dysplasia,46217,24532
+ROI_15,Dysplasia,46384,24532
+ROI_15,Dysplasia,46392,24524
+ROI_15,Dysplasia,46437,24524
+ROI_15,Dysplasia,46445,24516
+ROI_15,Dysplasia,46506,24516
+ROI_15,Dysplasia,46513,24509
+ROI_15,Dysplasia,46566,24509
+ROI_15,Dysplasia,46574,24501
+ROI_15,Dysplasia,46688,24494
+ROI_15,Dysplasia,46695,24486
+ROI_15,Dysplasia,46749,24486
+ROI_15,Dysplasia,46756,24478
+ROI_15,Dysplasia,46817,24478
+ROI_15,Dysplasia,47067,24403
+ROI_15,Dysplasia,47287,24289
+ROI_15,Dysplasia,47394,24205
+ROI_15,Dysplasia,47485,24152
+ROI_15,Dysplasia,47637,24000
+ROI_15,Dysplasia,47652,23970
+ROI_15,Dysplasia,47697,23917
+ROI_15,Dysplasia,47697,23902
+ROI_15,Dysplasia,47720,23864
+ROI_15,Dysplasia,47743,23788
+ROI_15,Dysplasia,47758,23765
+ROI_15,Dysplasia,47766,23727
+ROI_15,Dysplasia,47796,23681
+ROI_15,Dysplasia,47804,23651
+ROI_15,Dysplasia,47857,23583
+ROI_15,Dysplasia,47933,23522
+ROI_15,Dysplasia,48001.8306451613,23506.1693548387
+ROI_15,Dysplasia,48057,23384
+ROI_15,Dysplasia,48078,23364
+ROI_15,Dysplasia,48108,23292
+ROI_15,Dysplasia,48149,23231
+ROI_15,Dysplasia,48180,23159
+ROI_15,Dysplasia,48200,23149
+ROI_15,Dysplasia,48272,23067
+ROI_15,Dysplasia,48343,23016
+ROI_15,Dysplasia,48364,22995
+ROI_15,Dysplasia,48384,22955
+ROI_15,Dysplasia,48425,22944
+ROI_15,Dysplasia,48466,22903
+ROI_15,Dysplasia,48487,22893
+ROI_15,Dysplasia,48558,22822
+ROI_15,Dysplasia,48599,22760
+ROI_15,Dysplasia,48681,22709
+ROI_15,Dysplasia,48712,22678
+ROI_15,Dysplasia,48845,22627
+ROI_15,Dysplasia,48861.6875,22627
+ROI_15,Dysplasia,48893,22460
+ROI_15,Dysplasia,49012,22041
+ROI_15,Dysplasia,49168,21742
+ROI_15,Dysplasia,49240,21634
+ROI_15,Dysplasia,49288,21527
+ROI_15,Dysplasia,49359,21431
+ROI_15,Dysplasia,49455,21215
+ROI_15,Dysplasia,49599,21012
+ROI_15,Dysplasia,49695,20904
+ROI_15,Dysplasia,49778,20772
+ROI_15,Dysplasia,49898,20665
+ROI_15,Dysplasia,49958,20581
+ROI_15,Dysplasia,50018,20521
+ROI_15,Dysplasia,50102,20461
+ROI_15,Dysplasia,50138,20413
+ROI_15,Dysplasia,50317,20269
+ROI_15,Dysplasia,50377,20245
+ROI_15,Dysplasia,50413,20210
+ROI_15,Dysplasia,50473,20186
+ROI_15,Dysplasia,50545,20138
+ROI_15,Dysplasia,50605,20126
+ROI_15,Dysplasia,50664,20102
+ROI_15,Dysplasia,50772,20042
+ROI_15,Dysplasia,50856,20006
+ROI_15,Dysplasia,50904,19970
+ROI_15,Dysplasia,51024,19922
+ROI_15,Dysplasia,51083,19886
+ROI_15,Dysplasia,51203,19767
+ROI_15,Dysplasia,51251,19743
+ROI_15,Dysplasia,51335,19683
+ROI_15,Dysplasia,51467,19623
+ROI_15,Dysplasia,52209,19395
+ROI_15,Dysplasia,52293,19359
+ROI_15,Dysplasia,52377,19336
+ROI_15,Dysplasia,52484,19276
+ROI_15,Dysplasia,52556,19264
+ROI_15,Dysplasia,52712,19204
+ROI_15,Dysplasia,52915,19168
+ROI_15,Dysplasia,52949,19168
+ROI_15,Dysplasia,52959,19127
+ROI_15,Dysplasia,53122,18943
+ROI_15,Dysplasia,53163,18912
+ROI_15,Dysplasia,53358,18820
+ROI_15,Dysplasia,53378,18799
+ROI_15,Dysplasia,53429,18769
+ROI_15,Dysplasia,53624,18718
+ROI_15,Dysplasia,53705,18656
+ROI_15,Dysplasia,53757.9872630332,18627.7135663507
+ROI_15,Dysplasia,53823,18543
+ROI_15,Dysplasia,53906,18459
+ROI_15,Dysplasia,53937,18444
+ROI_15,Dysplasia,53975,18406
+ROI_15,Dysplasia,53990,18376
+ROI_15,Dysplasia,54096,18270
+ROI_15,Dysplasia,54126,18209
+ROI_15,Dysplasia,54157,18171
+ROI_15,Dysplasia,54172,18133
+ROI_15,Dysplasia,54202,18103
+ROI_15,Dysplasia,54225,18095
+ROI_15,Dysplasia,54377,17973
+ROI_15,Dysplasia,54521,17837
+ROI_15,Dysplasia,54589,17784
+ROI_15,Dysplasia,54620,17753
+ROI_15,Dysplasia,54627,17731
+ROI_15,Dysplasia,54734,17624
+ROI_15,Dysplasia,54764,17564
+ROI_15,Dysplasia,54802,17518
+ROI_15,Dysplasia,54825,17473
+ROI_15,Dysplasia,54825,17450
+ROI_15,Dysplasia,54863,17374
+ROI_15,Dysplasia,54908,17313
+ROI_15,Dysplasia,54916,17290
+ROI_15,Dysplasia,54939,17268
+ROI_15,Dysplasia,54954,17230
+ROI_15,Dysplasia,55014,17161
+ROI_15,Dysplasia,55068,17131
+ROI_15,Dysplasia,55090,17131
+ROI_15,Dysplasia,55151,17108
+ROI_15,Dysplasia,55212,17101
+ROI_15,Dysplasia,55219,17093
+ROI_15,Dysplasia,55273,17093
+ROI_15,Dysplasia,55280,17085
+ROI_15,Dysplasia,55318,17085
+ROI_15,Dysplasia,55326,17078
+ROI_15,Dysplasia,55402,17085
+ROI_15,Dysplasia,55409,17093
+ROI_15,Dysplasia,55493,17093
+ROI_15,Dysplasia,55629,17063
+ROI_15,Dysplasia,55773,16972
+ROI_15,Dysplasia,55842,16941
+ROI_15,Dysplasia,55857,16941
+ROI_15,Dysplasia,55940,16873
+ROI_15,Dysplasia,56001,16843
+ROI_15,Dysplasia,56062,16789
+ROI_15,Dysplasia,56123,16751
+ROI_15,Dysplasia,56153,16706
+ROI_15,Dysplasia,56335,16516
+ROI_15,Dysplasia,56381,16440
+ROI_15,Dysplasia,56426,16387
+ROI_15,Dysplasia,56555,16266
+ROI_15,Dysplasia,56624,16152
+ROI_15,Dysplasia,56639,16038
+ROI_15,Dysplasia,56669,15954
+ROI_15,Dysplasia,56662,15704
+ROI_15,Dysplasia,56654,15696
+ROI_15,Dysplasia,56654,15643
+ROI_15,Dysplasia,56646,15636
+ROI_15,Dysplasia,56646,15605
+ROI_15,Dysplasia,56654,15598
+ROI_15,Dysplasia,56654,15522
+ROI_15,Dysplasia,56646,15514
+ROI_15,Dysplasia,56646,15476
+ROI_15,Dysplasia,56639,15469
+ROI_15,Dysplasia,56639,15355
+ROI_15,Dysplasia,56646,15347
+ROI_15,Dysplasia,56639,15279
+ROI_15,Dysplasia,56646,15271
+ROI_15,Dysplasia,56654,15195
+ROI_15,Dysplasia,56684,15135
+ROI_15,Dysplasia,56722,15097
+ROI_15,Dysplasia,56791,15066
+ROI_15,Dysplasia,56874,15066
+ROI_15,Dysplasia,56935,15104
+ROI_15,Dysplasia,56935,15122.9
+ROI_15,Dysplasia,56953,15095
+ROI_15,Dysplasia,56984,15075
+ROI_15,Dysplasia,56994,15054
+ROI_15,Dysplasia,57015,15044
+ROI_15,Dysplasia,57025,15023
+ROI_15,Dysplasia,57189,14901
+ROI_15,Dysplasia,57271,14819
+ROI_15,Dysplasia,57291,14788
+ROI_15,Dysplasia,57352,14737
+ROI_15,Dysplasia,57363,14696
+ROI_15,Dysplasia,57393,14676
+ROI_15,Dysplasia,57403,14645
+ROI_15,Dysplasia,57455,14584
+ROI_15,Dysplasia,57475,14543
+ROI_15,Dysplasia,57608,14420
+ROI_15,Dysplasia,57629,14410
+ROI_15,Dysplasia,57639,14389
+ROI_15,Dysplasia,57669,14369
+ROI_15,Dysplasia,57690,14328
+ROI_15,Dysplasia,57782,14236
+ROI_15,Dysplasia,57813,14195
+ROI_15,Dysplasia,57874,14042
+ROI_15,Dysplasia,57946,13898
+ROI_15,Dysplasia,57966,13806
+ROI_15,Dysplasia,57997,13745
+ROI_15,Dysplasia,58017,13653
+ROI_15,Dysplasia,58089,13510
+ROI_15,Dysplasia,58130,13407
+ROI_15,Dysplasia,58150,13305
+ROI_15,Dysplasia,58191,13234
+ROI_15,Dysplasia,58222,13162
+ROI_15,Dysplasia,58232,13111
+ROI_15,Dysplasia,58283,13009
+ROI_15,Dysplasia,58365,12722
+ROI_15,Dysplasia,58385,12691
+ROI_15,Dysplasia,58396,12651
+ROI_15,Dysplasia,58426,12538
+ROI_15,Dysplasia,58437,12436
+ROI_15,Dysplasia,58457,12374
+ROI_15,Dysplasia,58477,12252
+ROI_15,Dysplasia,58518,12139
+ROI_15,Dysplasia,58518,11976
+ROI_15,Dysplasia,58508,11965
+ROI_15,Dysplasia,58508,11945
+ROI_15,Dysplasia,58498,11935
+ROI_15,Dysplasia,58477,11873
+ROI_15,Dysplasia,58457,11771
+ROI_15,Dysplasia,58457,11720
+ROI_15,Dysplasia,58447,11710
+ROI_15,Dysplasia,58447,11638
+ROI_15,Dysplasia,58437,11577
+ROI_15,Dysplasia,58426,11556
+ROI_15,Dysplasia,58426,11505
+ROI_15,Dysplasia,58416,11464
+ROI_15,Dysplasia,58406,11454
+ROI_15,Dysplasia,58406,11423
+ROI_15,Dysplasia,58396,11413
+ROI_15,Dysplasia,58396,11393
+ROI_15,Dysplasia,58365,11352
+ROI_15,Dysplasia,58355,11290
+ROI_15,Dysplasia,58334,11280
+ROI_15,Dysplasia,58309,11112
+ROI_15,Dysplasia,58157,10793
+ROI_15,Dysplasia,58104,10710
+ROI_15,Dysplasia,58035,10634
+ROI_15,Dysplasia,57990,10550
+ROI_15,Dysplasia,57975,10497
+ROI_15,Dysplasia,57952,10467
+ROI_15,Dysplasia,57868,10292
+ROI_15,Dysplasia,57823,10231
+ROI_15,Dysplasia,57793,10171
+ROI_15,Dysplasia,57724,10080
+ROI_15,Dysplasia,57671,10026
+ROI_15,Dysplasia,57618,9988
+ROI_15,Dysplasia,57527,9943
+ROI_15,Dysplasia,57367,9890
+ROI_15,Dysplasia,57223,9821
+ROI_15,Dysplasia,57064,9708
+ROI_15,Dysplasia,57018,9662
+ROI_15,Dysplasia,56942,9609
+ROI_15,Dysplasia,56882,9548
+ROI_15,Dysplasia,56859,9510
+ROI_15,Dysplasia,56859,9487
+ROI_15,Dysplasia,56821,9419
+ROI_15,Dysplasia,56821,9389
+ROI_15,Dysplasia,56791,9336
+ROI_15,Dysplasia,56768,9252
+ROI_15,Dysplasia,56707,9184
+ROI_15,Dysplasia,56684,9138
+ROI_15,Dysplasia,56570,8994
+ROI_15,Dysplasia,56487,8918
+ROI_15,Dysplasia,56381,8880
+ROI_15,Dysplasia,56259,8880
+ROI_15,Dysplasia,56214,8865
+ROI_15,Dysplasia,56047,8865
+ROI_15,Dysplasia,55948,8903
+ROI_15,Dysplasia,55872,8911
+ROI_15,Dysplasia,55827,8926
+ROI_15,Dysplasia,55690,8994
+ROI_15,Dysplasia,55614,8994
+ROI_15,Dysplasia,55607,9002
+ROI_15,Dysplasia,55576,9002
+ROI_15,Dysplasia,55424,9055
+ROI_15,Dysplasia,55341,9062
+ROI_15,Dysplasia,55333,9070
+ROI_15,Dysplasia,55212,9070
+ROI_15,Dysplasia,55204,9078
+ROI_15,Dysplasia,55128,9085
+ROI_15,Dysplasia,55121,9093
+ROI_15,Dysplasia,54969,9100
+ROI_15,Dysplasia,54961,9108
+ROI_15,Dysplasia,54908,9116
+ROI_15,Dysplasia,54802,9169
+ROI_15,Dysplasia,54627,9222
+ROI_15,Dysplasia,54582,9252
+ROI_15,Dysplasia,54392,9343
+ROI_15,Dysplasia,54248,9472
+ROI_15,Dysplasia,54126,9533
+ROI_15,Dysplasia,54081,9548
+ROI_15,Dysplasia,53990,9556
+ROI_15,Dysplasia,53899,9586
+ROI_15,Dysplasia,53808,9586
+ROI_15,Dysplasia,53800,9594
+ROI_15,Dysplasia,53754,9601
+ROI_15,Dysplasia,53679,9654
+ROI_15,Dysplasia,53618,9685
+ROI_15,Dysplasia,53603,9685
+ROI_15,Dysplasia,53557,9715
+ROI_15,Dysplasia,53413,9783
+ROI_15,Dysplasia,53345,9837
+ROI_15,Dysplasia,53155,9958
+ROI_15,Dysplasia,53033,10072
+ROI_15,Dysplasia,53003,10087
+ROI_15,Dysplasia,52950,10133
+ROI_15,Dysplasia,52874,10171
+ROI_15,Dysplasia,52836,10201
+ROI_15,Dysplasia,52821,10201
+ROI_15,Dysplasia,52768,10231
+ROI_15,Dysplasia,52753,10231
+ROI_15,Dysplasia,52722,10254
+ROI_15,Dysplasia,52669,10269
+ROI_15,Dysplasia,52631,10292
+ROI_15,Dysplasia,52532,10322
+ROI_15,Dysplasia,52434,10330
+ROI_15,Dysplasia,52426,10338
+ROI_15,Dysplasia,52381,10338
+ROI_15,Dysplasia,52373,10345
+ROI_15,Dysplasia,52327,10345
+ROI_15,Dysplasia,52320,10353
+ROI_15,Dysplasia,52236,10368
+ROI_15,Dysplasia,52229,10376
+ROI_15,Dysplasia,52168,10376
+ROI_15,Dysplasia,52160,10383
+ROI_15,Dysplasia,52085,10391
+ROI_15,Dysplasia,51789,10474
+ROI_15,Dysplasia,51713,10482
+ROI_15,Dysplasia,51652,10505
+ROI_15,Dysplasia,51622,10505
+ROI_15,Dysplasia,51553,10535
+ROI_15,Dysplasia,51515,10543
+ROI_15,Dysplasia,51477,10565
+ROI_15,Dysplasia,51439,10573
+ROI_15,Dysplasia,51401,10596
+ROI_15,Dysplasia,51386,10596
+ROI_15,Dysplasia,51356,10618
+ROI_15,Dysplasia,51310,10634
+ROI_15,Dysplasia,51265,10664
+ROI_15,Dysplasia,51181,10702
+ROI_15,Dysplasia,51113,10747
+ROI_15,Dysplasia,51098,10747
+ROI_15,Dysplasia,51022,10785
+ROI_15,Dysplasia,50999,10785
+ROI_15,Dysplasia,50946,10808
+ROI_15,Dysplasia,50893,10816
+ROI_15,Dysplasia,50870,10831
+ROI_15,Dysplasia,50787,10854
+ROI_15,Dysplasia,50764,10869
+ROI_15,Dysplasia,50718,10876
+ROI_15,Dysplasia,50680,10899
+ROI_15,Dysplasia,50559,10937
+ROI_15,Dysplasia,50460,10983
+ROI_15,Dysplasia,50437,10983
+ROI_15,Dysplasia,50210,11059
+ROI_15,Dysplasia,50141,11074
+ROI_15,Dysplasia,49997,11150
+ROI_15,Dysplasia,49982,11150
+ROI_15,Dysplasia,49770,11264
+ROI_15,Dysplasia,49489,11446
+ROI_15,Dysplasia,49382,11537
+ROI_15,Dysplasia,49269,11658
+ROI_15,Dysplasia,49170,11749
+ROI_15,Dysplasia,49048,11818
+ROI_15,Dysplasia,48889,11871
+ROI_15,Dysplasia,48699,11977
+ROI_15,Dysplasia,48563,12023
+ROI_15,Dysplasia,48312,12152
+ROI_15,Dysplasia,48198,12235
+ROI_15,Dysplasia,48145,12288
+ROI_15,Dysplasia,48107,12349
+ROI_15,Dysplasia,48046,12410
+ROI_15,Dysplasia,47963,12448
+ROI_15,Dysplasia,47849,12524
+ROI_15,Dysplasia,47758,12554
+ROI_15,Dysplasia,47667,12600
+ROI_15,Dysplasia,47568,12668
+ROI_15,Dysplasia,47447,12706
+ROI_15,Dysplasia,47424,12721
+ROI_15,Dysplasia,47379,12729
+ROI_15,Dysplasia,47310,12759
+ROI_15,Dysplasia,47287,12759
+ROI_15,Dysplasia,47242,12782
+ROI_15,Dysplasia,47181,12789
+ROI_15,Dysplasia,47120,12812
+ROI_15,Dysplasia,47083,12812
+ROI_15,Dysplasia,47075,12820
+ROI_15,Dysplasia,47029,12827
+ROI_15,Dysplasia,47007,12842
+ROI_15,Dysplasia,46969,12850
+ROI_15,Dysplasia,46938,12873
+ROI_15,Dysplasia,46923,12873
+ROI_15,Dysplasia,46855,12911
+ROI_15,Dysplasia,46764,12941
+ROI_15,Dysplasia,46726,12964
+ROI_15,Dysplasia,46673,12971
+ROI_15,Dysplasia,46513,13025
+ROI_15,Dysplasia,46437,13032
+ROI_15,Dysplasia,46392,13055
+ROI_15,Dysplasia,46346,13063
+ROI_15,Dysplasia,46316,13085
+ROI_15,Dysplasia,46278,13093
+ROI_15,Dysplasia,46248,13116
+ROI_15,Dysplasia,46217,13123
+ROI_15,Dysplasia,46179,13146
+ROI_15,Dysplasia,45997,13207
+ROI_15,Dysplasia,45974,13207
+ROI_15,Dysplasia,45891,13237
+ROI_15,Dysplasia,45868,13237
+ROI_15,Dysplasia,45754,13275
+ROI_15,Dysplasia,45709,13298
+ROI_15,Dysplasia,45595,13336
+ROI_15,Dysplasia,45572,13336
+ROI_15,Dysplasia,45511,13366
+ROI_15,Dysplasia,45428,13419
+ROI_15,Dysplasia,45405,13442
+ROI_15,Dysplasia,45193,13556
+ROI_15,Dysplasia,45094,13624
+ROI_15,Dysplasia,45063,13632
+ROI_15,Dysplasia,45048,13647
+ROI_15,Dysplasia,44995,13670
+ROI_15,Dysplasia,44912,13723
+ROI_15,Dysplasia,44896,13723
+ROI_15,Dysplasia,44798,13768
+ROI_15,Dysplasia,44783,13784
+ROI_15,Dysplasia,44669,13837
+ROI_15,Dysplasia,44654,13852
+ROI_15,Dysplasia,44509,13928
+ROI_15,Dysplasia,44403,14004
+ROI_15,Dysplasia,44327,14080
+ROI_15,Dysplasia,44274,14110
+ROI_15,Dysplasia,44213,14163
+ROI_15,Dysplasia,44213,14171
+ROI_15,Dysplasia,44137,14247
+ROI_15,Dysplasia,44069,14292
+ROI_15,Dysplasia,44008,14323
+ROI_15,Dysplasia,43826,14376
+ROI_15,Dysplasia,43697,14436
+ROI_15,Dysplasia,43682,14452
+ROI_15,Dysplasia,43629,14474
+ROI_15,Dysplasia,43583,14505
+ROI_15,Dysplasia,43500,14573
+ROI_15,Dysplasia,43424,14611
+ROI_15,Dysplasia,43378,14649
+ROI_15,Dysplasia,43280,14702
+ROI_15,Dysplasia,43227,14748
+ROI_15,Dysplasia,43113,14816
+ROI_15,Dysplasia,43022,14884
+ROI_15,Dysplasia,42961,14953
+ROI_15,Dysplasia,42923,15013
+ROI_15,Dysplasia,42824,15135
+ROI_15,Dysplasia,42665,15294
+ROI_15,Dysplasia,42422,15400
+ROI_15,Dysplasia,42278,15438
+ROI_15,Dysplasia,42255,15453
+ROI_15,Dysplasia,42118,15499
+ROI_15,Dysplasia,42080,15522
+ROI_15,Dysplasia,42058,15522
+ROI_15,Dysplasia,41974,15560
+ROI_15,Dysplasia,41959,15560
+ROI_15,Dysplasia,41754,15674
+ROI_15,Dysplasia,41572,15810
+ROI_15,Dysplasia,41443,15886
+ROI_15,Dysplasia,41390,15894
+ROI_15,Dysplasia,41329,15916
+ROI_15,Dysplasia,41246,15924
+ROI_15,Dysplasia,41215,15939
+ROI_15,Dysplasia,41147,15954
+ROI_15,Dysplasia,41094,15985
+ROI_15,Dysplasia,41079,15985
+ROI_15,Dysplasia,41048,16008
+ROI_15,Dysplasia,41018,16015
+ROI_15,Dysplasia,40987,16038
+ROI_15,Dysplasia,40972,16038
+ROI_15,Dysplasia,40866,16091
+ROI_15,Dysplasia,40729,16175
+ROI_15,Dysplasia,40684,16213
+ROI_15,Dysplasia,40486,16311
+ROI_15,Dysplasia,40456,16319
+ROI_15,Dysplasia,40373,16372
+ROI_15,Dysplasia,40350,16395
+ROI_15,Dysplasia,40251,16440
+ROI_15,Dysplasia,40107,16546
+ROI_15,Dysplasia,39955,16622
+ROI_15,Dysplasia,39925,16622
+ROI_15,Dysplasia,39917,16630
+ROI_15,Dysplasia,39849,16645
+ROI_15,Dysplasia,39758,16691
+ROI_15,Dysplasia,39743,16706
+ROI_15,Dysplasia,39705,16713
+ROI_15,Dysplasia,39659,16736
+ROI_15,Dysplasia,39614,16767
+ROI_15,Dysplasia,39485,16896
+ROI_15,Dysplasia,39447,16911
+ROI_15,Dysplasia,39393,16949
+ROI_15,Dysplasia,39302,17032
+ROI_15,Dysplasia,39226,17116
+ROI_15,Dysplasia,39151,17161
+ROI_15,Dysplasia,39097,17230
+ROI_15,Dysplasia,39058,17333
+ROI_15,Dysplasia,39052,17389
+ROI_15,Dysplasia,39044,17397
+ROI_15,Dysplasia,39052,17457
+ROI_15,Dysplasia,39067,17488
+ROI_15,Dysplasia,39120,17533
+ROI_18,Dysplasia,59007,25465
+ROI_18,Dysplasia,59007,25496
+ROI_18,Dysplasia,58999,25503
+ROI_18,Dysplasia,58984,25609
+ROI_18,Dysplasia,58977,25617
+ROI_18,Dysplasia,58977,25655
+ROI_18,Dysplasia,58969,25663
+ROI_18,Dysplasia,58977,25754
+ROI_18,Dysplasia,58992,25776
+ROI_18,Dysplasia,59053,25776
+ROI_18,Dysplasia,59060,25784
+ROI_18,Dysplasia,59128,25776
+ROI_18,Dysplasia,59174,25754
+ROI_18,Dysplasia,59295,25716
+ROI_18,Dysplasia,59356,25678
+ROI_18,Dysplasia,59455,25647
+ROI_18,Dysplasia,59508,25617
+ROI_18,Dysplasia,59596,25589
+ROI_18,Dysplasia,59569,25602
+ROI_18,Dysplasia,59637,25571
+ROI_18,Dysplasia,59690,25564
+ROI_18,Dysplasia,59796,25511
+ROI_18,Dysplasia,59857,25503
+ROI_18,Dysplasia,59910,25480
+ROI_18,Dysplasia,59971,25473
+ROI_18,Dysplasia,59979,25465
+ROI_18,Dysplasia,60146,25450
+ROI_18,Dysplasia,60153,25442
+ROI_18,Dysplasia,60282,25435
+ROI_18,Dysplasia,60290,25442
+ROI_18,Dysplasia,60434,25442
+ROI_18,Dysplasia,60442,25450
+ROI_18,Dysplasia,60874,25450
+ROI_18,Dysplasia,60882,25442
+ROI_18,Dysplasia,60889,25450
+ROI_18,Dysplasia,61163,25450
+ROI_18,Dysplasia,61170,25442
+ROI_18,Dysplasia,61390,25427
+ROI_18,Dysplasia,61398,25420
+ROI_18,Dysplasia,61451,25420
+ROI_18,Dysplasia,61459,25412
+ROI_18,Dysplasia,61542,25412
+ROI_18,Dysplasia,61550,25404
+ROI_18,Dysplasia,61573,25412
+ROI_18,Dysplasia,61656,25412
+ROI_18,Dysplasia,61664,25404
+ROI_18,Dysplasia,61724,25404
+ROI_18,Dysplasia,61732,25397
+ROI_18,Dysplasia,62104,25389
+ROI_18,Dysplasia,62149,25374
+ROI_18,Dysplasia,62218,25366
+ROI_18,Dysplasia,62309,25329
+ROI_18,Dysplasia,62354,25321
+ROI_18,Dysplasia,62407,25291
+ROI_18,Dysplasia,62423,25291
+ROI_18,Dysplasia,62438,25275
+ROI_18,Dysplasia,62453,25275
+ROI_18,Dysplasia,62521,25245
+ROI_18,Dysplasia,62582,25207
+ROI_18,Dysplasia,62658,25184
+ROI_18,Dysplasia,62772,25131
+ROI_18,Dysplasia,62878,25101
+ROI_18,Dysplasia,62992,25093
+ROI_18,Dysplasia,63000,25086
+ROI_18,Dysplasia,63144,25086
+ROI_18,Dysplasia,63151,25078
+ROI_18,Dysplasia,63174,25078
+ROI_18,Dysplasia,63182,25086
+ROI_18,Dysplasia,63387,25093
+ROI_18,Dysplasia,63394,25101
+ROI_18,Dysplasia,63614,25108
+ROI_18,Dysplasia,63683,25086
+ROI_18,Dysplasia,63705,25086
+ROI_18,Dysplasia,63804,25040
+ROI_18,Dysplasia,63827,25040
+ROI_18,Dysplasia,63880,25017
+ROI_18,Dysplasia,63956,24964
+ROI_18,Dysplasia,64138,24873
+ROI_18,Dysplasia,64161,24850
+ROI_18,Dysplasia,64275,24782
+ROI_18,Dysplasia,64297,24759
+ROI_18,Dysplasia,64335,24744
+ROI_18,Dysplasia,64442,24676
+ROI_18,Dysplasia,64631,24577
+ROI_18,Dysplasia,64647,24577
+ROI_18,Dysplasia,64692,24547
+ROI_18,Dysplasia,64723,24539
+ROI_18,Dysplasia,64753,24516
+ROI_18,Dysplasia,64783,24509
+ROI_18,Dysplasia,64798,24494
+ROI_18,Dysplasia,64852,24471
+ROI_18,Dysplasia,64935,24410
+ROI_18,Dysplasia,65132,24311
+ROI_18,Dysplasia,65178,24296
+ROI_18,Dysplasia,65254,24296
+ROI_18,Dysplasia,65261,24289
+ROI_18,Dysplasia,65497,24304
+ROI_18,Dysplasia,65504,24311
+ROI_18,Dysplasia,65542,24311
+ROI_18,Dysplasia,65550,24319
+ROI_18,Dysplasia,65633,24334
+ROI_18,Dysplasia,65778,24418
+ROI_18,Dysplasia,65891,24539
+ROI_18,Dysplasia,65914,24585
+ROI_18,Dysplasia,65929,24653
+ROI_18,Dysplasia,65937,24661
+ROI_18,Dysplasia,65945,24812
+ROI_18,Dysplasia,65937,24820
+ROI_18,Dysplasia,65937,24858
+ROI_18,Dysplasia,65929,24866
+ROI_18,Dysplasia,65922,25169
+ROI_18,Dysplasia,65914,25177
+ROI_18,Dysplasia,65914,25222
+ROI_18,Dysplasia,65907,25230
+ROI_18,Dysplasia,65899,25382
+ROI_18,Dysplasia,65891,25389
+ROI_18,Dysplasia,65884,25549
+ROI_18,Dysplasia,65876,25556
+ROI_18,Dysplasia,65876,25594
+ROI_18,Dysplasia,65853,25663
+ROI_18,Dysplasia,65853,25685
+ROI_18,Dysplasia,65808,25784
+ROI_18,Dysplasia,65793,25845
+ROI_18,Dysplasia,65709,26004
+ROI_18,Dysplasia,65709,26019
+ROI_18,Dysplasia,65671,26088
+ROI_18,Dysplasia,65641,26186
+ROI_18,Dysplasia,65626,26209
+ROI_18,Dysplasia,65618,26255
+ROI_18,Dysplasia,65588,26323
+ROI_18,Dysplasia,65580,26368
+ROI_18,Dysplasia,65550,26444
+ROI_18,Dysplasia,65527,26558
+ROI_18,Dysplasia,65504,26604
+ROI_18,Dysplasia,65504,26619
+ROI_18,Dysplasia,65444,26756
+ROI_18,Dysplasia,65413,26801
+ROI_18,Dysplasia,65413,26816
+ROI_18,Dysplasia,65375,26885
+ROI_18,Dysplasia,65368,26923
+ROI_18,Dysplasia,65345,26968
+ROI_18,Dysplasia,65284,27052
+ROI_18,Dysplasia,65231,27143
+ROI_18,Dysplasia,65125,27256
+ROI_18,Dysplasia,65102,27294
+ROI_18,Dysplasia,64950,27439
+ROI_18,Dysplasia,64859,27484
+ROI_18,Dysplasia,64844,27499
+ROI_18,Dysplasia,64829,27499
+ROI_18,Dysplasia,64814,27515
+ROI_18,Dysplasia,64783,27522
+ROI_18,Dysplasia,64624,27606
+ROI_18,Dysplasia,64449,27727
+ROI_18,Dysplasia,64366,27818
+ROI_18,Dysplasia,64297,27864
+ROI_18,Dysplasia,64260,27909
+ROI_18,Dysplasia,64191,27970
+ROI_18,Dysplasia,64130,28053
+ROI_18,Dysplasia,64047,28145
+ROI_18,Dysplasia,64001,28213
+ROI_18,Dysplasia,63979,28266
+ROI_18,Dysplasia,63963,28281
+ROI_18,Dysplasia,63941,28350
+ROI_18,Dysplasia,63880,28463
+ROI_18,Dysplasia,63857,28532
+ROI_18,Dysplasia,63834,28570
+ROI_18,Dysplasia,63789,28706
+ROI_18,Dysplasia,63774,28782
+ROI_18,Dysplasia,63736,28881
+ROI_18,Dysplasia,63736,28904
+ROI_18,Dysplasia,63705,28972
+ROI_18,Dysplasia,63705,28995
+ROI_18,Dysplasia,63675,29086
+ROI_18,Dysplasia,63675,29124
+ROI_18,Dysplasia,63667,29131
+ROI_18,Dysplasia,63667,29298
+ROI_18,Dysplasia,63683,29336
+ROI_18,Dysplasia,63683,29374
+ROI_18,Dysplasia,63721,29511
+ROI_18,Dysplasia,63766,29617
+ROI_18,Dysplasia,63766,29670
+ROI_18,Dysplasia,63743,29716
+ROI_18,Dysplasia,63683,29769
+ROI_18,Dysplasia,63546,29822
+ROI_18,Dysplasia,63478,29875
+ROI_18,Dysplasia,63409,29959
+ROI_18,Dysplasia,63371,30027
+ROI_18,Dysplasia,63258,30156
+ROI_18,Dysplasia,63015,30315
+ROI_18,Dysplasia,62931,30384
+ROI_18,Dysplasia,62848,30467
+ROI_18,Dysplasia,62795,30543
+ROI_18,Dysplasia,62787,30566
+ROI_18,Dysplasia,62726,30634
+ROI_18,Dysplasia,62635,30695
+ROI_18,Dysplasia,62552,30733
+ROI_18,Dysplasia,62483,30778
+ROI_18,Dysplasia,62445,30816
+ROI_18,Dysplasia,62392,30877
+ROI_18,Dysplasia,62362,30938
+ROI_18,Dysplasia,62309,31105
+ROI_18,Dysplasia,62263,31196
+ROI_18,Dysplasia,62218,31241
+ROI_18,Dysplasia,62165,31317
+ROI_18,Dysplasia,62073,31416
+ROI_18,Dysplasia,61853,31591
+ROI_18,Dysplasia,61800,31644
+ROI_18,Dysplasia,61777,31682
+ROI_18,Dysplasia,61702,31765
+ROI_18,Dysplasia,61565,31902
+ROI_18,Dysplasia,61489,31963
+ROI_18,Dysplasia,61406,32046
+ROI_18,Dysplasia,61352,32084
+ROI_18,Dysplasia,61239,32198
+ROI_18,Dysplasia,61087,32426
+ROI_18,Dysplasia,60996,32524
+ROI_18,Dysplasia,60935,32570
+ROI_18,Dysplasia,60874,32600
+ROI_18,Dysplasia,60745,32699
+ROI_18,Dysplasia,60707,32737
+ROI_18,Dysplasia,60669,32797
+ROI_18,Dysplasia,60601,32873
+ROI_18,Dysplasia,60540,32987
+ROI_18,Dysplasia,60495,33048
+ROI_18,Dysplasia,60442,33162
+ROI_18,Dysplasia,60396,33230
+ROI_18,Dysplasia,60358,33260
+ROI_18,Dysplasia,60358,33268
+ROI_18,Dysplasia,60206,33420
+ROI_18,Dysplasia,60176,33435
+ROI_18,Dysplasia,60070,33526
+ROI_18,Dysplasia,60001,33572
+ROI_18,Dysplasia,59743,33830
+ROI_18,Dysplasia,59713,33883
+ROI_18,Dysplasia,59637,33966
+ROI_18,Dysplasia,59576,34065
+ROI_18,Dysplasia,59478,34179
+ROI_18,Dysplasia,59447,34232
+ROI_18,Dysplasia,59364,34316
+ROI_18,Dysplasia,59333,34384
+ROI_18,Dysplasia,59257,34483
+ROI_18,Dysplasia,59220,34558
+ROI_18,Dysplasia,59113,34695
+ROI_18,Dysplasia,59060,34794
+ROI_18,Dysplasia,58999,34854
+ROI_18,Dysplasia,58946,34946
+ROI_18,Dysplasia,58870,35021
+ROI_18,Dysplasia,58832,35097
+ROI_18,Dysplasia,58810,35120
+ROI_18,Dysplasia,58794,35120
+ROI_18,Dysplasia,58764,35090
+ROI_18,Dysplasia,58764,34968
+ROI_18,Dysplasia,58734,34946
+ROI_18,Dysplasia,58688,34885
+ROI_18,Dysplasia,58605,34930
+ROI_18,Dysplasia,58567,34968
+ROI_18,Dysplasia,58514,34999
+ROI_18,Dysplasia,58453,35059
+ROI_18,Dysplasia,58400,35097
+ROI_18,Dysplasia,58339,35188
+ROI_18,Dysplasia,58301,35226
+ROI_18,Dysplasia,58256,35310
+ROI_18,Dysplasia,58256,35325
+ROI_18,Dysplasia,58225,35386
+ROI_18,Dysplasia,58225,35500
+ROI_18,Dysplasia,58240,35545
+ROI_18,Dysplasia,58256,35560
+ROI_18,Dysplasia,58301,35568
+ROI_18,Dysplasia,58309,35576
+ROI_18,Dysplasia,58423,35576
+ROI_18,Dysplasia,58453,35591
+ROI_18,Dysplasia,58460,35621
+ROI_18,Dysplasia,58407,35667
+ROI_18,Dysplasia,58339,35674
+ROI_18,Dysplasia,58331,35682
+ROI_18,Dysplasia,58256,35689
+ROI_18,Dysplasia,58210,35659
+ROI_18,Dysplasia,58187,35659
+ROI_18,Dysplasia,58058,35750
+ROI_18,Dysplasia,58013,35811
+ROI_18,Dysplasia,58013,35826
+ROI_18,Dysplasia,57982,35887
+ROI_18,Dysplasia,57967,35985
+ROI_18,Dysplasia,57929,36039
+ROI_18,Dysplasia,57846,36114
+ROI_18,Dysplasia,57709,36190
+ROI_18,Dysplasia,57314,36540
+ROI_18,Dysplasia,57276,36562
+ROI_18,Dysplasia,57155,36669
+ROI_18,Dysplasia,57071,36722
+ROI_18,Dysplasia,56950,36836
+ROI_18,Dysplasia,56912,36904
+ROI_18,Dysplasia,56889,36927
+ROI_18,Dysplasia,56829,37071
+ROI_18,Dysplasia,56823,37130
+ROI_18,Dysplasia,56986,37199
+ROI_18,Dysplasia,57034,37235
+ROI_18,Dysplasia,57154,37366
+ROI_18,Dysplasia,57225,37474
+ROI_18,Dysplasia,57237,37510
+ROI_18,Dysplasia,57249,37690
+ROI_18,Dysplasia,57249,37845
+ROI_18,Dysplasia,57213,38109
+ROI_18,Dysplasia,57178,38216
+ROI_18,Dysplasia,57130,38312
+ROI_18,Dysplasia,57010,38707
+ROI_18,Dysplasia,56902,38815
+ROI_18,Dysplasia,56675,38935
+ROI_18,Dysplasia,56591,38971
+ROI_18,Dysplasia,56519,38971
+ROI_18,Dysplasia,56459,38995
+ROI_18,Dysplasia,56351,39018
+ROI_18,Dysplasia,56256,39066
+ROI_18,Dysplasia,56103,39116
+ROI_18,Dysplasia,56092,39151
+ROI_18,Dysplasia,56024,39226
+ROI_18,Dysplasia,55880,39302
+ROI_18,Dysplasia,55758,39386
+ROI_18,Dysplasia,55705,39401
+ROI_18,Dysplasia,55667,39424
+ROI_18,Dysplasia,55584,39447
+ROI_18,Dysplasia,55508,39485
+ROI_18,Dysplasia,55493,39485
+ROI_18,Dysplasia,55341,39568
+ROI_18,Dysplasia,55326,39568
+ROI_18,Dysplasia,55310,39583
+ROI_18,Dysplasia,55295,39583
+ROI_18,Dysplasia,55121,39667
+ROI_18,Dysplasia,55106,39682
+ROI_18,Dysplasia,55022,39720
+ROI_18,Dysplasia,54969,39758
+ROI_18,Dysplasia,54855,39879
+ROI_18,Dysplasia,54802,39986
+ROI_18,Dysplasia,54749,40061
+ROI_18,Dysplasia,54680,40190
+ROI_18,Dysplasia,54605,40289
+ROI_18,Dysplasia,54597,40312
+ROI_18,Dysplasia,54559,40365
+ROI_18,Dysplasia,54498,40426
+ROI_18,Dysplasia,54468,40471
+ROI_18,Dysplasia,54331,40608
+ROI_18,Dysplasia,54126,40737
+ROI_18,Dysplasia,54050,40798
+ROI_18,Dysplasia,53929,40919
+ROI_18,Dysplasia,53921,40919
+ROI_18,Dysplasia,53830,41025
+ROI_18,Dysplasia,53739,41116
+ROI_18,Dysplasia,53679,41200
+ROI_18,Dysplasia,53496,41375
+ROI_18,Dysplasia,53284,41595
+ROI_18,Dysplasia,53223,41671
+ROI_18,Dysplasia,53216,41693
+ROI_18,Dysplasia,53117,41792
+ROI_18,Dysplasia,53071,41853
+ROI_18,Dysplasia,53018,41906
+ROI_18,Dysplasia,52980,41967
+ROI_18,Dysplasia,52965,42012
+ROI_18,Dysplasia,52904,42103
+ROI_18,Dysplasia,52874,42172
+ROI_18,Dysplasia,52821,42247
+ROI_18,Dysplasia,52775,42293
+ROI_18,Dysplasia,52737,42354
+ROI_18,Dysplasia,52669,42422
+ROI_18,Dysplasia,52608,42498
+ROI_18,Dysplasia,52472,42619
+ROI_18,Dysplasia,52274,42817
+ROI_18,Dysplasia,52252,42855
+ROI_18,Dysplasia,52198,42915
+ROI_18,Dysplasia,52183,42953
+ROI_18,Dysplasia,52100,43075
+ROI_18,Dysplasia,51971,43196
+ROI_18,Dysplasia,51857,43280
+ROI_18,Dysplasia,51781,43356
+ROI_18,Dysplasia,51773,43356
+ROI_18,Dysplasia,51667,43477
+ROI_18,Dysplasia,51644,43492
+ROI_18,Dysplasia,51493,43674
+ROI_18,Dysplasia,51470,43720
+ROI_18,Dysplasia,51432,43758
+ROI_18,Dysplasia,51363,43857
+ROI_18,Dysplasia,51303,43917
+ROI_18,Dysplasia,51242,44016
+ROI_18,Dysplasia,51181,44137
+ROI_18,Dysplasia,51159,44221
+ROI_18,Dysplasia,51159,44320
+ROI_18,Dysplasia,51197,44433
+ROI_18,Dysplasia,51265,44502
+ROI_18,Dysplasia,51310,44532
+ROI_18,Dysplasia,51371,44547
+ROI_18,Dysplasia,51447,44540
+ROI_18,Dysplasia,51485,44517
+ROI_18,Dysplasia,51500,44517
+ROI_18,Dysplasia,51667,44396
+ROI_18,Dysplasia,51735,44327
+ROI_18,Dysplasia,51781,44259
+ROI_18,Dysplasia,51827,44213
+ROI_18,Dysplasia,51849,44175
+ROI_18,Dysplasia,51933,44084
+ROI_18,Dysplasia,51963,44039
+ROI_18,Dysplasia,52001,44001
+ROI_18,Dysplasia,52069,43955
+ROI_18,Dysplasia,52297,43743
+ROI_18,Dysplasia,52388,43644
+ROI_18,Dysplasia,52419,43599
+ROI_18,Dysplasia,52601,43416
+ROI_18,Dysplasia,52654,43378
+ROI_18,Dysplasia,52768,43318
+ROI_18,Dysplasia,52912,43204
+ROI_18,Dysplasia,53094,42991
+ROI_18,Dysplasia,53200,42832
+ROI_18,Dysplasia,53299,42733
+ROI_18,Dysplasia,53314,42703
+ROI_18,Dysplasia,53504,42498
+ROI_18,Dysplasia,53504,42490
+ROI_18,Dysplasia,53883,42134
+ROI_18,Dysplasia,53937,42073
+ROI_18,Dysplasia,53959,42035
+ROI_18,Dysplasia,54164,41822
+ROI_18,Dysplasia,54233,41731
+ROI_18,Dysplasia,54513,41443
+ROI_18,Dysplasia,54658,41321
+ROI_18,Dysplasia,54756,41253
+ROI_18,Dysplasia,54794,41215
+ROI_18,Dysplasia,54885,41094
+ROI_18,Dysplasia,54954,40965
+ROI_18,Dysplasia,54977,40942
+ROI_18,Dysplasia,54984,40919
+ROI_18,Dysplasia,55007,40896
+ROI_18,Dysplasia,55014,40874
+ROI_18,Dysplasia,55037,40851
+ROI_18,Dysplasia,55052,40820
+ROI_18,Dysplasia,55151,40707
+ROI_18,Dysplasia,55197,40638
+ROI_18,Dysplasia,55318,40494
+ROI_18,Dysplasia,55432,40342
+ROI_18,Dysplasia,55720,40008
+ROI_18,Dysplasia,55910,39872
+ROI_18,Dysplasia,55933,39864
+ROI_18,Dysplasia,55956,39841
+ROI_18,Dysplasia,56077,39773
+ROI_18,Dysplasia,56161,39712
+ROI_18,Dysplasia,56214,39682
+ROI_18,Dysplasia,56244,39674
+ROI_18,Dysplasia,56259,39659
+ROI_18,Dysplasia,56381,39598
+ROI_18,Dysplasia,56396,39583
+ROI_18,Dysplasia,56411,39583
+ROI_18,Dysplasia,56426,39568
+ROI_18,Dysplasia,56464,39553
+ROI_18,Dysplasia,56525,39500
+ROI_18,Dysplasia,56593,39462
+ROI_18,Dysplasia,56722,39363
+ROI_18,Dysplasia,56980,39113
+ROI_18,Dysplasia,57049,39014
+ROI_18,Dysplasia,57117,38885
+ROI_18,Dysplasia,57155,38763
+ROI_18,Dysplasia,57200,38657
+ROI_18,Dysplasia,57200,38634
+ROI_18,Dysplasia,57216,38604
+ROI_18,Dysplasia,57216,38581
+ROI_18,Dysplasia,57238,38513
+ROI_18,Dysplasia,57292,38414
+ROI_18,Dysplasia,57307,38361
+ROI_18,Dysplasia,57337,38308
+ROI_18,Dysplasia,57337,38293
+ROI_18,Dysplasia,57352,38278
+ROI_18,Dysplasia,57360,38247
+ROI_18,Dysplasia,57375,38232
+ROI_18,Dysplasia,57436,38111
+ROI_18,Dysplasia,57451,38096
+ROI_18,Dysplasia,57489,38020
+ROI_18,Dysplasia,57489,38004
+ROI_18,Dysplasia,57572,37853
+ROI_18,Dysplasia,57580,37807
+ROI_18,Dysplasia,57603,37754
+ROI_18,Dysplasia,57603,37731
+ROI_18,Dysplasia,57633,37663
+ROI_18,Dysplasia,57633,37640
+ROI_18,Dysplasia,57656,37602
+ROI_18,Dysplasia,57656,37587
+ROI_18,Dysplasia,57732,37450
+ROI_18,Dysplasia,57808,37344
+ROI_18,Dysplasia,57846,37253
+ROI_18,Dysplasia,57876,37207
+ROI_18,Dysplasia,57876,37192
+ROI_18,Dysplasia,57891,37177
+ROI_18,Dysplasia,57967,37033
+ROI_18,Dysplasia,58058,36942
+ROI_18,Dysplasia,58225,36843
+ROI_18,Dysplasia,58263,36813
+ROI_18,Dysplasia,58567,36486
+ROI_18,Dysplasia,58681,36342
+ROI_18,Dysplasia,58825,36114
+ROI_18,Dysplasia,58848,36069
+ROI_18,Dysplasia,58848,36046
+ROI_18,Dysplasia,58870,36001
+ROI_18,Dysplasia,58870,35985
+ROI_18,Dysplasia,58916,35894
+ROI_18,Dysplasia,58916,35879
+ROI_18,Dysplasia,58939,35849
+ROI_18,Dysplasia,58939,35834
+ROI_18,Dysplasia,58954,35818
+ROI_18,Dysplasia,58977,35765
+ROI_18,Dysplasia,59015,35712
+ROI_18,Dysplasia,59068,35613
+ROI_18,Dysplasia,59098,35576
+ROI_18,Dysplasia,59128,35515
+ROI_18,Dysplasia,59159,35477
+ROI_18,Dysplasia,59220,35363
+ROI_18,Dysplasia,59288,35272
+ROI_18,Dysplasia,59394,35105
+ROI_18,Dysplasia,59462,35021
+ROI_18,Dysplasia,59698,34794
+ROI_18,Dysplasia,59698,34786
+ROI_18,Dysplasia,59758,34725
+ROI_18,Dysplasia,59804,34695
+ROI_18,Dysplasia,59941,34558
+ROI_18,Dysplasia,60039,34483
+ROI_18,Dysplasia,60100,34422
+ROI_18,Dysplasia,60199,34285
+ROI_18,Dysplasia,60358,34118
+ROI_18,Dysplasia,60442,34065
+ROI_18,Dysplasia,60540,33974
+ROI_18,Dysplasia,60639,33921
+ROI_18,Dysplasia,60791,33799
+ROI_18,Dysplasia,60905,33731
+ROI_18,Dysplasia,60920,33731
+ROI_18,Dysplasia,61003,33686
+ROI_18,Dysplasia,61155,33541
+ROI_18,Dysplasia,61239,33443
+ROI_18,Dysplasia,61345,33276
+ROI_18,Dysplasia,61352,33253
+ROI_18,Dysplasia,61390,33207
+ROI_18,Dysplasia,61512,32980
+ROI_18,Dysplasia,61527,32926
+ROI_18,Dysplasia,61573,32835
+ROI_18,Dysplasia,61694,32653
+ROI_18,Dysplasia,61861,32501
+ROI_18,Dysplasia,61914,32471
+ROI_18,Dysplasia,62020,32388
+ROI_18,Dysplasia,62142,32319
+ROI_18,Dysplasia,62233,32251
+ROI_18,Dysplasia,62407,32084
+ROI_18,Dysplasia,62407,32076
+ROI_18,Dysplasia,62544,31940
+ROI_18,Dysplasia,62635,31818
+ROI_18,Dysplasia,62711,31742
+ROI_18,Dysplasia,62719,31742
+ROI_18,Dysplasia,62749,31704
+ROI_18,Dysplasia,62795,31621
+ROI_18,Dysplasia,62870,31515
+ROI_18,Dysplasia,62901,31454
+ROI_18,Dysplasia,62908,31416
+ROI_18,Dysplasia,62992,31257
+ROI_18,Dysplasia,63182,31006
+ROI_18,Dysplasia,63212,30945
+ROI_18,Dysplasia,63296,30824
+ROI_18,Dysplasia,63356,30763
+ROI_18,Dysplasia,63417,30718
+ROI_18,Dysplasia,63508,30672
+ROI_18,Dysplasia,63546,30642
+ROI_18,Dysplasia,63660,30589
+ROI_18,Dysplasia,63781,30498
+ROI_18,Dysplasia,63850,30429
+ROI_18,Dysplasia,63971,30270
+ROI_18,Dysplasia,64222,30019
+ROI_18,Dysplasia,64290,29906
+ROI_18,Dysplasia,64305,29860
+ROI_18,Dysplasia,64305,29830
+ROI_18,Dysplasia,64335,29739
+ROI_18,Dysplasia,64358,29701
+ROI_18,Dysplasia,64404,29564
+ROI_18,Dysplasia,64434,29503
+ROI_18,Dysplasia,64601,29329
+ROI_18,Dysplasia,64639,29238
+ROI_18,Dysplasia,64654,29169
+ROI_18,Dysplasia,64707,29063
+ROI_18,Dysplasia,64723,29048
+ROI_18,Dysplasia,64738,29010
+ROI_18,Dysplasia,64852,28858
+ROI_18,Dysplasia,64882,28797
+ROI_18,Dysplasia,64943,28729
+ROI_18,Dysplasia,64988,28661
+ROI_18,Dysplasia,65140,28532
+ROI_18,Dysplasia,65216,28448
+ROI_18,Dysplasia,65299,28372
+ROI_18,Dysplasia,65345,28289
+ROI_18,Dysplasia,65345,28274
+ROI_18,Dysplasia,65375,28236
+ROI_18,Dysplasia,65383,28213
+ROI_18,Dysplasia,65459,28122
+ROI_18,Dysplasia,65489,28069
+ROI_18,Dysplasia,65542,28008
+ROI_18,Dysplasia,65626,27886
+ROI_18,Dysplasia,65664,27803
+ROI_18,Dysplasia,65785,27613
+ROI_18,Dysplasia,65823,27530
+ROI_18,Dysplasia,65869,27461
+ROI_18,Dysplasia,65922,27408
+ROI_18,Dysplasia,65960,27393
+ROI_18,Dysplasia,66013,27355
+ROI_18,Dysplasia,66096,27317
+ROI_18,Dysplasia,66127,27294
+ROI_18,Dysplasia,66203,27211
+ROI_18,Dysplasia,66210,27188
+ROI_18,Dysplasia,66279,27090
+ROI_18,Dysplasia,66294,27052
+ROI_18,Dysplasia,66385,26923
+ROI_18,Dysplasia,66408,26877
+ROI_18,Dysplasia,66408,26862
+ROI_18,Dysplasia,66529,26634
+ROI_18,Dysplasia,66590,26460
+ROI_18,Dysplasia,66605,26361
+ROI_18,Dysplasia,66681,26179
+ROI_18,Dysplasia,66681,26148
+ROI_18,Dysplasia,66711,26042
+ROI_18,Dysplasia,66719,25943
+ROI_18,Dysplasia,66726,25936
+ROI_18,Dysplasia,66726,25822
+ROI_18,Dysplasia,66734,25814
+ROI_18,Dysplasia,66734,25769
+ROI_18,Dysplasia,66742,25761
+ROI_18,Dysplasia,66742,25716
+ROI_18,Dysplasia,66749,25708
+ROI_18,Dysplasia,66742,25442
+ROI_18,Dysplasia,66749,25435
+ROI_18,Dysplasia,66749,25359
+ROI_18,Dysplasia,66757,25351
+ROI_18,Dysplasia,66757,25298
+ROI_18,Dysplasia,66764,25291
+ROI_18,Dysplasia,66764,25230
+ROI_18,Dysplasia,66772,25222
+ROI_18,Dysplasia,66780,25146
+ROI_18,Dysplasia,66802,25070
+ROI_18,Dysplasia,66802,24888
+ROI_18,Dysplasia,66795,24881
+ROI_18,Dysplasia,66787,24774
+ROI_18,Dysplasia,66780,24767
+ROI_18,Dysplasia,66780,24592
+ROI_18,Dysplasia,66772,24585
+ROI_18,Dysplasia,66764,24433
+ROI_18,Dysplasia,66726,24319
+ROI_18,Dysplasia,66696,24175
+ROI_18,Dysplasia,66650,24069
+ROI_18,Dysplasia,66643,24015
+ROI_18,Dysplasia,66590,23909
+ROI_18,Dysplasia,66590,23894
+ROI_18,Dysplasia,66567,23856
+ROI_18,Dysplasia,66559,23826
+ROI_18,Dysplasia,66529,23780
+ROI_18,Dysplasia,66438,23689
+ROI_18,Dysplasia,66370,23643
+ROI_18,Dysplasia,66339,23636
+ROI_18,Dysplasia,66309,23613
+ROI_18,Dysplasia,66294,23613
+ROI_18,Dysplasia,66248,23590
+ROI_18,Dysplasia,66187,23545
+ROI_18,Dysplasia,66066,23492
+ROI_18,Dysplasia,65945,23454
+ROI_18,Dysplasia,65876,23423
+ROI_18,Dysplasia,65785,23408
+ROI_18,Dysplasia,65747,23393
+ROI_18,Dysplasia,65717,23393
+ROI_18,Dysplasia,65709,23385
+ROI_18,Dysplasia,65626,23378
+ROI_18,Dysplasia,65618,23370
+ROI_18,Dysplasia,65512,23363
+ROI_18,Dysplasia,65504,23355
+ROI_18,Dysplasia,65444,23355
+ROI_18,Dysplasia,65436,23347
+ROI_18,Dysplasia,65299,23347
+ROI_18,Dysplasia,65292,23340
+ROI_18,Dysplasia,65201,23332
+ROI_18,Dysplasia,65193,23325
+ROI_18,Dysplasia,65140,23325
+ROI_18,Dysplasia,65132,23317
+ROI_18,Dysplasia,65003,23317
+ROI_18,Dysplasia,64996,23325
+ROI_18,Dysplasia,64874,23317
+ROI_18,Dysplasia,64867,23325
+ROI_18,Dysplasia,64715,23332
+ROI_18,Dysplasia,64707,23340
+ROI_18,Dysplasia,64677,23340
+ROI_18,Dysplasia,64586,23370
+ROI_18,Dysplasia,64373,23492
+ROI_18,Dysplasia,64351,23514
+ROI_18,Dysplasia,64328,23522
+ROI_18,Dysplasia,64161,23666
+ROI_18,Dysplasia,63986,23841
+ROI_18,Dysplasia,63926,23879
+ROI_18,Dysplasia,63880,23924
+ROI_18,Dysplasia,63842,23985
+ROI_18,Dysplasia,63819,24008
+ROI_18,Dysplasia,63797,24053
+ROI_18,Dysplasia,63797,24069
+ROI_18,Dysplasia,63759,24137
+ROI_18,Dysplasia,63721,24175
+ROI_18,Dysplasia,63698,24182
+ROI_18,Dysplasia,63546,24182
+ROI_18,Dysplasia,63538,24175
+ROI_18,Dysplasia,63432,24175
+ROI_18,Dysplasia,63425,24182
+ROI_18,Dysplasia,63053,24182
+ROI_18,Dysplasia,63045,24175
+ROI_18,Dysplasia,62984,24175
+ROI_18,Dysplasia,62977,24182
+ROI_18,Dysplasia,62863,24190
+ROI_18,Dysplasia,62855,24198
+ROI_18,Dysplasia,62779,24198
+ROI_18,Dysplasia,62711,24220
+ROI_18,Dysplasia,62688,24220
+ROI_18,Dysplasia,62658,24236
+ROI_18,Dysplasia,62635,24236
+ROI_18,Dysplasia,62514,24296
+ROI_18,Dysplasia,62499,24296
+ROI_18,Dysplasia,62407,24349
+ROI_18,Dysplasia,62324,24372
+ROI_18,Dysplasia,62263,24403
+ROI_18,Dysplasia,62233,24403
+ROI_18,Dysplasia,62187,24425
+ROI_18,Dysplasia,62165,24425
+ROI_18,Dysplasia,62104,24456
+ROI_18,Dysplasia,62043,24463
+ROI_18,Dysplasia,62013,24478
+ROI_18,Dysplasia,61937,24486
+ROI_18,Dysplasia,61929,24494
+ROI_18,Dysplasia,61891,24494
+ROI_18,Dysplasia,61853,24509
+ROI_18,Dysplasia,61694,24509
+ROI_18,Dysplasia,61595,24471
+ROI_18,Dysplasia,61557,24471
+ROI_18,Dysplasia,61519,24456
+ROI_18,Dysplasia,61489,24456
+ROI_18,Dysplasia,61466,24440
+ROI_18,Dysplasia,61398,24440
+ROI_18,Dysplasia,61299,24403
+ROI_18,Dysplasia,61277,24403
+ROI_18,Dysplasia,61231,24357
+ROI_18,Dysplasia,61185,24334
+ROI_18,Dysplasia,61072,24311
+ROI_18,Dysplasia,61034,24296
+ROI_18,Dysplasia,60715,24296
+ROI_18,Dysplasia,60624,24273
+ROI_18,Dysplasia,60540,24273
+ROI_18,Dysplasia,60533,24266
+ROI_18,Dysplasia,60464,24266
+ROI_18,Dysplasia,60457,24258
+ROI_18,Dysplasia,60335,24258
+ROI_18,Dysplasia,60328,24251
+ROI_18,Dysplasia,60252,24251
+ROI_18,Dysplasia,60244,24243
+ROI_18,Dysplasia,60168,24243
+ROI_18,Dysplasia,60146,24236
+ROI_18,Dysplasia,60138,24243
+ROI_18,Dysplasia,60054,24251
+ROI_18,Dysplasia,59971,24281
+ROI_18,Dysplasia,59948,24281
+ROI_18,Dysplasia,59834,24319
+ROI_18,Dysplasia,59812,24334
+ROI_18,Dysplasia,59766,24342
+ROI_18,Dysplasia,59713,24372
+ROI_18,Dysplasia,59645,24395
+ROI_18,Dysplasia,59485,24478
+ROI_18,Dysplasia,59402,24570
+ROI_18,Dysplasia,59371,24683
+ROI_18,Dysplasia,59288,24850
+ROI_18,Dysplasia,59250,24972
+ROI_18,Dysplasia,59212,25048
+ROI_18,Dysplasia,59197,25063
+ROI_18,Dysplasia,59159,25139
+ROI_18,Dysplasia,59159,25154
+ROI_18,Dysplasia,59050,25359
+ROI_18,Dysplasia,59022,25420
+ROI_18,Dysplasia,59007,25465
+ROI_2,Dysplasia,46460,38809
+ROI_2,Dysplasia,46422,38809
+ROI_2,Dysplasia,46286,38870
+ROI_2,Dysplasia,46270,38870
+ROI_2,Dysplasia,46240,38893
+ROI_2,Dysplasia,46225,38893
+ROI_2,Dysplasia,46156,38930
+ROI_2,Dysplasia,46141,38930
+ROI_2,Dysplasia,45936,39037
+ROI_2,Dysplasia,45921,39037
+ROI_2,Dysplasia,45868,39067
+ROI_2,Dysplasia,45853,39067
+ROI_2,Dysplasia,45769,39120
+ROI_2,Dysplasia,45625,39189
+ROI_2,Dysplasia,45572,39226
+ROI_2,Dysplasia,45496,39264
+ROI_2,Dysplasia,45481,39264
+ROI_2,Dysplasia,45466,39280
+ROI_2,Dysplasia,45413,39295
+ROI_2,Dysplasia,45322,39348
+ROI_2,Dysplasia,45306,39348
+ROI_2,Dysplasia,45291,39363
+ROI_2,Dysplasia,45162,39424
+ROI_2,Dysplasia,45033,39500
+ROI_2,Dysplasia,45018,39500
+ROI_2,Dysplasia,44965,39530
+ROI_2,Dysplasia,44919,39545
+ROI_2,Dysplasia,44813,39614
+ROI_2,Dysplasia,44730,39652
+ROI_2,Dysplasia,44714,39652
+ROI_2,Dysplasia,44684,39674
+ROI_2,Dysplasia,44638,39690
+ROI_2,Dysplasia,44623,39705
+ROI_2,Dysplasia,44532,39750
+ROI_2,Dysplasia,44517,39750
+ROI_2,Dysplasia,44403,39811
+ROI_2,Dysplasia,44388,39811
+ROI_2,Dysplasia,44297,39856
+ROI_2,Dysplasia,44244,39894
+ROI_2,Dysplasia,44213,39902
+ROI_2,Dysplasia,44198,39917
+ROI_2,Dysplasia,44168,39925
+ROI_2,Dysplasia,44054,39986
+ROI_2,Dysplasia,44016,39993
+ROI_2,Dysplasia,43978,40016
+ROI_2,Dysplasia,43940,40023
+ROI_2,Dysplasia,43879,40054
+ROI_2,Dysplasia,43796,40077
+ROI_2,Dysplasia,43758,40099
+ROI_2,Dysplasia,43576,40160
+ROI_2,Dysplasia,43507,40175
+ROI_2,Dysplasia,43424,40221
+ROI_2,Dysplasia,43386,40251
+ROI_2,Dysplasia,43249,40320
+ROI_2,Dysplasia,43234,40320
+ROI_2,Dysplasia,43151,40357
+ROI_2,Dysplasia,43067,40357
+ROI_2,Dysplasia,43060,40350
+ROI_2,Dysplasia,42908,40357
+ROI_2,Dysplasia,42840,40380
+ROI_2,Dysplasia,42764,40388
+ROI_2,Dysplasia,42695,40411
+ROI_2,Dysplasia,42581,40471
+ROI_2,Dysplasia,42339,40661
+ROI_2,Dysplasia,42278,40722
+ROI_2,Dysplasia,42210,40775
+ROI_2,Dysplasia,42043,40950
+ROI_2,Dysplasia,42020,40965
+ROI_2,Dysplasia,41959,41041
+ROI_2,Dysplasia,41898,41094
+ROI_2,Dysplasia,41815,41192
+ROI_2,Dysplasia,41655,41352
+ROI_2,Dysplasia,41504,41526
+ROI_2,Dysplasia,41344,41678
+ROI_2,Dysplasia,40896,42134
+ROI_2,Dysplasia,40836,42179
+ROI_2,Dysplasia,40684,42323
+ROI_2,Dysplasia,40456,42559
+ROI_2,Dysplasia,40433,42574
+ROI_2,Dysplasia,40373,42650
+ROI_2,Dysplasia,40168,42847
+ROI_2,Dysplasia,40077,42908
+ROI_2,Dysplasia,40001,42984
+ROI_2,Dysplasia,39940,43029
+ROI_2,Dysplasia,39887,43052
+ROI_2,Dysplasia,39811,43113
+ROI_2,Dysplasia,39720,43143
+ROI_2,Dysplasia,39629,43204
+ROI_2,Dysplasia,39568,43234
+ROI_2,Dysplasia,39500,43249
+ROI_2,Dysplasia,39386,43310
+ROI_2,Dysplasia,39272,43340
+ROI_2,Dysplasia,39249,43356
+ROI_2,Dysplasia,39181,43371
+ROI_2,Dysplasia,39135,43394
+ROI_2,Dysplasia,39022,43492
+ROI_2,Dysplasia,38900,43621
+ROI_2,Dysplasia,38877,43674
+ROI_2,Dysplasia,38877,43697
+ROI_2,Dysplasia,38847,43758
+ROI_2,Dysplasia,38847,43796
+ROI_2,Dysplasia,38817,43857
+ROI_2,Dysplasia,38779,43902
+ROI_2,Dysplasia,38718,44016
+ROI_2,Dysplasia,38612,44100
+ROI_2,Dysplasia,38581,44115
+ROI_2,Dysplasia,38559,44115
+ROI_2,Dysplasia,38490,44137
+ROI_2,Dysplasia,38445,44168
+ROI_2,Dysplasia,38376,44198
+ROI_2,Dysplasia,38331,44236
+ROI_2,Dysplasia,38270,44266
+ROI_2,Dysplasia,38171,44358
+ROI_2,Dysplasia,38088,44411
+ROI_2,Dysplasia,38012,44479
+ROI_2,Dysplasia,37989,44509
+ROI_2,Dysplasia,37966,44555
+ROI_2,Dysplasia,37966,44585
+ROI_2,Dysplasia,37951,44600
+ROI_2,Dysplasia,37906,44593
+ROI_2,Dysplasia,37898,44585
+ROI_2,Dysplasia,37853,44585
+ROI_2,Dysplasia,37845,44593
+ROI_2,Dysplasia,37769,44593
+ROI_2,Dysplasia,37762,44585
+ROI_2,Dysplasia,37572,44585
+ROI_2,Dysplasia,37564,44593
+ROI_2,Dysplasia,37519,44593
+ROI_2,Dysplasia,37511,44585
+ROI_2,Dysplasia,37359,44585
+ROI_2,Dysplasia,37352,44578
+ROI_2,Dysplasia,37094,44578
+ROI_2,Dysplasia,37086,44570
+ROI_2,Dysplasia,37018,44570
+ROI_2,Dysplasia,36972,44555
+ROI_2,Dysplasia,36851,44540
+ROI_2,Dysplasia,36813,44525
+ROI_2,Dysplasia,36669,44509
+ROI_2,Dysplasia,36661,44502
+ROI_2,Dysplasia,36623,44502
+ROI_2,Dysplasia,36615,44494
+ROI_2,Dysplasia,36418,44471
+ROI_2,Dysplasia,36410,44464
+ROI_2,Dysplasia,36114,44456
+ROI_2,Dysplasia,36107,44449
+ROI_2,Dysplasia,36069,44449
+ROI_2,Dysplasia,36031,44433
+ROI_2,Dysplasia,35925,44418
+ROI_2,Dysplasia,35856,44396
+ROI_2,Dysplasia,35811,44396
+ROI_2,Dysplasia,35651,44342
+ROI_2,Dysplasia,35583,44335
+ROI_2,Dysplasia,35576,44327
+ROI_2,Dysplasia,35538,44327
+ROI_2,Dysplasia,35530,44320
+ROI_2,Dysplasia,35492,44320
+ROI_2,Dysplasia,35484,44312
+ROI_2,Dysplasia,35143,44320
+ROI_2,Dysplasia,35135,44327
+ROI_2,Dysplasia,35097,44327
+ROI_2,Dysplasia,35090,44335
+ROI_2,Dysplasia,34983,44350
+ROI_2,Dysplasia,34976,44358
+ROI_2,Dysplasia,34946,44358
+ROI_2,Dysplasia,34854,44388
+ROI_2,Dysplasia,34763,44433
+ROI_2,Dysplasia,34695,44479
+ROI_2,Dysplasia,34612,44517
+ROI_2,Dysplasia,34505,44585
+ROI_2,Dysplasia,34414,44661
+ROI_2,Dysplasia,34338,44737
+ROI_2,Dysplasia,34235,45022
+ROI_2,Dysplasia,34316,45181
+ROI_2,Dysplasia,34543,45033
+ROI_2,Dysplasia,34703,44950
+ROI_2,Dysplasia,34756,44934
+ROI_2,Dysplasia,34961,44836
+ROI_2,Dysplasia,35029,44813
+ROI_2,Dysplasia,35128,44798
+ROI_2,Dysplasia,35135,44790
+ROI_2,Dysplasia,35280,44790
+ROI_2,Dysplasia,35287,44798
+ROI_2,Dysplasia,35325,44798
+ROI_2,Dysplasia,35348,44813
+ROI_2,Dysplasia,35393,44821
+ROI_2,Dysplasia,35477,44866
+ROI_2,Dysplasia,35507,44896
+ROI_2,Dysplasia,35545,44919
+ROI_2,Dysplasia,35712,45086
+ROI_2,Dysplasia,35864,45215
+ROI_2,Dysplasia,36069,45337
+ROI_2,Dysplasia,36168,45413
+ROI_2,Dysplasia,36319,45489
+ROI_2,Dysplasia,36373,45504
+ROI_2,Dysplasia,36395,45519
+ROI_2,Dysplasia,36464,45534
+ROI_2,Dysplasia,36486,45549
+ROI_2,Dysplasia,36502,45549
+ROI_2,Dysplasia,36524,45564
+ROI_2,Dysplasia,36540,45564
+ROI_2,Dysplasia,36646,45610
+ROI_2,Dysplasia,36691,45610
+ROI_2,Dysplasia,36699,45618
+ROI_2,Dysplasia,36706,45610
+ROI_2,Dysplasia,36828,45610
+ROI_2,Dysplasia,36836,45602
+ROI_2,Dysplasia,36957,45595
+ROI_2,Dysplasia,36965,45587
+ROI_2,Dysplasia,37245,45595
+ROI_2,Dysplasia,37253,45587
+ROI_2,Dysplasia,37299,45587
+ROI_2,Dysplasia,37306,45580
+ROI_2,Dysplasia,37344,45580
+ROI_2,Dysplasia,37352,45572
+ROI_2,Dysplasia,37443,45564
+ROI_2,Dysplasia,37450,45557
+ROI_2,Dysplasia,37701,45542
+ROI_2,Dysplasia,37739,45526
+ROI_2,Dysplasia,37777,45526
+ROI_2,Dysplasia,37784,45519
+ROI_2,Dysplasia,37845,45519
+ROI_2,Dysplasia,37853,45511
+ROI_2,Dysplasia,37898,45511
+ROI_2,Dysplasia,37906,45504
+ROI_2,Dysplasia,37997,45496
+ROI_2,Dysplasia,38004,45489
+ROI_2,Dysplasia,38073,45489
+ROI_2,Dysplasia,38111,45473
+ROI_2,Dysplasia,38187,45466
+ROI_2,Dysplasia,38194,45458
+ROI_2,Dysplasia,38247,45458
+ROI_2,Dysplasia,38338,45435
+ROI_2,Dysplasia,38445,45428
+ROI_2,Dysplasia,38559,45390
+ROI_2,Dysplasia,38703,45314
+ROI_2,Dysplasia,38862,45261
+ROI_2,Dysplasia,38953,45215
+ROI_2,Dysplasia,39181,45139
+ROI_2,Dysplasia,39348,45063
+ROI_2,Dysplasia,39507,45026
+ROI_2,Dysplasia,39614,44972
+ROI_2,Dysplasia,39773,44919
+ROI_2,Dysplasia,39902,44859
+ROI_2,Dysplasia,39948,44828
+ROI_2,Dysplasia,40122,44775
+ROI_2,Dysplasia,40160,44752
+ROI_2,Dysplasia,40236,44730
+ROI_2,Dysplasia,40297,44699
+ROI_2,Dysplasia,40433,44661
+ROI_2,Dysplasia,40532,44608
+ROI_2,Dysplasia,40616,44585
+ROI_2,Dysplasia,40638,44570
+ROI_2,Dysplasia,40707,44555
+ROI_2,Dysplasia,40714,44547
+ROI_2,Dysplasia,40767,44540
+ROI_2,Dysplasia,40775,44532
+ROI_2,Dysplasia,40798,44532
+ROI_2,Dysplasia,41025,44433
+ROI_2,Dysplasia,41094,44411
+ROI_2,Dysplasia,41116,44411
+ROI_2,Dysplasia,41215,44373
+ROI_2,Dysplasia,41238,44373
+ROI_2,Dysplasia,41291,44350
+ROI_2,Dysplasia,41375,44335
+ROI_2,Dysplasia,41473,44297
+ROI_2,Dysplasia,41496,44297
+ROI_2,Dysplasia,41519,44282
+ROI_2,Dysplasia,41640,44244
+ROI_2,Dysplasia,41663,44229
+ROI_2,Dysplasia,41746,44206
+ROI_2,Dysplasia,41982,44092
+ROI_2,Dysplasia,42149,43986
+ROI_2,Dysplasia,42285,43857
+ROI_2,Dysplasia,42430,43750
+ROI_2,Dysplasia,42483,43697
+ROI_2,Dysplasia,42528,43667
+ROI_2,Dysplasia,42627,43568
+ROI_2,Dysplasia,42635,43568
+ROI_2,Dysplasia,42794,43409
+ROI_2,Dysplasia,42809,43378
+ROI_2,Dysplasia,42900,43265
+ROI_2,Dysplasia,43029,43067
+ROI_2,Dysplasia,43037,43037
+ROI_2,Dysplasia,43067,42984
+ROI_2,Dysplasia,43067,42969
+ROI_2,Dysplasia,43098,42923
+ROI_2,Dysplasia,43105,42893
+ROI_2,Dysplasia,43128,42855
+ROI_2,Dysplasia,43128,42832
+ROI_2,Dysplasia,43143,42809
+ROI_2,Dysplasia,43151,42771
+ROI_2,Dysplasia,43189,42703
+ROI_2,Dysplasia,43196,42665
+ROI_2,Dysplasia,43227,42612
+ROI_2,Dysplasia,43242,42551
+ROI_2,Dysplasia,43287,42468
+ROI_2,Dysplasia,43287,42452
+ROI_2,Dysplasia,43371,42316
+ROI_2,Dysplasia,43416,42225
+ROI_2,Dysplasia,43492,42111
+ROI_2,Dysplasia,43507,42073
+ROI_2,Dysplasia,43636,41891
+ROI_2,Dysplasia,43690,41838
+ROI_2,Dysplasia,43735,41762
+ROI_2,Dysplasia,43933,41526
+ROI_2,Dysplasia,44062,41344
+ROI_2,Dysplasia,44221,41185
+ROI_2,Dysplasia,44304,41147
+ROI_2,Dysplasia,44388,41086
+ROI_2,Dysplasia,44540,41003
+ROI_2,Dysplasia,44600,40950
+ROI_2,Dysplasia,44638,40927
+ROI_2,Dysplasia,44737,40828
+ROI_2,Dysplasia,44821,40707
+ROI_2,Dysplasia,45079,40411
+ROI_2,Dysplasia,45147,40320
+ROI_2,Dysplasia,45246,40221
+ROI_2,Dysplasia,45246,40213
+ROI_2,Dysplasia,45306,40160
+ROI_2,Dysplasia,45489,40023
+ROI_2,Dysplasia,45671,39940
+ROI_2,Dysplasia,45686,39925
+ROI_2,Dysplasia,45815,39864
+ROI_2,Dysplasia,45876,39826
+ROI_2,Dysplasia,45997,39720
+ROI_2,Dysplasia,46119,39598
+ROI_2,Dysplasia,46156,39545
+ROI_2,Dysplasia,46202,39500
+ROI_2,Dysplasia,46308,39348
+ROI_2,Dysplasia,46468,39166
+ROI_2,Dysplasia,46589,38968
+ROI_2,Dysplasia,46597,38908
+ROI_2,Dysplasia,46589,38900
+ROI_2,Dysplasia,46585,38859
+ROI_2,Dysplasia,46556,38801
+ROI_2,Dysplasia,46468,38801
+ROI_2,Dysplasia,46460,38809
