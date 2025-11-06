@@ -11479,3 +11479,161 @@
 2025-09-19 15:36:12 [DEBUG] - Set up coordinate grid, shape=(106, 112)
 2025-09-19 15:36:12 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
 2025-09-19 15:36:12 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-09-19 15:39:21 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Grayson/Exp2/AH074M.csv
+2025-09-19 15:39:21 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2025-09-19 15:39:21 [DEBUG] - Slide origin: (0, 0)
+2025-09-19 15:39:21 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2025-09-19 15:39:21 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 45 ROI(s) | Size: 75164 x 71419
+2025-09-19 15:39:21 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 819
+2025-10-02 03:02:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-10-02 03:02:32 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-10-02 03:02:32 [DEBUG] - Slide origin: (0, 0)
+2025-10-02 03:02:32 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-10-02 03:02:32 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-10-02 03:02:32 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-10-02 03:02:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-10-02 03:02:32 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-10-02 03:02:32 [DEBUG] - Slide origin: (0, 0)
+2025-10-02 03:02:32 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-10-02 03:02:32 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-10-02 03:02:32 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-10-02 03:02:32 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-10-02 03:02:32 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:36:31 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:36:31 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:36:31 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:36:31 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:36:31 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:36:31 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:36:31 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-11-06 05:36:31 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:36:31 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:36:31 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:36:31 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:36:31 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:36:31 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:36:31 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:42:47 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:42:47 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:42:47 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:42:47 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:42:47 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:42:47 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:43:38 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:43:38 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:43:38 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:43:38 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:43:38 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:43:38 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:44:10 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:44:10 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:44:10 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:44:10 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:44:10 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:44:10 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:44:11 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-11-06 05:44:11 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-11-06 05:44:11 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:44:11 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-11-06 05:44:11 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-11-06 05:44:11 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-11-06 05:44:11 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:44:11 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:45:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:45:32 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:45:32 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:45:32 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:45:32 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:45:32 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:45:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG985F.csv
+2025-11-06 05:45:32 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-11-06 05:45:32 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:45:32 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-11-06 05:45:32 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-11-06 05:45:32 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-11-06 05:45:32 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:45:32 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:46:15 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:46:15 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:46:15 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:46:15 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:46:15 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:46:15 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:46:18 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG986F.csv
+2025-11-06 05:46:18 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-11-06 05:46:18 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:46:18 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-11-06 05:46:18 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-11-06 05:46:18 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-11-06 05:46:18 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:46:18 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:48:49 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:48:49 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:48:49 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:48:49 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:48:49 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:48:49 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:48:50 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-11-06 05:48:50 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:48:50 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:48:50 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:48:50 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:48:50 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:48:51 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:48:51 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:51:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-06 05:51:16 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:51:16 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:51:16 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:51:16 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:51:16 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:51:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-11-06 05:51:16 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:51:16 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:51:16 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:51:16 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:51:16 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:51:16 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:51:16 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:51:30 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-11-06 05:51:30 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-06 05:51:30 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:51:30 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-06 05:51:30 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-06 05:51:30 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-06 05:51:30 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-06 05:53:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG985F.csv
+2025-11-06 05:53:32 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-11-06 05:53:32 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:53:32 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-11-06 05:53:32 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-11-06 05:53:32 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-11-06 05:53:32 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:55:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH215M.csv
+2025-11-06 05:55:09 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2025-11-06 05:55:09 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:55:09 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2025-11-06 05:55:09 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2025-11-06 05:55:09 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2025-11-06 05:55:09 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:56:06 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2025-11-06 05:56:06 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2025-11-06 05:56:06 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:56:06 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2025-11-06 05:56:06 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2025-11-06 05:56:06 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2025-11-06 05:56:06 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:56:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG985F.csv
+2025-11-06 05:56:32 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-11-06 05:56:32 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:56:32 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-11-06 05:56:32 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-11-06 05:56:32 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-11-06 05:56:32 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-06 05:57:23 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-11-06 05:57:23 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-11-06 05:57:23 [DEBUG] - Slide origin: (0, 0)
+2025-11-06 05:57:23 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-11-06 05:57:23 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-11-06 05:57:23 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-11-06 05:57:23 [DEBUG] - Requesting thumbnail at level=2, width=1024
