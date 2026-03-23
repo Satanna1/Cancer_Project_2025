@@ -11637,3 +11637,1706 @@
 2025-11-06 05:57:23 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
 2025-11-06 05:57:23 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
 2025-11-06 05:57:23 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-21 12:53:49 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2025-11-21 12:53:49 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-21 12:53:49 [DEBUG] - Slide origin: (0, 0)
+2025-11-21 12:53:49 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-21 12:53:49 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-21 12:53:49 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-21 12:53:50 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF110F.csv
+2025-11-21 12:53:50 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2025-11-21 12:53:50 [DEBUG] - Slide origin: (0, 0)
+2025-11-21 12:53:50 [DEBUG] - Set up coordinate grid, shape=(98, 105)
+2025-11-21 12:53:50 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2025-11-21 12:53:50 [DEBUG] - AF110F: Grid shape: (98, 105) | Tiles to extract: 342
+2025-11-21 12:53:50 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-21 12:53:51 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-11-21 12:53:58 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG985F.csv
+2025-11-21 12:53:58 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2025-11-21 12:53:58 [DEBUG] - Slide origin: (0, 0)
+2025-11-21 12:53:58 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2025-11-21 12:53:58 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2025-11-21 12:53:58 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2025-11-21 12:53:58 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-11-21 12:56:05 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-11-21 12:56:05 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-11-21 12:56:05 [DEBUG] - Slide origin: (0, 0)
+2025-11-21 12:56:05 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-11-21 12:56:05 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-11-21 12:56:05 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-11-21 12:56:06 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-01 21:52:43 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH146M.csv
+2025-12-01 21:52:43 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2025-12-01 21:52:43 [DEBUG] - Slide origin: (0, 0)
+2025-12-01 21:52:43 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2025-12-01 21:52:43 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2025-12-01 21:52:43 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2025-12-01 21:52:43 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-01 21:54:51 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-12-01 21:54:51 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-12-01 21:54:51 [DEBUG] - Slide origin: (0, 0)
+2025-12-01 21:54:51 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-12-01 21:54:51 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-12-01 21:54:51 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-12-01 21:54:51 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-01 22:44:31 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-12-01 22:44:31 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-12-01 22:44:31 [DEBUG] - Slide origin: (0, 0)
+2025-12-01 22:44:31 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-12-01 22:44:31 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-12-01 22:44:31 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-12-01 22:44:31 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-01 22:45:07 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-12-01 22:45:07 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-12-01 22:45:07 [DEBUG] - Slide origin: (0, 0)
+2025-12-01 22:45:07 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-12-01 22:45:07 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-12-01 22:45:07 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-12-01 22:45:07 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-01 23:17:14 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-12-01 23:17:14 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-12-01 23:17:14 [DEBUG] - Slide origin: (0, 0)
+2025-12-01 23:17:14 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-12-01 23:17:14 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-12-01 23:17:14 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-12-01 23:17:14 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-02 00:29:08 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-12-02 00:29:08 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-12-02 00:29:08 [DEBUG] - Slide origin: (0, 0)
+2025-12-02 00:29:08 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-12-02 00:29:08 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-12-02 00:29:08 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-12-02 00:29:08 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-02 02:30:19 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-12-02 02:30:19 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-12-02 02:30:19 [DEBUG] - Slide origin: (0, 0)
+2025-12-02 02:30:19 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-12-02 02:30:19 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-12-02 02:30:19 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-12-02 02:30:19 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-03 21:44:20 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH141F.csv
+2025-12-03 21:44:20 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2025-12-03 21:44:20 [DEBUG] - Slide origin: (0, 0)
+2025-12-03 21:44:20 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2025-12-03 21:44:20 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2025-12-03 21:44:20 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2025-12-03 21:44:20 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-03 21:47:42 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH142F.csv
+2025-12-03 21:47:42 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2025-12-03 21:47:42 [DEBUG] - Slide origin: (0, 0)
+2025-12-03 21:47:43 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2025-12-03 21:47:43 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2025-12-03 21:47:43 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2025-12-03 21:47:43 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-03 21:51:24 [DEBUG] - No ROIs provided for AH072M
+2025-12-03 21:51:24 [INFO] - No ROI for AH072M, using whole slide.
+2025-12-03 21:51:24 [DEBUG] - Slide origin: (0, 0)
+2025-12-03 21:51:24 [DEBUG] - Set up coordinate grid, shape=(130, 118)
+2025-12-03 21:51:24 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 63335 x 57421
+2025-12-03 21:51:24 [DEBUG] - AH072M: Grid shape: (130, 118) | Tiles to extract: 15340
+2025-12-03 21:51:24 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-03 21:52:09 [DEBUG] - No ROIs provided for AH072M
+2025-12-03 21:52:09 [INFO] - No ROI for AH072M, using whole slide.
+2025-12-03 21:52:09 [DEBUG] - Slide origin: (0, 0)
+2025-12-03 21:52:09 [DEBUG] - Set up coordinate grid, shape=(130, 118)
+2025-12-03 21:52:09 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 63335 x 57421
+2025-12-03 21:52:09 [DEBUG] - AH072M: Grid shape: (130, 118) | Tiles to extract: 15340
+2025-12-03 21:52:09 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-03 21:54:35 [DEBUG] - No ROIs provided for AH143F
+2025-12-03 21:54:35 [INFO] - No ROI for AH143F, using whole slide.
+2025-12-03 21:54:35 [DEBUG] - Slide origin: (0, 0)
+2025-12-03 21:54:35 [DEBUG] - Set up coordinate grid, shape=(112, 118)
+2025-12-03 21:54:35 [DEBUG] - AH143F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 54463 x 57421
+2025-12-03 21:54:35 [DEBUG] - AH143F: Grid shape: (112, 118) | Tiles to extract: 13216
+2025-12-03 21:54:35 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-19 06:07:35 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-12-19 06:07:35 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-12-19 06:07:35 [DEBUG] - Slide origin: (0, 0)
+2025-12-19 06:07:35 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-12-19 06:07:35 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-12-19 06:07:35 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-12-19 06:07:35 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-19 06:09:50 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AG986F.csv
+2025-12-19 06:09:50 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2025-12-19 06:09:50 [DEBUG] - Slide origin: (0, 0)
+2025-12-19 06:09:50 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2025-12-19 06:09:50 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2025-12-19 06:09:50 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2025-12-19 06:09:50 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2025-12-19 06:11:53 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH213F.csv
+2025-12-19 06:11:53 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2025-12-19 06:11:53 [DEBUG] - Slide origin: (0, 0)
+2025-12-19 06:11:53 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2025-12-19 06:11:53 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2025-12-19 06:11:53 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2025-12-19 06:11:53 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-12-19 06:14:30 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-12-19 06:14:30 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-12-19 06:14:30 [DEBUG] - Slide origin: (0, 0)
+2025-12-19 06:14:30 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-12-19 06:14:30 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-12-19 06:14:30 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-12-19 06:14:30 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2025-12-20 00:40:45 [DEBUG] - Loaded ROIs from /home/stanna/Cancer_Project_2025/Anna/exp2/AH145M.csv
+2025-12-20 00:40:45 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2025-12-20 00:40:45 [DEBUG] - Slide origin: (0, 0)
+2025-12-20 00:40:45 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2025-12-20 00:40:45 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2025-12-20 00:40:45 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2025-12-20 00:40:45 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2026-01-31 02:25:32 [DEBUG] - Verifying slide annotations...
+2026-01-31 02:25:32 [DEBUG] - Verifying tfrecords...
+2026-01-31 02:27:14 [DEBUG] - Verifying slide annotations...
+2026-01-31 02:27:14 [DEBUG] - Verifying tfrecords...
+2026-01-31 02:31:56 [DEBUG] - Verifying slide annotations...
+2026-01-31 02:31:56 [DEBUG] - Verifying tfrecords...
+2026-01-31 02:37:01 [DEBUG] - Verifying slide annotations...
+2026-01-31 02:37:01 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um
+2026-01-31 02:37:01 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-01-31 02:37:01 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um; creating now
+2026-01-31 02:37:01 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:37:01 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:37:01 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:37:01 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um
+2026-01-31 02:37:01 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-01-31 02:37:01 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um; creating now
+2026-01-31 02:37:01 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:37:01 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:37:01 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:37:01 [INFO] - Slide reading backend: [green]cucim[/]
+2026-01-31 02:37:01 [INFO] - Filtering tiles by whitespace fraction
+2026-01-31 02:37:01 [DEBUG] - Whitespace defined as RGB avg > 230 (exclude if >=95% whitespace)
+2026-01-31 02:37:01 [INFO] - Filtering tiles by grayspace fraction
+2026-01-31 02:37:01 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2026-01-31 02:37:01 [INFO] - Working on dataset source [bold]Exp2_Dataset[/]...
+2026-01-31 02:37:11 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um; creating now
+2026-01-31 02:37:11 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:37:11 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:37:11 [INFO] - Extracting tiles from 58 slides (tile_px=299, tile_um=302)
+2026-01-31 02:37:11 [INFO] - Using 24 processes (pool=fork)
+2026-01-31 02:37:12 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF271M.csv
+2026-01-31 02:37:12 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:37:12 [DEBUG] - Set up coordinate grid, shape=(41, 36)
+2026-01-31 02:37:12 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2026-01-31 02:37:12 [DEBUG] - AF271M: Grid shape: (41, 36) | Tiles to extract: 80
+2026-01-31 02:37:12 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:37:12 [DEBUG] - No ROI for AF271M, using whole slide.
+2026-01-31 02:37:12 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:37:12 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-01-31 02:37:12 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 43803
+2026-01-31 02:37:12 [DEBUG] - AF271M: Grid shape: (7, 6) | Tiles to extract: 42
+2026-01-31 02:37:12 [DEBUG] - AF271M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-01-31 02:37:12 [DEBUG] - Creating filter pool (n_threads=8)
+2026-01-31 02:37:12 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:37:14 [DEBUG] - Finished tile extraction for [green]AF271M[/] (42 tiles of 42 possible)
+2026-01-31 02:37:14 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:37:15 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF271M (time: 3.07s)
+2026-01-31 02:37:15 [DEBUG] - Extracting tiles for AF271M
+2026-01-31 02:37:15 [DEBUG] - AF271M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-01-31 02:37:15 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:37:15 [DEBUG] - Using imap chunksize=3
+2026-01-31 02:37:18 [INFO] - Finished tile extraction for [green]AF271M[/] (72 tiles of 72 possible)
+2026-01-31 02:37:18 [DEBUG] - Generating slide report
+2026-01-31 02:37:19 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AF130F.csv
+2026-01-31 02:37:19 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:37:19 [DEBUG] - Set up coordinate grid, shape=(38, 33)
+2026-01-31 02:37:19 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2026-01-31 02:37:19 [DEBUG] - AF130F: Grid shape: (38, 33) | Tiles to extract: 52
+2026-01-31 02:37:19 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:37:19 [DEBUG] - No ROI for AF130F, using whole slide.
+2026-01-31 02:37:19 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:37:19 [DEBUG] - Set up coordinate grid, shape=(6, 5)
+2026-01-31 02:37:19 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 45815 x 39429
+2026-01-31 02:37:19 [DEBUG] - AF130F: Grid shape: (6, 5) | Tiles to extract: 30
+2026-01-31 02:37:19 [DEBUG] - AF130F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-01-31 02:37:19 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:37:20 [DEBUG] - Finished tile extraction for [green]AF130F[/] (30 tiles of 30 possible)
+2026-01-31 02:37:20 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:37:21 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF130F (time: 1.74s)
+2026-01-31 02:37:21 [DEBUG] - Extracting tiles for AF130F
+2026-01-31 02:37:21 [DEBUG] - AF130F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-01-31 02:37:21 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:37:21 [DEBUG] - Using imap chunksize=1
+2026-01-31 02:43:18 [DEBUG] - Verifying slide annotations...
+2026-01-31 02:43:18 [DEBUG] - Verifying tfrecords...
+2026-01-31 02:45:55 [DEBUG] - Verifying slide annotations...
+2026-01-31 02:45:55 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-01-31 02:45:57 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:45:57 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:45:57 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-01-31 02:45:57 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:45:57 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:45:57 [INFO] - Slide reading backend: [green]cucim[/]
+2026-01-31 02:45:57 [INFO] - Filtering tiles by whitespace fraction
+2026-01-31 02:45:57 [DEBUG] - Whitespace defined as RGB avg > 230 (exclude if >=95% whitespace)
+2026-01-31 02:45:57 [INFO] - Filtering tiles by grayspace fraction
+2026-01-31 02:45:57 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2026-01-31 02:45:57 [INFO] - Working on dataset source [bold]Exp2_Dataset[/]...
+2026-01-31 02:46:15 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:46:15 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:46:17 [INFO] - Re-extracting 1 interrupted:
+2026-01-31 02:46:17 [INFO] - AF130F
+2026-01-31 02:46:17 [INFO] - Extracting tiles from 17 slides (tile_px=299, tile_um=302)
+2026-01-31 02:46:17 [INFO] - Using 24 processes (pool=fork)
+2026-01-31 02:46:19 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG986F.csv
+2026-01-31 02:46:19 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:19 [DEBUG] - Set up coordinate grid, shape=(54, 42)
+2026-01-31 02:46:19 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2026-01-31 02:46:19 [DEBUG] - AG986F: Grid shape: (54, 42) | Tiles to extract: 98
+2026-01-31 02:46:19 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:46:19 [DEBUG] - No ROI for AG986F, using whole slide.
+2026-01-31 02:46:19 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:19 [DEBUG] - Set up coordinate grid, shape=(9, 7)
+2026-01-31 02:46:19 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 62350 x 48943
+2026-01-31 02:46:19 [DEBUG] - AG986F: Grid shape: (9, 7) | Tiles to extract: 63
+2026-01-31 02:46:19 [DEBUG] - AG986F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:46:19 [DEBUG] - Creating filter pool (n_threads=8)
+2026-01-31 02:46:19 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:20 [DEBUG] - Finished tile extraction for [green]AG986F[/] (63 tiles of 63 possible)
+2026-01-31 02:46:20 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:46:22 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG986F (time: 3.26s)
+2026-01-31 02:46:22 [DEBUG] - Extracting tiles for AG986F
+2026-01-31 02:46:22 [DEBUG] - AG986F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:46:22 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:22 [DEBUG] - Using imap chunksize=3
+2026-01-31 02:46:24 [INFO] - Finished tile extraction for [green]AG986F[/] (87 tiles of 87 possible)
+2026-01-31 02:46:24 [DEBUG] - Generating slide report
+2026-01-31 02:46:28 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH073M.csv
+2026-01-31 02:46:28 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:28 [DEBUG] - Set up coordinate grid, shape=(58, 60)
+2026-01-31 02:46:28 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2026-01-31 02:46:28 [DEBUG] - AH073M: Grid shape: (58, 60) | Tiles to extract: 102
+2026-01-31 02:46:28 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:46:28 [DEBUG] - No ROI for AH073M, using whole slide.
+2026-01-31 02:46:28 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:28 [DEBUG] - Set up coordinate grid, shape=(9, 10)
+2026-01-31 02:46:28 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 66884 x 69447
+2026-01-31 02:46:28 [DEBUG] - AH073M: Grid shape: (9, 10) | Tiles to extract: 90
+2026-01-31 02:46:28 [DEBUG] - AH073M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:46:28 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:30 [DEBUG] - Finished tile extraction for [green]AH073M[/] (90 tiles of 90 possible)
+2026-01-31 02:46:30 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-01-31 02:46:30 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH073M (time: 1.96s)
+2026-01-31 02:46:30 [DEBUG] - Extracting tiles for AH073M
+2026-01-31 02:46:30 [DEBUG] - AH073M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:46:30 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:30 [DEBUG] - Using imap chunksize=3
+2026-01-31 02:46:32 [INFO] - Finished tile extraction for [green]AH073M[/] (86 tiles of 86 possible)
+2026-01-31 02:46:32 [DEBUG] - Generating slide report
+2026-01-31 02:46:34 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH146M.csv
+2026-01-31 02:46:34 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:34 [DEBUG] - Set up coordinate grid, shape=(64, 56)
+2026-01-31 02:46:34 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2026-01-31 02:46:34 [DEBUG] - AH146M: Grid shape: (64, 56) | Tiles to extract: 133
+2026-01-31 02:46:34 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:46:34 [DEBUG] - No ROI for AH146M, using whole slide.
+2026-01-31 02:46:34 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:34 [DEBUG] - Set up coordinate grid, shape=(10, 9)
+2026-01-31 02:46:34 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 73784 x 64913
+2026-01-31 02:46:34 [DEBUG] - AH146M: Grid shape: (10, 9) | Tiles to extract: 90
+2026-01-31 02:46:34 [DEBUG] - AH146M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:46:34 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:36 [DEBUG] - Finished tile extraction for [green]AH146M[/] (90 tiles of 90 possible)
+2026-01-31 02:46:36 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:46:37 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH146M (time: 3.21s)
+2026-01-31 02:46:37 [DEBUG] - Extracting tiles for AH146M
+2026-01-31 02:46:38 [DEBUG] - AH146M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:46:38 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:38 [DEBUG] - Using imap chunksize=5
+2026-01-31 02:46:47 [INFO] - Finished tile extraction for [green]AH146M[/] (130 tiles of 130 possible)
+2026-01-31 02:46:48 [DEBUG] - Generating slide report
+2026-01-31 02:46:49 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH141F.csv
+2026-01-31 02:46:49 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:49 [DEBUG] - Set up coordinate grid, shape=(60, 56)
+2026-01-31 02:46:49 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-01-31 02:46:49 [DEBUG] - AH141F: Grid shape: (60, 56) | Tiles to extract: 104
+2026-01-31 02:46:49 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:46:49 [DEBUG] - No ROI for AH141F, using whole slide.
+2026-01-31 02:46:49 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:49 [DEBUG] - Set up coordinate grid, shape=(10, 9)
+2026-01-31 02:46:49 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 69250 x 65307
+2026-01-31 02:46:49 [DEBUG] - AH141F: Grid shape: (10, 9) | Tiles to extract: 90
+2026-01-31 02:46:49 [DEBUG] - AH141F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:46:49 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:51 [DEBUG] - Finished tile extraction for [green]AH141F[/] (90 tiles of 90 possible)
+2026-01-31 02:46:51 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:46:52 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH141F (time: 2.69s)
+2026-01-31 02:46:52 [DEBUG] - Extracting tiles for AH141F
+2026-01-31 02:46:52 [DEBUG] - AH141F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:46:52 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:52 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:46:55 [INFO] - Finished tile extraction for [green]AH141F[/] (98 tiles of 98 possible)
+2026-01-31 02:46:55 [DEBUG] - Generating slide report
+2026-01-31 02:46:57 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG987F.csv
+2026-01-31 02:46:57 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:57 [DEBUG] - Set up coordinate grid, shape=(51, 45)
+2026-01-31 02:46:57 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2026-01-31 02:46:57 [DEBUG] - AG987F: Grid shape: (51, 45) | Tiles to extract: 100
+2026-01-31 02:46:57 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:46:58 [DEBUG] - No ROI for AG987F, using whole slide.
+2026-01-31 02:46:58 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:46:58 [DEBUG] - Set up coordinate grid, shape=(8, 7)
+2026-01-31 02:46:58 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 59589 x 52689
+2026-01-31 02:46:58 [DEBUG] - AG987F: Grid shape: (8, 7) | Tiles to extract: 56
+2026-01-31 02:46:58 [DEBUG] - AG987F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:46:58 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:46:58 [DEBUG] - Finished tile extraction for [green]AG987F[/] (56 tiles of 56 possible)
+2026-01-31 02:46:59 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:46:59 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG987F (time: 1.67s)
+2026-01-31 02:46:59 [DEBUG] - Extracting tiles for AG987F
+2026-01-31 02:47:00 [DEBUG] - AG987F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:00 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:00 [DEBUG] - Using imap chunksize=3
+2026-01-31 02:47:02 [INFO] - Finished tile extraction for [green]AG987F[/] (91 tiles of 91 possible)
+2026-01-31 02:47:02 [DEBUG] - Generating slide report
+2026-01-31 02:47:03 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH139F.csv
+2026-01-31 02:47:03 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:03 [DEBUG] - Set up coordinate grid, shape=(59, 54)
+2026-01-31 02:47:03 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2026-01-31 02:47:03 [DEBUG] - AH139F: Grid shape: (59, 54) | Tiles to extract: 116
+2026-01-31 02:47:03 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:47:04 [DEBUG] - No ROI for AH139F, using whole slide.
+2026-01-31 02:47:04 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:04 [DEBUG] - Set up coordinate grid, shape=(9, 9)
+2026-01-31 02:47:04 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67870 x 61955
+2026-01-31 02:47:04 [DEBUG] - AH139F: Grid shape: (9, 9) | Tiles to extract: 81
+2026-01-31 02:47:04 [DEBUG] - AH139F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:47:04 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:05 [DEBUG] - Finished tile extraction for [green]AH139F[/] (81 tiles of 81 possible)
+2026-01-31 02:47:05 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:47:06 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH139F (time: 2.32s)
+2026-01-31 02:47:06 [DEBUG] - Extracting tiles for AH139F
+2026-01-31 02:47:06 [DEBUG] - AH139F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:06 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:06 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:47:16 [INFO] - Finished tile extraction for [green]AH139F[/] (111 tiles of 111 possible)
+2026-01-31 02:47:16 [DEBUG] - Generating slide report
+2026-01-31 02:47:18 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH142F.csv
+2026-01-31 02:47:18 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:18 [DEBUG] - Set up coordinate grid, shape=(60, 54)
+2026-01-31 02:47:18 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2026-01-31 02:47:18 [DEBUG] - AH142F: Grid shape: (60, 54) | Tiles to extract: 109
+2026-01-31 02:47:18 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:47:18 [DEBUG] - No ROI for AH142F, using whole slide.
+2026-01-31 02:47:18 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:18 [DEBUG] - Set up coordinate grid, shape=(10, 9)
+2026-01-31 02:47:18 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 69841 x 62350
+2026-01-31 02:47:18 [DEBUG] - AH142F: Grid shape: (10, 9) | Tiles to extract: 90
+2026-01-31 02:47:18 [DEBUG] - AH142F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:47:18 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:19 [DEBUG] - Finished tile extraction for [green]AH142F[/] (90 tiles of 90 possible)
+2026-01-31 02:47:19 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:47:20 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH142F (time: 2.65s)
+2026-01-31 02:47:20 [DEBUG] - Extracting tiles for AH142F
+2026-01-31 02:47:20 [DEBUG] - AH142F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:20 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:20 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:47:23 [INFO] - Finished tile extraction for [green]AH142F[/] (98 tiles of 98 possible)
+2026-01-31 02:47:23 [DEBUG] - Generating slide report
+2026-01-31 02:47:26 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH213F.csv
+2026-01-31 02:47:27 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:27 [DEBUG] - Set up coordinate grid, shape=(64, 66)
+2026-01-31 02:47:27 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2026-01-31 02:47:27 [DEBUG] - AH213F: Grid shape: (64, 66) | Tiles to extract: 211
+2026-01-31 02:47:27 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:47:27 [DEBUG] - No ROI for AH213F, using whole slide.
+2026-01-31 02:47:27 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:27 [DEBUG] - Set up coordinate grid, shape=(10, 10)
+2026-01-31 02:47:27 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 74179 x 76150
+2026-01-31 02:47:27 [DEBUG] - AH213F: Grid shape: (10, 10) | Tiles to extract: 100
+2026-01-31 02:47:27 [DEBUG] - AH213F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:47:27 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:28 [DEBUG] - Finished tile extraction for [green]AH213F[/] (100 tiles of 100 possible)
+2026-01-31 02:47:28 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-01-31 02:47:28 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH213F (time: 1.91s)
+2026-01-31 02:47:28 [DEBUG] - Extracting tiles for AH213F
+2026-01-31 02:47:29 [DEBUG] - AH213F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:29 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:29 [DEBUG] - Using imap chunksize=8
+2026-01-31 02:47:32 [INFO] - Finished tile extraction for [green]AH213F[/] (196 tiles of 200 possible)
+2026-01-31 02:47:32 [DEBUG] - Generating slide report
+2026-01-31 02:47:34 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG985F.csv
+2026-01-31 02:47:34 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:34 [DEBUG] - Set up coordinate grid, shape=(57, 49)
+2026-01-31 02:47:34 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2026-01-31 02:47:34 [DEBUG] - AG985F: Grid shape: (57, 49) | Tiles to extract: 122
+2026-01-31 02:47:34 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:47:34 [DEBUG] - No ROI for AG985F, using whole slide.
+2026-01-31 02:47:34 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:34 [DEBUG] - Set up coordinate grid, shape=(9, 8)
+2026-01-31 02:47:34 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 65504 x 56238
+2026-01-31 02:47:34 [DEBUG] - AG985F: Grid shape: (9, 8) | Tiles to extract: 72
+2026-01-31 02:47:34 [DEBUG] - AG985F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:47:34 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:35 [DEBUG] - Finished tile extraction for [green]AG985F[/] (72 tiles of 72 possible)
+2026-01-31 02:47:35 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:47:36 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG985F (time: 2.26s)
+2026-01-31 02:47:36 [DEBUG] - Extracting tiles for AG985F
+2026-01-31 02:47:40 [DEBUG] - AG985F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:40 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:40 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:47:42 [INFO] - Finished tile extraction for [green]AG985F[/] (113 tiles of 113 possible)
+2026-01-31 02:47:42 [DEBUG] - Generating slide report
+2026-01-31 02:47:44 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH074M.csv
+2026-01-31 02:47:44 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:44 [DEBUG] - Set up coordinate grid, shape=(65, 62)
+2026-01-31 02:47:44 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2026-01-31 02:47:44 [DEBUG] - AH074M: Grid shape: (65, 62) | Tiles to extract: 146
+2026-01-31 02:47:44 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:47:44 [DEBUG] - No ROI for AH074M, using whole slide.
+2026-01-31 02:47:44 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:44 [DEBUG] - Set up coordinate grid, shape=(10, 10)
+2026-01-31 02:47:44 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 75164 x 71419
+2026-01-31 02:47:44 [DEBUG] - AH074M: Grid shape: (10, 10) | Tiles to extract: 100
+2026-01-31 02:47:44 [DEBUG] - AH074M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:47:44 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:46 [DEBUG] - Finished tile extraction for [green]AH074M[/] (100 tiles of 100 possible)
+2026-01-31 02:47:46 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-01-31 02:47:46 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH074M (time: 2.17s)
+2026-01-31 02:47:46 [DEBUG] - Extracting tiles for AH074M
+2026-01-31 02:47:46 [DEBUG] - AH074M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:46 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:46 [DEBUG] - Using imap chunksize=5
+2026-01-31 02:47:50 [INFO] - Finished tile extraction for [green]AH074M[/] (136 tiles of 136 possible)
+2026-01-31 02:47:54 [DEBUG] - Generating slide report
+2026-01-31 02:47:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH063F.csv
+2026-01-31 02:47:56 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:56 [DEBUG] - Set up coordinate grid, shape=(58, 60)
+2026-01-31 02:47:56 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2026-01-31 02:47:56 [DEBUG] - AH063F: Grid shape: (58, 60) | Tiles to extract: 124
+2026-01-31 02:47:56 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:47:57 [DEBUG] - No ROI for AH063F, using whole slide.
+2026-01-31 02:47:57 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:47:57 [DEBUG] - Set up coordinate grid, shape=(9, 10)
+2026-01-31 02:47:57 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67475 x 69644
+2026-01-31 02:47:57 [DEBUG] - AH063F: Grid shape: (9, 10) | Tiles to extract: 90
+2026-01-31 02:47:57 [DEBUG] - AH063F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:47:57 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:58 [DEBUG] - Finished tile extraction for [green]AH063F[/] (90 tiles of 90 possible)
+2026-01-31 02:47:58 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-01-31 02:47:58 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH063F (time: 1.74s)
+2026-01-31 02:47:58 [DEBUG] - Extracting tiles for AH063F
+2026-01-31 02:47:59 [DEBUG] - AH063F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:47:59 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:47:59 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:48:01 [INFO] - Finished tile extraction for [green]AH063F[/] (112 tiles of 113 possible)
+2026-01-31 02:48:01 [DEBUG] - Generating slide report
+2026-01-31 02:48:01 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH215M.csv
+2026-01-31 02:48:01 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:01 [DEBUG] - Set up coordinate grid, shape=(45, 47)
+2026-01-31 02:48:01 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2026-01-31 02:48:01 [DEBUG] - AH215M: Grid shape: (45, 47) | Tiles to extract: 190
+2026-01-31 02:48:01 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:48:01 [DEBUG] - No ROI for AH215M, using whole slide.
+2026-01-31 02:48:01 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:01 [DEBUG] - Set up coordinate grid, shape=(7, 8)
+2026-01-31 02:48:01 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 51703 x 54661
+2026-01-31 02:48:01 [DEBUG] - AH215M: Grid shape: (7, 8) | Tiles to extract: 56
+2026-01-31 02:48:01 [DEBUG] - AH215M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:48:01 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:02 [DEBUG] - Finished tile extraction for [green]AH215M[/] (56 tiles of 56 possible)
+2026-01-31 02:48:02 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:48:03 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH215M (time: 1.68s)
+2026-01-31 02:48:03 [DEBUG] - Extracting tiles for AH215M
+2026-01-31 02:48:03 [DEBUG] - AH215M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:48:03 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:03 [DEBUG] - Using imap chunksize=7
+2026-01-31 02:48:07 [INFO] - Finished tile extraction for [green]AH215M[/] (184 tiles of 184 possible)
+2026-01-31 02:48:07 [DEBUG] - Generating slide report
+2026-01-31 02:48:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH210F.csv
+2026-01-31 02:48:09 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:09 [DEBUG] - Set up coordinate grid, shape=(64, 59)
+2026-01-31 02:48:09 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2026-01-31 02:48:09 [DEBUG] - AH210F: Grid shape: (64, 59) | Tiles to extract: 127
+2026-01-31 02:48:09 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:48:09 [DEBUG] - No ROI for AH210F, using whole slide.
+2026-01-31 02:48:09 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:09 [DEBUG] - Set up coordinate grid, shape=(10, 9)
+2026-01-31 02:48:09 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 74376 x 67870
+2026-01-31 02:48:09 [DEBUG] - AH210F: Grid shape: (10, 9) | Tiles to extract: 90
+2026-01-31 02:48:09 [DEBUG] - AH210F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:48:09 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:11 [DEBUG] - Finished tile extraction for [green]AH210F[/] (90 tiles of 90 possible)
+2026-01-31 02:48:11 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-01-31 02:48:11 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH210F (time: 1.77s)
+2026-01-31 02:48:11 [DEBUG] - Extracting tiles for AH210F
+2026-01-31 02:48:11 [DEBUG] - AH210F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:48:11 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:11 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:48:13 [INFO] - Finished tile extraction for [green]AH210F[/] (110 tiles of 110 possible)
+2026-01-31 02:48:14 [DEBUG] - Generating slide report
+2026-01-31 02:48:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH212F.csv
+2026-01-31 02:48:16 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:16 [DEBUG] - Set up coordinate grid, shape=(53, 54)
+2026-01-31 02:48:16 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2026-01-31 02:48:16 [DEBUG] - AH212F: Grid shape: (53, 54) | Tiles to extract: 111
+2026-01-31 02:48:16 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:48:16 [DEBUG] - No ROI for AH212F, using whole slide.
+2026-01-31 02:48:16 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:16 [DEBUG] - Set up coordinate grid, shape=(8, 9)
+2026-01-31 02:48:16 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 60772 x 62744
+2026-01-31 02:48:16 [DEBUG] - AH212F: Grid shape: (8, 9) | Tiles to extract: 72
+2026-01-31 02:48:16 [DEBUG] - AH212F: Extracting 2068um tiles (resizing 1962.0px -> 512px); stride: 1916px
+2026-01-31 02:48:16 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:17 [DEBUG] - Finished tile extraction for [green]AH212F[/] (72 tiles of 72 possible)
+2026-01-31 02:48:17 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:48:18 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH212F (time: 2.72s)
+2026-01-31 02:48:18 [DEBUG] - Extracting tiles for AH212F
+2026-01-31 02:48:20 [DEBUG] - AH212F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:48:20 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:20 [DEBUG] - Using imap chunksize=4
+2026-01-31 02:48:22 [INFO] - Finished tile extraction for [green]AH212F[/] (104 tiles of 104 possible)
+2026-01-31 02:48:22 [DEBUG] - Generating slide report
+2026-01-31 02:48:24 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH211F.csv
+2026-01-31 02:48:24 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:24 [DEBUG] - Set up coordinate grid, shape=(46, 50)
+2026-01-31 02:48:24 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2026-01-31 02:48:24 [DEBUG] - AH211F: Grid shape: (46, 50) | Tiles to extract: 196
+2026-01-31 02:48:24 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:48:24 [DEBUG] - No ROI for AH211F, using whole slide.
+2026-01-31 02:48:24 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:24 [DEBUG] - Set up coordinate grid, shape=(7, 8)
+2026-01-31 02:48:24 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 53478 x 58209
+2026-01-31 02:48:24 [DEBUG] - AH211F: Grid shape: (7, 8) | Tiles to extract: 56
+2026-01-31 02:48:24 [DEBUG] - AH211F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:48:24 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:25 [DEBUG] - Finished tile extraction for [green]AH211F[/] (56 tiles of 56 possible)
+2026-01-31 02:48:25 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:48:26 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH211F (time: 1.76s)
+2026-01-31 02:48:26 [DEBUG] - Extracting tiles for AH211F
+2026-01-31 02:48:26 [DEBUG] - AH211F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:48:26 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:26 [DEBUG] - Using imap chunksize=7
+2026-01-31 02:48:29 [INFO] - Finished tile extraction for [green]AH211F[/] (186 tiles of 186 possible)
+2026-01-31 02:48:29 [DEBUG] - Generating slide report
+2026-01-31 02:48:37 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH145M.csv
+2026-01-31 02:48:37 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:37 [DEBUG] - Set up coordinate grid, shape=(58, 63)
+2026-01-31 02:48:37 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2026-01-31 02:48:37 [DEBUG] - AH145M: Grid shape: (58, 63) | Tiles to extract: 149
+2026-01-31 02:48:37 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:48:38 [DEBUG] - No ROI for AH145M, using whole slide.
+2026-01-31 02:48:38 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:38 [DEBUG] - Set up coordinate grid, shape=(9, 10)
+2026-01-31 02:48:38 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67081 x 72799
+2026-01-31 02:48:38 [DEBUG] - AH145M: Grid shape: (9, 10) | Tiles to extract: 90
+2026-01-31 02:48:38 [DEBUG] - AH145M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:48:38 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:39 [DEBUG] - Finished tile extraction for [green]AH145M[/] (90 tiles of 90 possible)
+2026-01-31 02:48:39 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-01-31 02:48:39 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH145M (time: 1.76s)
+2026-01-31 02:48:39 [DEBUG] - Extracting tiles for AH145M
+2026-01-31 02:48:39 [DEBUG] - AH145M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:48:39 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:39 [DEBUG] - Using imap chunksize=5
+2026-01-31 02:48:42 [INFO] - Finished tile extraction for [green]AH145M[/] (130 tiles of 130 possible)
+2026-01-31 02:48:42 [DEBUG] - Generating slide report
+2026-01-31 02:48:44 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AG991M.csv
+2026-01-31 02:48:44 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:44 [DEBUG] - Set up coordinate grid, shape=(58, 55)
+2026-01-31 02:48:44 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2026-01-31 02:48:44 [DEBUG] - AG991M: Grid shape: (58, 55) | Tiles to extract: 69
+2026-01-31 02:48:44 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-01-31 02:48:44 [DEBUG] - No ROI for AG991M, using whole slide.
+2026-01-31 02:48:44 [DEBUG] - Slide origin: (0, 0)
+2026-01-31 02:48:44 [DEBUG] - Set up coordinate grid, shape=(9, 9)
+2026-01-31 02:48:44 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 66687 x 64124
+2026-01-31 02:48:44 [DEBUG] - AG991M: Grid shape: (9, 9) | Tiles to extract: 81
+2026-01-31 02:48:44 [DEBUG] - AG991M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-01-31 02:48:44 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:45 [DEBUG] - Finished tile extraction for [green]AG991M[/] (81 tiles of 81 possible)
+2026-01-31 02:48:45 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-01-31 02:48:46 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG991M (time: 2.35s)
+2026-01-31 02:48:46 [DEBUG] - Extracting tiles for AG991M
+2026-01-31 02:48:47 [DEBUG] - AG991M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-01-31 02:48:47 [DEBUG] - Building generator with a shared pool
+2026-01-31 02:48:47 [DEBUG] - Using imap chunksize=2
+2026-01-31 02:48:49 [INFO] - Finished tile extraction for [green]AG991M[/] (61 tiles of 61 possible)
+2026-01-31 02:48:49 [DEBUG] - Generating slide report
+2026-01-31 02:48:49 [INFO] - Generating PDF (this may take some time)...
+2026-01-31 02:48:49 [DEBUG] - Rendering thumbnails with pool.
+2026-01-31 02:48:54 [DEBUG] - Rendering tile images with pool.
+2026-01-31 02:48:54 [DEBUG] - Report render complete.
+2026-01-31 02:48:55 [DEBUG] - Rendering PDF pages with thumbnails.
+2026-01-31 02:49:02 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:49:02 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-01-31 02:49:02 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:49:02 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-01-31 02:49:02 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-01-31 02:49:02 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-01-31 02:49:02 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-01 02:46:05 [DEBUG] - Verifying slide annotations...
+2026-02-01 02:46:10 [DEBUG] - Verifying tfrecords...
+2026-02-01 02:46:10 [WARNING] - TFRecord /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um/AF130F.tfrecords in manifest was not found; removing
+2026-02-01 02:46:10 [WARNING] - TFRecord /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/tfrecords/299px_302um/AF271M.tfrecords in manifest was not found; removing
+2026-02-01 02:52:39 [INFO] - Using feature extractor: [green]virchow[/]
+2026-02-01 02:52:43 [DEBUG] - Setting up PyTorch dataset iterator (num_workers=4, chunk_size=8)
+2026-02-01 02:52:45 [DEBUG] - Loading indices...
+2026-02-01 02:52:46 [DEBUG] - Using num_workers=4
+2026-02-01 02:52:46 [DEBUG] - Threads per worker=6
+2026-02-01 02:52:46 [DEBUG] - Calculating activations for 16 tfrecords
+2026-02-01 02:52:46 [DEBUG] - Generating from [green]<VirchowFeatures n_features=2560, n_classes=0>
+2026-02-01 03:11:08 [INFO] - Using feature extractor: [green]virchow[/]
+2026-02-01 03:13:58 [DEBUG] - Verifying slide annotations...
+2026-02-01 03:14:07 [DEBUG] - Verifying tfrecords...
+2026-02-01 03:14:33 [INFO] - Using feature extractor: [green]virchow[/]
+2026-02-01 03:14:36 [DEBUG] - Setting up PyTorch dataset iterator (num_workers=4, chunk_size=8)
+2026-02-01 03:14:39 [DEBUG] - Loading indices...
+2026-02-01 03:14:45 [DEBUG] - Using num_workers=4
+2026-02-01 03:14:45 [DEBUG] - Threads per worker=6
+2026-02-01 03:14:45 [DEBUG] - Calculating activations for 16 tfrecords
+2026-02-01 03:14:45 [DEBUG] - Generating from [green]<VirchowFeatures n_features=2560, n_classes=0>
+2026-02-01 03:15:02 [DEBUG] - Calculation time: 25 sec
+2026-02-01 03:15:02 [DEBUG] - Number of activation features: 2560
+2026-02-01 03:15:02 [DEBUG] - Loaded activations from 16/16 slides (0 missing)
+2026-02-01 03:15:02 [DEBUG] - Observed categories (total: 0): 
+2026-02-01 03:15:02 [DEBUG] - Number of activation features: 2560
+2026-02-01 03:15:04 [DEBUG] - Activations exported in Torch format to /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/features/virchow
+2026-02-01 03:15:05 [DEBUG] - Setting up PyTorch dataset iterator (num_workers=4, chunk_size=8)
+2026-02-01 03:15:07 [DEBUG] - Loading indices...
+2026-02-01 03:15:07 [DEBUG] - Using num_workers=4
+2026-02-01 03:15:07 [DEBUG] - Threads per worker=6
+2026-02-01 03:15:07 [DEBUG] - Calculating activations for 1 tfrecords
+2026-02-01 03:15:07 [DEBUG] - Generating from [green]<VirchowFeatures n_features=2560, n_classes=0>
+2026-02-01 03:15:09 [DEBUG] - Calculation time: 3 sec
+2026-02-01 03:15:09 [DEBUG] - Number of activation features: 2560
+2026-02-01 03:15:09 [DEBUG] - Loaded activations from 1/1 slides (0 missing)
+2026-02-01 03:15:09 [DEBUG] - Observed categories (total: 0): 
+2026-02-01 03:15:09 [DEBUG] - Number of activation features: 2560
+2026-02-01 03:15:09 [DEBUG] - Activations exported in Torch format to /home/stanna/labshare/PERSONAL/stanna/DATA/Exp2/features/virchow
+2026-02-18 22:18:18 [DEBUG] - Verifying slide annotations...
+2026-02-18 22:18:18 [DEBUG] - Verifying tfrecords...
+2026-02-18 22:22:41 [DEBUG] - Verifying slide annotations...
+2026-02-18 22:22:41 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-02-18 22:22:41 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um
+2026-02-18 22:22:44 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-02-18 22:22:44 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:22:44 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um; creating now
+2026-02-18 22:22:44 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:22:44 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-02-18 22:22:44 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um
+2026-02-18 22:22:44 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-02-18 22:22:44 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:22:44 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um; creating now
+2026-02-18 22:22:44 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:22:44 [INFO] - Slide reading backend: [green]cucim[/]
+2026-02-18 22:22:44 [INFO] - Filtering tiles by whitespace fraction
+2026-02-18 22:22:44 [DEBUG] - Whitespace defined as RGB avg > 230 (exclude if >=95% whitespace)
+2026-02-18 22:22:44 [INFO] - Filtering tiles by grayspace fraction
+2026-02-18 22:22:44 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2026-02-18 22:22:44 [INFO] - Working on dataset source [bold]Grayson_Dataset[/]...
+2026-02-18 22:22:54 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-02-18 22:22:54 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:22:54 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um; creating now
+2026-02-18 22:22:54 [INFO] - Extracting tiles from 9 slides (tile_px=299, tile_um=302)
+2026-02-18 22:22:54 [INFO] - Using 24 processes (pool=fork)
+2026-02-18 22:22:57 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH074M.csv
+2026-02-18 22:22:57 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:22:57 [DEBUG] - Set up coordinate grid, shape=(65, 62)
+2026-02-18 22:22:57 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 45 ROI(s) | Size: 75164 x 71419
+2026-02-18 22:22:57 [DEBUG] - AH074M: Grid shape: (65, 62) | Tiles to extract: 146
+2026-02-18 22:22:57 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:22:57 [DEBUG] - No ROI for AH074M, using whole slide.
+2026-02-18 22:22:57 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:22:57 [DEBUG] - Set up coordinate grid, shape=(10, 10)
+2026-02-18 22:22:57 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 75164 x 71419
+2026-02-18 22:22:57 [DEBUG] - AH074M: Grid shape: (10, 10) | Tiles to extract: 100
+2026-02-18 22:22:57 [DEBUG] - AH074M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:22:57 [DEBUG] - Creating filter pool (n_threads=8)
+2026-02-18 22:22:57 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:22:59 [DEBUG] - Finished tile extraction for [green]AH074M[/] (100 tiles of 100 possible)
+2026-02-18 22:22:59 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-02-18 22:23:00 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH074M (time: 2.94s)
+2026-02-18 22:23:00 [DEBUG] - Extracting tiles for AH074M
+2026-02-18 22:23:00 [DEBUG] - AH074M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:00 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:00 [DEBUG] - Using imap chunksize=5
+2026-02-18 22:23:03 [INFO] - Finished tile extraction for [green]AH074M[/] (135 tiles of 135 possible)
+2026-02-18 22:23:03 [DEBUG] - Generating slide report
+2026-02-18 22:23:05 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH073M.csv
+2026-02-18 22:23:05 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:05 [DEBUG] - Set up coordinate grid, shape=(58, 60)
+2026-02-18 22:23:05 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 66884 x 69447
+2026-02-18 22:23:05 [DEBUG] - AH073M: Grid shape: (58, 60) | Tiles to extract: 102
+2026-02-18 22:23:05 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:23:05 [DEBUG] - No ROI for AH073M, using whole slide.
+2026-02-18 22:23:05 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:05 [DEBUG] - Set up coordinate grid, shape=(9, 10)
+2026-02-18 22:23:05 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 66884 x 69447
+2026-02-18 22:23:05 [DEBUG] - AH073M: Grid shape: (9, 10) | Tiles to extract: 90
+2026-02-18 22:23:05 [DEBUG] - AH073M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:23:05 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:07 [DEBUG] - Finished tile extraction for [green]AH073M[/] (90 tiles of 90 possible)
+2026-02-18 22:23:08 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-02-18 22:23:08 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH073M (time: 2.42s)
+2026-02-18 22:23:08 [DEBUG] - Extracting tiles for AH073M
+2026-02-18 22:23:14 [DEBUG] - AH073M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:14 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:14 [DEBUG] - Using imap chunksize=3
+2026-02-18 22:23:16 [INFO] - Finished tile extraction for [green]AH073M[/] (87 tiles of 87 possible)
+2026-02-18 22:23:16 [DEBUG] - Generating slide report
+2026-02-18 22:23:18 [WARNING] - Skipping invalid ROI (ROI_4): Invalid ROI (ROI_4): ROI must contain at least 4 coordinates.
+2026-02-18 22:23:18 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH141F.csv
+2026-02-18 22:23:18 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:18 [DEBUG] - Set up coordinate grid, shape=(60, 56)
+2026-02-18 22:23:18 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-02-18 22:23:18 [DEBUG] - AH141F: Grid shape: (60, 56) | Tiles to extract: 108
+2026-02-18 22:23:18 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:23:18 [DEBUG] - No ROI for AH141F, using whole slide.
+2026-02-18 22:23:18 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:18 [DEBUG] - Set up coordinate grid, shape=(10, 9)
+2026-02-18 22:23:18 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 69250 x 65307
+2026-02-18 22:23:18 [DEBUG] - AH141F: Grid shape: (10, 9) | Tiles to extract: 90
+2026-02-18 22:23:18 [DEBUG] - AH141F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:23:18 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:20 [DEBUG] - Finished tile extraction for [green]AH141F[/] (90 tiles of 90 possible)
+2026-02-18 22:23:20 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-02-18 22:23:21 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH141F (time: 2.92s)
+2026-02-18 22:23:21 [DEBUG] - Extracting tiles for AH141F
+2026-02-18 22:23:21 [DEBUG] - AH141F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:21 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:21 [DEBUG] - Using imap chunksize=4
+2026-02-18 22:23:25 [INFO] - Finished tile extraction for [green]AH141F[/] (102 tiles of 102 possible)
+2026-02-18 22:23:25 [DEBUG] - Generating slide report
+2026-02-18 22:23:27 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH139F.csv
+2026-02-18 22:23:27 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:27 [DEBUG] - Set up coordinate grid, shape=(59, 54)
+2026-02-18 22:23:27 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 25 ROI(s) | Size: 67870 x 61955
+2026-02-18 22:23:27 [DEBUG] - AH139F: Grid shape: (59, 54) | Tiles to extract: 119
+2026-02-18 22:23:27 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:23:27 [DEBUG] - No ROI for AH139F, using whole slide.
+2026-02-18 22:23:27 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:27 [DEBUG] - Set up coordinate grid, shape=(9, 9)
+2026-02-18 22:23:27 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67870 x 61955
+2026-02-18 22:23:27 [DEBUG] - AH139F: Grid shape: (9, 9) | Tiles to extract: 81
+2026-02-18 22:23:27 [DEBUG] - AH139F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:23:27 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:28 [DEBUG] - Finished tile extraction for [green]AH139F[/] (81 tiles of 81 possible)
+2026-02-18 22:23:28 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-02-18 22:23:29 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH139F (time: 2.46s)
+2026-02-18 22:23:29 [DEBUG] - Extracting tiles for AH139F
+2026-02-18 22:23:29 [DEBUG] - AH139F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:29 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:29 [DEBUG] - Using imap chunksize=4
+2026-02-18 22:23:31 [INFO] - Finished tile extraction for [green]AH139F[/] (114 tiles of 114 possible)
+2026-02-18 22:23:32 [DEBUG] - Generating slide report
+2026-02-18 22:23:35 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AG991M.csv
+2026-02-18 22:23:35 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:35 [DEBUG] - Set up coordinate grid, shape=(58, 55)
+2026-02-18 22:23:35 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 66687 x 64124
+2026-02-18 22:23:35 [DEBUG] - AG991M: Grid shape: (58, 55) | Tiles to extract: 71
+2026-02-18 22:23:35 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:23:35 [DEBUG] - No ROI for AG991M, using whole slide.
+2026-02-18 22:23:35 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:35 [DEBUG] - Set up coordinate grid, shape=(9, 9)
+2026-02-18 22:23:35 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 66687 x 64124
+2026-02-18 22:23:35 [DEBUG] - AG991M: Grid shape: (9, 9) | Tiles to extract: 81
+2026-02-18 22:23:35 [DEBUG] - AG991M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:23:35 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:37 [DEBUG] - Finished tile extraction for [green]AG991M[/] (81 tiles of 81 possible)
+2026-02-18 22:23:37 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-02-18 22:23:39 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG991M (time: 4.03s)
+2026-02-18 22:23:39 [DEBUG] - Extracting tiles for AG991M
+2026-02-18 22:23:39 [DEBUG] - AG991M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:39 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:39 [DEBUG] - Using imap chunksize=2
+2026-02-18 22:23:40 [INFO] - Finished tile extraction for [green]AG991M[/] (61 tiles of 61 possible)
+2026-02-18 22:23:40 [DEBUG] - Generating slide report
+2026-02-18 22:23:42 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH063F.csv
+2026-02-18 22:23:42 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:42 [DEBUG] - Set up coordinate grid, shape=(58, 60)
+2026-02-18 22:23:42 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 67475 x 69644
+2026-02-18 22:23:42 [DEBUG] - AH063F: Grid shape: (58, 60) | Tiles to extract: 120
+2026-02-18 22:23:42 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:23:42 [DEBUG] - No ROI for AH063F, using whole slide.
+2026-02-18 22:23:42 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:42 [DEBUG] - Set up coordinate grid, shape=(9, 10)
+2026-02-18 22:23:42 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67475 x 69644
+2026-02-18 22:23:42 [DEBUG] - AH063F: Grid shape: (9, 10) | Tiles to extract: 90
+2026-02-18 22:23:42 [DEBUG] - AH063F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:23:42 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:44 [DEBUG] - Finished tile extraction for [green]AH063F[/] (90 tiles of 90 possible)
+2026-02-18 22:23:44 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-02-18 22:23:44 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH063F (time: 2.16s)
+2026-02-18 22:23:44 [DEBUG] - Extracting tiles for AH063F
+2026-02-18 22:23:45 [DEBUG] - AH063F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:45 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:45 [DEBUG] - Using imap chunksize=4
+2026-02-18 22:23:52 [INFO] - Finished tile extraction for [green]AH063F[/] (109 tiles of 110 possible)
+2026-02-18 22:23:52 [DEBUG] - Generating slide report
+2026-02-18 22:23:55 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AG986F.csv
+2026-02-18 22:23:55 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:55 [DEBUG] - Set up coordinate grid, shape=(54, 42)
+2026-02-18 22:23:55 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 62350 x 48943
+2026-02-18 22:23:55 [DEBUG] - AG986F: Grid shape: (54, 42) | Tiles to extract: 91
+2026-02-18 22:23:55 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:23:55 [DEBUG] - No ROI for AG986F, using whole slide.
+2026-02-18 22:23:55 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:23:55 [DEBUG] - Set up coordinate grid, shape=(9, 7)
+2026-02-18 22:23:55 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 62350 x 48943
+2026-02-18 22:23:55 [DEBUG] - AG986F: Grid shape: (9, 7) | Tiles to extract: 63
+2026-02-18 22:23:55 [DEBUG] - AG986F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:23:55 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:56 [DEBUG] - Finished tile extraction for [green]AG986F[/] (63 tiles of 63 possible)
+2026-02-18 22:23:56 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-02-18 22:23:57 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG986F (time: 1.98s)
+2026-02-18 22:23:57 [DEBUG] - Extracting tiles for AG986F
+2026-02-18 22:23:57 [DEBUG] - AG986F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:23:57 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:23:57 [DEBUG] - Using imap chunksize=3
+2026-02-18 22:24:05 [INFO] - Finished tile extraction for [green]AG986F[/] (80 tiles of 80 possible)
+2026-02-18 22:24:05 [DEBUG] - Generating slide report
+2026-02-18 22:24:08 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AG987F.csv
+2026-02-18 22:24:08 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:24:08 [DEBUG] - Set up coordinate grid, shape=(51, 45)
+2026-02-18 22:24:08 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 59589 x 52689
+2026-02-18 22:24:08 [DEBUG] - AG987F: Grid shape: (51, 45) | Tiles to extract: 99
+2026-02-18 22:24:08 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:24:08 [DEBUG] - No ROI for AG987F, using whole slide.
+2026-02-18 22:24:08 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:24:08 [DEBUG] - Set up coordinate grid, shape=(8, 7)
+2026-02-18 22:24:08 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 59589 x 52689
+2026-02-18 22:24:08 [DEBUG] - AG987F: Grid shape: (8, 7) | Tiles to extract: 56
+2026-02-18 22:24:08 [DEBUG] - AG987F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:24:08 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:24:10 [DEBUG] - Finished tile extraction for [green]AG987F[/] (56 tiles of 56 possible)
+2026-02-18 22:24:10 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-02-18 22:24:11 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG987F (time: 2.47s)
+2026-02-18 22:24:11 [DEBUG] - Extracting tiles for AG987F
+2026-02-18 22:24:11 [DEBUG] - AG987F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:24:11 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:24:11 [DEBUG] - Using imap chunksize=3
+2026-02-18 22:24:17 [INFO] - Finished tile extraction for [green]AG987F[/] (91 tiles of 91 possible)
+2026-02-18 22:24:17 [DEBUG] - Generating slide report
+2026-02-18 22:24:23 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AG985F.csv
+2026-02-18 22:24:23 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:24:23 [DEBUG] - Set up coordinate grid, shape=(57, 49)
+2026-02-18 22:24:23 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 26 ROI(s) | Size: 65504 x 56238
+2026-02-18 22:24:23 [DEBUG] - AG985F: Grid shape: (57, 49) | Tiles to extract: 116
+2026-02-18 22:24:23 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-02-18 22:24:23 [DEBUG] - No ROI for AG985F, using whole slide.
+2026-02-18 22:24:23 [DEBUG] - Slide origin: (0, 0)
+2026-02-18 22:24:23 [DEBUG] - Set up coordinate grid, shape=(9, 8)
+2026-02-18 22:24:23 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 65504 x 56238
+2026-02-18 22:24:23 [DEBUG] - AG985F: Grid shape: (9, 8) | Tiles to extract: 72
+2026-02-18 22:24:23 [DEBUG] - AG985F: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-02-18 22:24:23 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:24:26 [DEBUG] - Finished tile extraction for [green]AG985F[/] (72 tiles of 72 possible)
+2026-02-18 22:24:26 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-02-18 22:24:27 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AG985F (time: 4.35s)
+2026-02-18 22:24:27 [DEBUG] - Extracting tiles for AG985F
+2026-02-18 22:24:31 [DEBUG] - AG985F: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-02-18 22:24:31 [DEBUG] - Building generator with a shared pool
+2026-02-18 22:24:31 [DEBUG] - Using imap chunksize=4
+2026-02-18 22:24:34 [INFO] - Finished tile extraction for [green]AG985F[/] (108 tiles of 108 possible)
+2026-02-18 22:24:34 [DEBUG] - Generating slide report
+2026-02-18 22:24:35 [INFO] - Generating PDF (this may take some time)...
+2026-02-18 22:24:35 [DEBUG] - Rendering thumbnails with pool.
+2026-02-18 22:24:40 [DEBUG] - Rendering tile images with pool.
+2026-02-18 22:24:40 [DEBUG] - Report render complete.
+2026-02-18 22:24:41 [DEBUG] - Rendering PDF pages with thumbnails.
+2026-02-18 22:25:03 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:25:12 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-02-18 22:25:14 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-02-18 22:25:14 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:25:14 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-02-18 22:25:14 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-02-18 22:25:14 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-02-18 22:29:15 [DEBUG] - Verifying slide annotations...
+2026-02-18 22:29:18 [DEBUG] - Verifying tfrecords...
+2026-02-18 22:29:18 [INFO] - Using feature extractor: [green]virchow[/]
+2026-02-18 22:29:19 [DEBUG] - Setting up PyTorch dataset iterator (num_workers=4, chunk_size=8)
+2026-02-18 22:29:21 [DEBUG] - Loading indices...
+2026-02-18 22:29:23 [DEBUG] - Using num_workers=4
+2026-02-18 22:29:23 [DEBUG] - Threads per worker=6
+2026-02-18 22:29:23 [DEBUG] - Calculating activations for 9 tfrecords
+2026-02-18 22:29:23 [DEBUG] - Generating from [green]<VirchowFeatures n_features=2560, n_classes=0>
+2026-02-18 22:29:33 [DEBUG] - Calculation time: 14 sec
+2026-02-18 22:29:33 [DEBUG] - Number of activation features: 2560
+2026-02-18 22:29:33 [DEBUG] - Loaded activations from 9/9 slides (0 missing)
+2026-02-18 22:29:33 [DEBUG] - Observed categories (total: 0): 
+2026-02-18 22:29:33 [DEBUG] - Number of activation features: 2560
+2026-02-18 22:29:34 [DEBUG] - Activations exported in Torch format to /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/features/virchow
+2026-03-02 13:15:55 [INFO] - No ROI for AH146M, using whole slide.
+2026-03-02 13:15:55 [DEBUG] - Slide origin: (0, 0)
+2026-03-02 13:15:55 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2026-03-02 13:15:55 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 73784 x 64913
+2026-03-02 13:15:55 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 20216
+2026-03-02 13:16:51 [WARNING] - Skipping invalid ROI (ROI_4): Invalid ROI (ROI_4): ROI must contain at least 4 coordinates.
+2026-03-02 13:16:51 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH141F.csv
+2026-03-02 13:16:51 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2026-03-02 13:16:51 [DEBUG] - Slide origin: (0, 0)
+2026-03-02 13:16:51 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-03-02 13:16:51 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-03-02 13:16:51 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 647
+2026-03-02 13:18:14 [WARNING] - Skipping invalid ROI (ROI_4): Invalid ROI (ROI_4): ROI must contain at least 4 coordinates.
+2026-03-02 13:18:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH141F.csv
+2026-03-02 13:18:14 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2026-03-02 13:18:14 [DEBUG] - Slide origin: (0, 0)
+2026-03-02 13:18:14 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-03-02 13:18:14 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-03-02 13:18:14 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 647
+2026-03-02 13:18:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH141F.csv
+2026-03-02 13:18:14 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2026-03-02 13:18:14 [DEBUG] - Slide origin: (0, 0)
+2026-03-02 13:18:14 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-03-02 13:18:14 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-03-02 13:18:14 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2026-03-02 13:18:14 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-03-02 13:18:14 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-03-04 13:35:21 [WARNING] - Skipping invalid ROI (ROI_4): Invalid ROI (ROI_4): ROI must contain at least 4 coordinates.
+2026-03-04 13:35:21 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH141F.csv
+2026-03-04 13:35:21 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2026-03-04 13:35:21 [DEBUG] - Slide origin: (0, 0)
+2026-03-04 13:35:21 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-03-04 13:35:21 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-03-04 13:35:21 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 647
+2026-03-04 13:35:21 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/anna/AH141F.csv
+2026-03-04 13:35:21 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2026-03-04 13:35:21 [DEBUG] - Slide origin: (0, 0)
+2026-03-04 13:35:21 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-03-04 13:35:21 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-03-04 13:35:21 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2026-03-04 13:35:21 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-03-04 13:35:23 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-03-06 02:43:52 [DEBUG] - Verifying slide annotations...
+2026-03-06 02:43:52 [DEBUG] - Verifying tfrecords...
+2026-03-06 02:44:17 [DEBUG] - Verifying slide annotations...
+2026-03-06 02:44:17 [DEBUG] - Verifying tfrecords...
+2026-03-06 02:44:59 [DEBUG] - Verifying slide annotations...
+2026-03-06 02:44:59 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:45:00 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:45:00 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:45:00 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:45:00 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:45:00 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:45:00 [INFO] - Slide reading backend: [green]cucim[/]
+2026-03-06 02:45:00 [INFO] - Filtering tiles by whitespace fraction
+2026-03-06 02:45:00 [DEBUG] - Whitespace defined as RGB avg > 230 (exclude if >=95% whitespace)
+2026-03-06 02:45:00 [INFO] - Filtering tiles by grayspace fraction
+2026-03-06 02:45:00 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2026-03-06 02:45:00 [INFO] - Working on dataset source [bold]Grayson_Dataset[/]...
+2026-03-06 02:45:11 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:45:11 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:45:11 [INFO] - Extracting tiles from 15 slides (tile_px=299, tile_um=302)
+2026-03-06 02:45:12 [INFO] - Using 24 processes (pool=fork)
+2026-03-06 02:45:12 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF107.csv
+2026-03-06 02:45:12 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:12 [DEBUG] - Set up coordinate grid, shape=(43, 38)
+2026-03-06 02:45:12 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2026-03-06 02:45:12 [DEBUG] - AF107: Grid shape: (43, 38) | Tiles to extract: 47
+2026-03-06 02:45:12 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:12 [DEBUG] - No ROI for AF107, using whole slide.
+2026-03-06 02:45:12 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:12 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:45:12 [DEBUG] - AF107: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 51791 x 46402
+2026-03-06 02:45:12 [DEBUG] - AF107: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:45:12 [DEBUG] - AF107: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:12 [DEBUG] - Creating filter pool (n_threads=8)
+2026-03-06 02:45:12 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:13 [DEBUG] - Finished tile extraction for [green]AF107[/] (42 tiles of 42 possible)
+2026-03-06 02:45:13 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:45:14 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF107 (time: 1.26s)
+2026-03-06 02:45:14 [DEBUG] - Extracting tiles for AF107
+2026-03-06 02:45:14 [DEBUG] - AF107: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:14 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:14 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:45:15 [INFO] - Finished tile extraction for [green]AF107[/] (36 tiles of 36 possible)
+2026-03-06 02:45:16 [DEBUG] - Generating slide report
+2026-03-06 02:45:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2026-03-06 02:45:16 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:16 [DEBUG] - Set up coordinate grid, shape=(41, 44)
+2026-03-06 02:45:16 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2026-03-06 02:45:16 [DEBUG] - AF110F: Grid shape: (41, 44) | Tiles to extract: 54
+2026-03-06 02:45:16 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:16 [DEBUG] - No ROI for AF110F, using whole slide.
+2026-03-06 02:45:16 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:16 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:45:16 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 53073
+2026-03-06 02:45:16 [DEBUG] - AF110F: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:45:16 [DEBUG] - AF110F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:16 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:17 [DEBUG] - Finished tile extraction for [green]AF110F[/] (49 tiles of 49 possible)
+2026-03-06 02:45:17 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:45:17 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF110F (time: 0.94s)
+2026-03-06 02:45:17 [DEBUG] - Extracting tiles for AF110F
+2026-03-06 02:45:17 [DEBUG] - AF110F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:17 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:17 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:45:19 [INFO] - Finished tile extraction for [green]AF110F[/] (42 tiles of 42 possible)
+2026-03-06 02:45:19 [DEBUG] - Generating slide report
+2026-03-06 02:45:20 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF104.csv
+2026-03-06 02:45:20 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:20 [DEBUG] - Set up coordinate grid, shape=(43, 36)
+2026-03-06 02:45:20 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2026-03-06 02:45:20 [DEBUG] - AF104: Grid shape: (43, 36) | Tiles to extract: 62
+2026-03-06 02:45:20 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:20 [DEBUG] - No ROI for AF104, using whole slide.
+2026-03-06 02:45:20 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:20 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:45:20 [DEBUG] - AF104: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 51791 x 42986
+2026-03-06 02:45:20 [DEBUG] - AF104: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:45:20 [DEBUG] - AF104: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:20 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:21 [DEBUG] - Finished tile extraction for [green]AF104[/] (42 tiles of 42 possible)
+2026-03-06 02:45:21 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:45:22 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF104 (time: 1.30s)
+2026-03-06 02:45:22 [DEBUG] - Extracting tiles for AF104
+2026-03-06 02:45:22 [DEBUG] - AF104: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:22 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:22 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:45:24 [INFO] - Finished tile extraction for [green]AF104[/] (53 tiles of 53 possible)
+2026-03-06 02:45:25 [DEBUG] - Generating slide report
+2026-03-06 02:45:25 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF238F.csv
+2026-03-06 02:45:25 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:25 [DEBUG] - Set up coordinate grid, shape=(40, 44)
+2026-03-06 02:45:25 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2026-03-06 02:45:25 [DEBUG] - AF238F: Grid shape: (40, 44) | Tiles to extract: 76
+2026-03-06 02:45:25 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:25 [DEBUG] - No ROI for AF238F, using whole slide.
+2026-03-06 02:45:25 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:25 [DEBUG] - Set up coordinate grid, shape=(6, 7)
+2026-03-06 02:45:25 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 47807 x 53238
+2026-03-06 02:45:25 [DEBUG] - AF238F: Grid shape: (6, 7) | Tiles to extract: 42
+2026-03-06 02:45:25 [DEBUG] - AF238F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:25 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:27 [DEBUG] - Finished tile extraction for [green]AF238F[/] (42 tiles of 42 possible)
+2026-03-06 02:45:27 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:45:27 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF238F (time: 1.26s)
+2026-03-06 02:45:27 [DEBUG] - Extracting tiles for AF238F
+2026-03-06 02:45:27 [DEBUG] - AF238F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:27 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:27 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:45:30 [INFO] - Finished tile extraction for [green]AF238F[/] (62 tiles of 62 possible)
+2026-03-06 02:45:30 [DEBUG] - Generating slide report
+2026-03-06 02:45:31 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF136M.csv
+2026-03-06 02:45:31 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:31 [DEBUG] - Set up coordinate grid, shape=(40, 31)
+2026-03-06 02:45:31 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 37474
+2026-03-06 02:45:31 [DEBUG] - AF136M: Grid shape: (40, 31) | Tiles to extract: 60
+2026-03-06 02:45:31 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:31 [DEBUG] - No ROI for AF136M, using whole slide.
+2026-03-06 02:45:31 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:31 [DEBUG] - Set up coordinate grid, shape=(6, 5)
+2026-03-06 02:45:31 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 47807 x 37474
+2026-03-06 02:45:31 [DEBUG] - AF136M: Grid shape: (6, 5) | Tiles to extract: 30
+2026-03-06 02:45:31 [DEBUG] - AF136M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:31 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:33 [DEBUG] - Finished tile extraction for [green]AF136M[/] (30 tiles of 30 possible)
+2026-03-06 02:45:33 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:45:33 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF136M (time: 2.36s)
+2026-03-06 02:45:33 [DEBUG] - Extracting tiles for AF136M
+2026-03-06 02:45:34 [DEBUG] - AF136M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:34 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:34 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:45:36 [INFO] - Finished tile extraction for [green]AF136M[/] (57 tiles of 57 possible)
+2026-03-06 02:45:36 [DEBUG] - Generating slide report
+2026-03-06 02:45:37 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF252.csv
+2026-03-06 02:45:37 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:37 [DEBUG] - Set up coordinate grid, shape=(45, 35)
+2026-03-06 02:45:37 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2026-03-06 02:45:37 [DEBUG] - AF252: Grid shape: (45, 35) | Tiles to extract: 51
+2026-03-06 02:45:37 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:37 [DEBUG] - No ROI for AF252, using whole slide.
+2026-03-06 02:45:37 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:37 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:45:37 [DEBUG] - AF252: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 53783 x 42654
+2026-03-06 02:45:37 [DEBUG] - AF252: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:45:37 [DEBUG] - AF252: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:37 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:38 [DEBUG] - Finished tile extraction for [green]AF252[/] (42 tiles of 42 possible)
+2026-03-06 02:45:38 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:45:38 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF252 (time: 1.22s)
+2026-03-06 02:45:38 [DEBUG] - Extracting tiles for AF252
+2026-03-06 02:45:38 [DEBUG] - AF252: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:38 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:38 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:45:40 [INFO] - Finished tile extraction for [green]AF252[/] (37 tiles of 37 possible)
+2026-03-06 02:45:40 [DEBUG] - Generating slide report
+2026-03-06 02:45:41 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF257M.csv
+2026-03-06 02:45:41 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:41 [DEBUG] - Set up coordinate grid, shape=(40, 41)
+2026-03-06 02:45:41 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 49989
+2026-03-06 02:45:41 [DEBUG] - AF257M: Grid shape: (40, 41) | Tiles to extract: 62
+2026-03-06 02:45:41 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:41 [DEBUG] - No ROI for AF257M, using whole slide.
+2026-03-06 02:45:41 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:41 [DEBUG] - Set up coordinate grid, shape=(6, 7)
+2026-03-06 02:45:41 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 47807 x 49989
+2026-03-06 02:45:41 [DEBUG] - AF257M: Grid shape: (6, 7) | Tiles to extract: 42
+2026-03-06 02:45:41 [DEBUG] - AF257M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:41 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:42 [DEBUG] - Finished tile extraction for [green]AF257M[/] (42 tiles of 42 possible)
+2026-03-06 02:45:42 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:45:42 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF257M (time: 1.20s)
+2026-03-06 02:45:42 [DEBUG] - Extracting tiles for AF257M
+2026-03-06 02:45:43 [DEBUG] - AF257M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:43 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:43 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:45:50 [INFO] - Finished tile extraction for [green]AF257M[/] (48 tiles of 48 possible)
+2026-03-06 02:45:50 [DEBUG] - Generating slide report
+2026-03-06 02:45:51 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF130F.csv
+2026-03-06 02:45:51 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:51 [DEBUG] - Set up coordinate grid, shape=(38, 33)
+2026-03-06 02:45:51 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 45815 x 39429
+2026-03-06 02:45:51 [DEBUG] - AF130F: Grid shape: (38, 33) | Tiles to extract: 51
+2026-03-06 02:45:51 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:51 [DEBUG] - No ROI for AF130F, using whole slide.
+2026-03-06 02:45:51 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:51 [DEBUG] - Set up coordinate grid, shape=(6, 5)
+2026-03-06 02:45:51 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 45815 x 39429
+2026-03-06 02:45:51 [DEBUG] - AF130F: Grid shape: (6, 5) | Tiles to extract: 30
+2026-03-06 02:45:51 [DEBUG] - AF130F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:51 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:52 [DEBUG] - Finished tile extraction for [green]AF130F[/] (30 tiles of 30 possible)
+2026-03-06 02:45:52 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:45:52 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF130F (time: 0.78s)
+2026-03-06 02:45:52 [DEBUG] - Extracting tiles for AF130F
+2026-03-06 02:45:52 [DEBUG] - AF130F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:52 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:52 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:45:54 [INFO] - Finished tile extraction for [green]AF130F[/] (46 tiles of 46 possible)
+2026-03-06 02:45:54 [DEBUG] - Generating slide report
+2026-03-06 02:45:55 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2026-03-06 02:45:55 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:55 [DEBUG] - Set up coordinate grid, shape=(41, 41)
+2026-03-06 02:45:55 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2026-03-06 02:45:55 [DEBUG] - AF102F: Grid shape: (41, 41) | Tiles to extract: 56
+2026-03-06 02:45:55 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:55 [DEBUG] - No ROI for AF102F, using whole slide.
+2026-03-06 02:45:55 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:55 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:45:55 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 49329
+2026-03-06 02:45:55 [DEBUG] - AF102F: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:45:55 [DEBUG] - AF102F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:55 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:56 [DEBUG] - Finished tile extraction for [green]AF102F[/] (49 tiles of 49 possible)
+2026-03-06 02:45:56 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:45:56 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF102F (time: 1.18s)
+2026-03-06 02:45:56 [DEBUG] - Extracting tiles for AF102F
+2026-03-06 02:45:56 [DEBUG] - AF102F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:45:56 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:45:56 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:45:58 [INFO] - Finished tile extraction for [green]AF102F[/] (51 tiles of 51 possible)
+2026-03-06 02:45:59 [DEBUG] - Generating slide report
+2026-03-06 02:45:59 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF254F.csv
+2026-03-06 02:45:59 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:59 [DEBUG] - Set up coordinate grid, shape=(43, 43)
+2026-03-06 02:45:59 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2026-03-06 02:45:59 [DEBUG] - AF254F: Grid shape: (43, 43) | Tiles to extract: 64
+2026-03-06 02:45:59 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:45:59 [DEBUG] - No ROI for AF254F, using whole slide.
+2026-03-06 02:45:59 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:45:59 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:45:59 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 51791 x 51925
+2026-03-06 02:45:59 [DEBUG] - AF254F: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:45:59 [DEBUG] - AF254F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:45:59 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:01 [DEBUG] - Finished tile extraction for [green]AF254F[/] (49 tiles of 49 possible)
+2026-03-06 02:46:01 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:46:01 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF254F (time: 1.84s)
+2026-03-06 02:46:01 [DEBUG] - Extracting tiles for AF254F
+2026-03-06 02:46:02 [DEBUG] - AF254F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:46:02 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:02 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:46:04 [INFO] - Finished tile extraction for [green]AF254F[/] (57 tiles of 57 possible)
+2026-03-06 02:46:04 [DEBUG] - Generating slide report
+2026-03-06 02:46:06 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH072M.csv
+2026-03-06 02:46:06 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:06 [DEBUG] - Set up coordinate grid, shape=(55, 50)
+2026-03-06 02:46:06 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 63335 x 57421
+2026-03-06 02:46:06 [DEBUG] - AH072M: Grid shape: (55, 50) | Tiles to extract: 233
+2026-03-06 02:46:06 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:46:06 [DEBUG] - No ROI for AH072M, using whole slide.
+2026-03-06 02:46:06 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:06 [DEBUG] - Set up coordinate grid, shape=(9, 8)
+2026-03-06 02:46:06 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 63335 x 57421
+2026-03-06 02:46:06 [DEBUG] - AH072M: Grid shape: (9, 8) | Tiles to extract: 72
+2026-03-06 02:46:06 [DEBUG] - AH072M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-03-06 02:46:06 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:07 [DEBUG] - Finished tile extraction for [green]AH072M[/] (72 tiles of 72 possible)
+2026-03-06 02:46:07 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:46:08 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH072M (time: 1.82s)
+2026-03-06 02:46:08 [DEBUG] - Extracting tiles for AH072M
+2026-03-06 02:46:08 [DEBUG] - AH072M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-03-06 02:46:08 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:08 [DEBUG] - Using imap chunksize=9
+2026-03-06 02:46:11 [INFO] - Finished tile extraction for [green]AH072M[/] (223 tiles of 224 possible)
+2026-03-06 02:46:13 [DEBUG] - Generating slide report
+2026-03-06 02:46:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF135M.csv
+2026-03-06 02:46:14 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:14 [DEBUG] - Set up coordinate grid, shape=(41, 44)
+2026-03-06 02:46:14 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2026-03-06 02:46:14 [DEBUG] - AF135M: Grid shape: (41, 44) | Tiles to extract: 64
+2026-03-06 02:46:14 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:46:14 [DEBUG] - No ROI for AF135M, using whole slide.
+2026-03-06 02:46:14 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:14 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:46:14 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 53397
+2026-03-06 02:46:14 [DEBUG] - AF135M: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:46:14 [DEBUG] - AF135M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:46:14 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:15 [DEBUG] - Finished tile extraction for [green]AF135M[/] (49 tiles of 49 possible)
+2026-03-06 02:46:16 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:46:16 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF135M (time: 1.32s)
+2026-03-06 02:46:16 [DEBUG] - Extracting tiles for AF135M
+2026-03-06 02:46:16 [DEBUG] - AF135M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:46:16 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:16 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:46:19 [INFO] - Finished tile extraction for [green]AF135M[/] (58 tiles of 58 possible)
+2026-03-06 02:46:19 [DEBUG] - Generating slide report
+2026-03-06 02:46:19 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF113M.csv
+2026-03-06 02:46:19 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:20 [DEBUG] - Set up coordinate grid, shape=(45, 42)
+2026-03-06 02:46:20 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2026-03-06 02:46:20 [DEBUG] - AF113M: Grid shape: (45, 42) | Tiles to extract: 64
+2026-03-06 02:46:20 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:46:20 [DEBUG] - No ROI for AF113M, using whole slide.
+2026-03-06 02:46:20 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:20 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:46:20 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 53783 x 50618
+2026-03-06 02:46:20 [DEBUG] - AF113M: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:46:20 [DEBUG] - AF113M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:46:20 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:20 [DEBUG] - Finished tile extraction for [green]AF113M[/] (49 tiles of 49 possible)
+2026-03-06 02:46:20 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:46:21 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF113M (time: 1.00s)
+2026-03-06 02:46:21 [DEBUG] - Extracting tiles for AF113M
+2026-03-06 02:46:21 [DEBUG] - AF113M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:46:21 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:21 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:46:23 [INFO] - Finished tile extraction for [green]AF113M[/] (58 tiles of 58 possible)
+2026-03-06 02:46:24 [DEBUG] - Generating slide report
+2026-03-06 02:46:25 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF109.csv
+2026-03-06 02:46:25 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:25 [DEBUG] - Set up coordinate grid, shape=(41, 37)
+2026-03-06 02:46:25 [DEBUG] - AF109: Slide info: 0.2532 um/px | 14 ROI(s) | Size: 49800 x 44292
+2026-03-06 02:46:25 [DEBUG] - AF109: Grid shape: (41, 37) | Tiles to extract: 69
+2026-03-06 02:46:25 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:46:26 [DEBUG] - No ROI for AF109, using whole slide.
+2026-03-06 02:46:26 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:26 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:46:26 [DEBUG] - AF109: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 44292
+2026-03-06 02:46:26 [DEBUG] - AF109: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:46:26 [DEBUG] - AF109: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:46:26 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:29 [DEBUG] - Finished tile extraction for [green]AF109[/] (42 tiles of 42 possible)
+2026-03-06 02:46:29 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:46:30 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF109 (time: 5.16s)
+2026-03-06 02:46:30 [DEBUG] - Extracting tiles for AF109
+2026-03-06 02:46:30 [DEBUG] - AF109: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:46:30 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:30 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:46:33 [INFO] - Finished tile extraction for [green]AF109[/] (65 tiles of 65 possible)
+2026-03-06 02:46:33 [DEBUG] - Generating slide report
+2026-03-06 02:46:34 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF239F.csv
+2026-03-06 02:46:34 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:34 [DEBUG] - Set up coordinate grid, shape=(38, 46)
+2026-03-06 02:46:34 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 45815 x 55198
+2026-03-06 02:46:34 [DEBUG] - AF239F: Grid shape: (38, 46) | Tiles to extract: 68
+2026-03-06 02:46:34 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:46:34 [DEBUG] - No ROI for AF239F, using whole slide.
+2026-03-06 02:46:34 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:46:34 [DEBUG] - Set up coordinate grid, shape=(6, 7)
+2026-03-06 02:46:34 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 45815 x 55198
+2026-03-06 02:46:34 [DEBUG] - AF239F: Grid shape: (6, 7) | Tiles to extract: 42
+2026-03-06 02:46:34 [DEBUG] - AF239F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:46:34 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:35 [DEBUG] - Finished tile extraction for [green]AF239F[/] (42 tiles of 42 possible)
+2026-03-06 02:46:35 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:46:35 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF239F (time: 0.96s)
+2026-03-06 02:46:35 [DEBUG] - Extracting tiles for AF239F
+2026-03-06 02:46:35 [DEBUG] - AF239F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:46:35 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:46:35 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:46:38 [INFO] - Finished tile extraction for [green]AF239F[/] (55 tiles of 55 possible)
+2026-03-06 02:46:38 [DEBUG] - Generating slide report
+2026-03-06 02:46:38 [INFO] - Generating PDF (this may take some time)...
+2026-03-06 02:46:38 [DEBUG] - Rendering thumbnails with pool.
+2026-03-06 02:46:41 [DEBUG] - Rendering tile images with pool.
+2026-03-06 02:46:41 [DEBUG] - Report render complete.
+2026-03-06 02:46:41 [DEBUG] - Rendering PDF pages with thumbnails.
+2026-03-06 02:46:42 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:46:44 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:46:46 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:46:46 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:46:46 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:46:46 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:46:46 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:51:54 [DEBUG] - Verifying slide annotations...
+2026-03-06 02:51:54 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:51:55 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:51:55 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:51:55 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/tfrecords/299px_302um; creating now
+2026-03-06 02:51:55 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:51:55 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:51:55 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:51:55 [INFO] - Slide reading backend: [green]cucim[/]
+2026-03-06 02:51:55 [INFO] - Filtering tiles by whitespace fraction
+2026-03-06 02:51:55 [DEBUG] - Whitespace defined as RGB avg > 230 (exclude if >=95% whitespace)
+2026-03-06 02:51:55 [INFO] - Filtering tiles by grayspace fraction
+2026-03-06 02:51:55 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2026-03-06 02:51:55 [INFO] - Working on dataset source [bold]Grayson_Dataset[/]...
+2026-03-06 02:52:11 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:52:11 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:52:11 [INFO] - Extracting tiles from 15 slides (tile_px=299, tile_um=302)
+2026-03-06 02:52:11 [INFO] - Using 24 processes (pool=fork)
+2026-03-06 02:52:12 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF107.csv
+2026-03-06 02:52:12 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:12 [DEBUG] - Set up coordinate grid, shape=(43, 38)
+2026-03-06 02:52:12 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2026-03-06 02:52:12 [DEBUG] - AF107: Grid shape: (43, 38) | Tiles to extract: 47
+2026-03-06 02:52:12 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:12 [DEBUG] - No ROI for AF107, using whole slide.
+2026-03-06 02:52:12 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:12 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:52:12 [DEBUG] - AF107: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 51791 x 46402
+2026-03-06 02:52:12 [DEBUG] - AF107: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:52:12 [DEBUG] - AF107: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:12 [DEBUG] - Creating filter pool (n_threads=8)
+2026-03-06 02:52:12 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:13 [DEBUG] - Finished tile extraction for [green]AF107[/] (42 tiles of 42 possible)
+2026-03-06 02:52:13 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:52:14 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF107 (time: 1.27s)
+2026-03-06 02:52:14 [DEBUG] - Extracting tiles for AF107
+2026-03-06 02:52:14 [DEBUG] - AF107: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:14 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:14 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:52:15 [INFO] - Finished tile extraction for [green]AF107[/] (36 tiles of 36 possible)
+2026-03-06 02:52:15 [DEBUG] - Generating slide report
+2026-03-06 02:52:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF110F.csv
+2026-03-06 02:52:16 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:16 [DEBUG] - Set up coordinate grid, shape=(41, 44)
+2026-03-06 02:52:16 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2026-03-06 02:52:16 [DEBUG] - AF110F: Grid shape: (41, 44) | Tiles to extract: 54
+2026-03-06 02:52:16 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:16 [DEBUG] - No ROI for AF110F, using whole slide.
+2026-03-06 02:52:16 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:16 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:52:16 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 53073
+2026-03-06 02:52:16 [DEBUG] - AF110F: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:52:16 [DEBUG] - AF110F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:16 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:17 [DEBUG] - Finished tile extraction for [green]AF110F[/] (49 tiles of 49 possible)
+2026-03-06 02:52:17 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:52:17 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF110F (time: 1.20s)
+2026-03-06 02:52:17 [DEBUG] - Extracting tiles for AF110F
+2026-03-06 02:52:18 [DEBUG] - AF110F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:18 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:18 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:52:19 [INFO] - Finished tile extraction for [green]AF110F[/] (42 tiles of 42 possible)
+2026-03-06 02:52:20 [DEBUG] - Generating slide report
+2026-03-06 02:52:20 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF104.csv
+2026-03-06 02:52:20 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:20 [DEBUG] - Set up coordinate grid, shape=(43, 36)
+2026-03-06 02:52:20 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2026-03-06 02:52:20 [DEBUG] - AF104: Grid shape: (43, 36) | Tiles to extract: 62
+2026-03-06 02:52:20 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:21 [DEBUG] - No ROI for AF104, using whole slide.
+2026-03-06 02:52:21 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:21 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:52:21 [DEBUG] - AF104: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 51791 x 42986
+2026-03-06 02:52:21 [DEBUG] - AF104: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:52:21 [DEBUG] - AF104: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:21 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:21 [DEBUG] - Finished tile extraction for [green]AF104[/] (42 tiles of 42 possible)
+2026-03-06 02:52:21 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:52:22 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF104 (time: 1.34s)
+2026-03-06 02:52:22 [DEBUG] - Extracting tiles for AF104
+2026-03-06 02:52:22 [DEBUG] - AF104: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:22 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:22 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:52:26 [INFO] - Finished tile extraction for [green]AF104[/] (53 tiles of 53 possible)
+2026-03-06 02:52:27 [DEBUG] - Generating slide report
+2026-03-06 02:52:28 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF238F.csv
+2026-03-06 02:52:28 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:28 [DEBUG] - Set up coordinate grid, shape=(40, 44)
+2026-03-06 02:52:28 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2026-03-06 02:52:28 [DEBUG] - AF238F: Grid shape: (40, 44) | Tiles to extract: 76
+2026-03-06 02:52:28 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:28 [DEBUG] - No ROI for AF238F, using whole slide.
+2026-03-06 02:52:28 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:28 [DEBUG] - Set up coordinate grid, shape=(6, 7)
+2026-03-06 02:52:28 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 47807 x 53238
+2026-03-06 02:52:28 [DEBUG] - AF238F: Grid shape: (6, 7) | Tiles to extract: 42
+2026-03-06 02:52:28 [DEBUG] - AF238F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:28 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:29 [DEBUG] - Finished tile extraction for [green]AF238F[/] (42 tiles of 42 possible)
+2026-03-06 02:52:29 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:52:29 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF238F (time: 1.22s)
+2026-03-06 02:52:29 [DEBUG] - Extracting tiles for AF238F
+2026-03-06 02:52:29 [DEBUG] - AF238F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:29 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:29 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:52:32 [INFO] - Finished tile extraction for [green]AF238F[/] (62 tiles of 62 possible)
+2026-03-06 02:52:32 [DEBUG] - Generating slide report
+2026-03-06 02:52:33 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF136M.csv
+2026-03-06 02:52:33 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:33 [DEBUG] - Set up coordinate grid, shape=(40, 31)
+2026-03-06 02:52:33 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 37474
+2026-03-06 02:52:33 [DEBUG] - AF136M: Grid shape: (40, 31) | Tiles to extract: 60
+2026-03-06 02:52:33 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:33 [DEBUG] - No ROI for AF136M, using whole slide.
+2026-03-06 02:52:33 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:33 [DEBUG] - Set up coordinate grid, shape=(6, 5)
+2026-03-06 02:52:33 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 47807 x 37474
+2026-03-06 02:52:33 [DEBUG] - AF136M: Grid shape: (6, 5) | Tiles to extract: 30
+2026-03-06 02:52:33 [DEBUG] - AF136M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:33 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:33 [DEBUG] - Finished tile extraction for [green]AF136M[/] (30 tiles of 30 possible)
+2026-03-06 02:52:34 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:52:34 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF136M (time: 1.10s)
+2026-03-06 02:52:34 [DEBUG] - Extracting tiles for AF136M
+2026-03-06 02:52:34 [DEBUG] - AF136M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:34 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:34 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:52:36 [INFO] - Finished tile extraction for [green]AF136M[/] (57 tiles of 57 possible)
+2026-03-06 02:52:36 [DEBUG] - Generating slide report
+2026-03-06 02:52:39 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF252.csv
+2026-03-06 02:52:39 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:39 [DEBUG] - Set up coordinate grid, shape=(45, 35)
+2026-03-06 02:52:39 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2026-03-06 02:52:39 [DEBUG] - AF252: Grid shape: (45, 35) | Tiles to extract: 51
+2026-03-06 02:52:39 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:39 [DEBUG] - No ROI for AF252, using whole slide.
+2026-03-06 02:52:39 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:39 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:52:39 [DEBUG] - AF252: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 53783 x 42654
+2026-03-06 02:52:39 [DEBUG] - AF252: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:52:39 [DEBUG] - AF252: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:39 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:40 [DEBUG] - Finished tile extraction for [green]AF252[/] (42 tiles of 42 possible)
+2026-03-06 02:52:40 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:52:41 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF252 (time: 1.67s)
+2026-03-06 02:52:41 [DEBUG] - Extracting tiles for AF252
+2026-03-06 02:52:41 [DEBUG] - AF252: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:41 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:41 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:52:43 [INFO] - Finished tile extraction for [green]AF252[/] (37 tiles of 37 possible)
+2026-03-06 02:52:43 [DEBUG] - Generating slide report
+2026-03-06 02:52:44 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF257M.csv
+2026-03-06 02:52:44 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:44 [DEBUG] - Set up coordinate grid, shape=(40, 41)
+2026-03-06 02:52:44 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 47807 x 49989
+2026-03-06 02:52:44 [DEBUG] - AF257M: Grid shape: (40, 41) | Tiles to extract: 62
+2026-03-06 02:52:44 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:44 [DEBUG] - No ROI for AF257M, using whole slide.
+2026-03-06 02:52:44 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:44 [DEBUG] - Set up coordinate grid, shape=(6, 7)
+2026-03-06 02:52:44 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 47807 x 49989
+2026-03-06 02:52:44 [DEBUG] - AF257M: Grid shape: (6, 7) | Tiles to extract: 42
+2026-03-06 02:52:44 [DEBUG] - AF257M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:44 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:45 [DEBUG] - Finished tile extraction for [green]AF257M[/] (42 tiles of 42 possible)
+2026-03-06 02:52:45 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:52:45 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF257M (time: 1.34s)
+2026-03-06 02:52:45 [DEBUG] - Extracting tiles for AF257M
+2026-03-06 02:52:45 [DEBUG] - AF257M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:45 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:45 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:52:48 [INFO] - Finished tile extraction for [green]AF257M[/] (48 tiles of 48 possible)
+2026-03-06 02:52:48 [DEBUG] - Generating slide report
+2026-03-06 02:52:49 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF130F.csv
+2026-03-06 02:52:49 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:49 [DEBUG] - Set up coordinate grid, shape=(38, 33)
+2026-03-06 02:52:49 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 45815 x 39429
+2026-03-06 02:52:49 [DEBUG] - AF130F: Grid shape: (38, 33) | Tiles to extract: 51
+2026-03-06 02:52:49 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:49 [DEBUG] - No ROI for AF130F, using whole slide.
+2026-03-06 02:52:49 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:49 [DEBUG] - Set up coordinate grid, shape=(6, 5)
+2026-03-06 02:52:49 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 45815 x 39429
+2026-03-06 02:52:49 [DEBUG] - AF130F: Grid shape: (6, 5) | Tiles to extract: 30
+2026-03-06 02:52:49 [DEBUG] - AF130F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:49 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:49 [DEBUG] - Finished tile extraction for [green]AF130F[/] (30 tiles of 30 possible)
+2026-03-06 02:52:49 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:52:49 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF130F (time: 0.80s)
+2026-03-06 02:52:49 [DEBUG] - Extracting tiles for AF130F
+2026-03-06 02:52:50 [DEBUG] - AF130F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:50 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:50 [DEBUG] - Using imap chunksize=1
+2026-03-06 02:52:56 [INFO] - Finished tile extraction for [green]AF130F[/] (46 tiles of 46 possible)
+2026-03-06 02:52:57 [DEBUG] - Generating slide report
+2026-03-06 02:52:58 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF102F.csv
+2026-03-06 02:52:58 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:58 [DEBUG] - Set up coordinate grid, shape=(41, 41)
+2026-03-06 02:52:58 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 49329
+2026-03-06 02:52:58 [DEBUG] - AF102F: Grid shape: (41, 41) | Tiles to extract: 56
+2026-03-06 02:52:58 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:52:58 [DEBUG] - No ROI for AF102F, using whole slide.
+2026-03-06 02:52:58 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:52:58 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:52:58 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 49329
+2026-03-06 02:52:58 [DEBUG] - AF102F: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:52:58 [DEBUG] - AF102F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:52:58 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:58 [DEBUG] - Finished tile extraction for [green]AF102F[/] (49 tiles of 49 possible)
+2026-03-06 02:52:58 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:52:59 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF102F (time: 0.93s)
+2026-03-06 02:52:59 [DEBUG] - Extracting tiles for AF102F
+2026-03-06 02:52:59 [DEBUG] - AF102F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:52:59 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:52:59 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:53:00 [INFO] - Finished tile extraction for [green]AF102F[/] (51 tiles of 51 possible)
+2026-03-06 02:53:01 [DEBUG] - Generating slide report
+2026-03-06 02:53:01 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF254F.csv
+2026-03-06 02:53:01 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:01 [DEBUG] - Set up coordinate grid, shape=(43, 43)
+2026-03-06 02:53:01 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2026-03-06 02:53:01 [DEBUG] - AF254F: Grid shape: (43, 43) | Tiles to extract: 64
+2026-03-06 02:53:01 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:53:01 [DEBUG] - No ROI for AF254F, using whole slide.
+2026-03-06 02:53:01 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:01 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:53:01 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 51791 x 51925
+2026-03-06 02:53:01 [DEBUG] - AF254F: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:53:01 [DEBUG] - AF254F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:53:01 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:02 [DEBUG] - Finished tile extraction for [green]AF254F[/] (49 tiles of 49 possible)
+2026-03-06 02:53:03 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:53:03 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF254F (time: 1.28s)
+2026-03-06 02:53:03 [DEBUG] - Extracting tiles for AF254F
+2026-03-06 02:53:03 [DEBUG] - AF254F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:53:03 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:03 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:53:05 [INFO] - Finished tile extraction for [green]AF254F[/] (57 tiles of 57 possible)
+2026-03-06 02:53:06 [DEBUG] - Generating slide report
+2026-03-06 02:53:08 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AH072M.csv
+2026-03-06 02:53:08 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:08 [DEBUG] - Set up coordinate grid, shape=(55, 50)
+2026-03-06 02:53:08 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 63335 x 57421
+2026-03-06 02:53:08 [DEBUG] - AH072M: Grid shape: (55, 50) | Tiles to extract: 233
+2026-03-06 02:53:08 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:53:08 [DEBUG] - No ROI for AH072M, using whole slide.
+2026-03-06 02:53:08 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:08 [DEBUG] - Set up coordinate grid, shape=(9, 8)
+2026-03-06 02:53:08 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 63335 x 57421
+2026-03-06 02:53:08 [DEBUG] - AH072M: Grid shape: (9, 8) | Tiles to extract: 72
+2026-03-06 02:53:08 [DEBUG] - AH072M: Extracting 2068um tiles (resizing 1961.0px -> 512px); stride: 1915px
+2026-03-06 02:53:08 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:09 [DEBUG] - Finished tile extraction for [green]AH072M[/] (72 tiles of 72 possible)
+2026-03-06 02:53:09 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:53:10 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AH072M (time: 1.72s)
+2026-03-06 02:53:10 [DEBUG] - Extracting tiles for AH072M
+2026-03-06 02:53:10 [DEBUG] - AH072M: Extracting 302um tiles (resizing 1146.0px -> 299px); stride: 1146px
+2026-03-06 02:53:10 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:10 [DEBUG] - Using imap chunksize=9
+2026-03-06 02:53:13 [INFO] - Finished tile extraction for [green]AH072M[/] (223 tiles of 224 possible)
+2026-03-06 02:53:14 [DEBUG] - Generating slide report
+2026-03-06 02:53:15 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF135M.csv
+2026-03-06 02:53:15 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:15 [DEBUG] - Set up coordinate grid, shape=(41, 44)
+2026-03-06 02:53:15 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2026-03-06 02:53:15 [DEBUG] - AF135M: Grid shape: (41, 44) | Tiles to extract: 64
+2026-03-06 02:53:15 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:53:15 [DEBUG] - No ROI for AF135M, using whole slide.
+2026-03-06 02:53:15 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:15 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:53:15 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 53397
+2026-03-06 02:53:15 [DEBUG] - AF135M: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:53:15 [DEBUG] - AF135M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:53:15 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:16 [DEBUG] - Finished tile extraction for [green]AF135M[/] (49 tiles of 49 possible)
+2026-03-06 02:53:16 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:53:16 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF135M (time: 1.21s)
+2026-03-06 02:53:16 [DEBUG] - Extracting tiles for AF135M
+2026-03-06 02:53:16 [DEBUG] - AF135M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:53:16 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:16 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:53:21 [INFO] - Finished tile extraction for [green]AF135M[/] (58 tiles of 58 possible)
+2026-03-06 02:53:21 [DEBUG] - Generating slide report
+2026-03-06 02:53:22 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF113M.csv
+2026-03-06 02:53:22 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:22 [DEBUG] - Set up coordinate grid, shape=(45, 42)
+2026-03-06 02:53:22 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2026-03-06 02:53:22 [DEBUG] - AF113M: Grid shape: (45, 42) | Tiles to extract: 64
+2026-03-06 02:53:22 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:53:22 [DEBUG] - No ROI for AF113M, using whole slide.
+2026-03-06 02:53:22 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:22 [DEBUG] - Set up coordinate grid, shape=(7, 7)
+2026-03-06 02:53:22 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 53783 x 50618
+2026-03-06 02:53:22 [DEBUG] - AF113M: Grid shape: (7, 7) | Tiles to extract: 49
+2026-03-06 02:53:22 [DEBUG] - AF113M: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:53:22 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:23 [DEBUG] - Finished tile extraction for [green]AF113M[/] (49 tiles of 49 possible)
+2026-03-06 02:53:23 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:53:23 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF113M (time: 1.01s)
+2026-03-06 02:53:23 [DEBUG] - Extracting tiles for AF113M
+2026-03-06 02:53:23 [DEBUG] - AF113M: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:53:23 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:23 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:53:26 [INFO] - Finished tile extraction for [green]AF113M[/] (58 tiles of 58 possible)
+2026-03-06 02:53:26 [DEBUG] - Generating slide report
+2026-03-06 02:53:27 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF109.csv
+2026-03-06 02:53:27 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:27 [DEBUG] - Set up coordinate grid, shape=(41, 37)
+2026-03-06 02:53:27 [DEBUG] - AF109: Slide info: 0.2532 um/px | 14 ROI(s) | Size: 49800 x 44292
+2026-03-06 02:53:27 [DEBUG] - AF109: Grid shape: (41, 37) | Tiles to extract: 69
+2026-03-06 02:53:27 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:53:27 [DEBUG] - No ROI for AF109, using whole slide.
+2026-03-06 02:53:27 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:27 [DEBUG] - Set up coordinate grid, shape=(7, 6)
+2026-03-06 02:53:27 [DEBUG] - AF109: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 49800 x 44292
+2026-03-06 02:53:27 [DEBUG] - AF109: Grid shape: (7, 6) | Tiles to extract: 42
+2026-03-06 02:53:27 [DEBUG] - AF109: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:53:27 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:28 [DEBUG] - Finished tile extraction for [green]AF109[/] (42 tiles of 42 possible)
+2026-03-06 02:53:28 [DEBUG] - Applying Otsu's thresholding at level=2
+2026-03-06 02:53:28 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF109 (time: 1.15s)
+2026-03-06 02:53:28 [DEBUG] - Extracting tiles for AF109
+2026-03-06 02:53:28 [DEBUG] - AF109: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:53:28 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:28 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:53:36 [INFO] - Finished tile extraction for [green]AF109[/] (65 tiles of 65 possible)
+2026-03-06 02:53:37 [DEBUG] - Generating slide report
+2026-03-06 02:53:37 [DEBUG] - Loaded ROIs from /home/stanna/labshare/PROJECTS/PDCD10/rois/grayson/AF239F.csv
+2026-03-06 02:53:37 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:37 [DEBUG] - Set up coordinate grid, shape=(38, 46)
+2026-03-06 02:53:37 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 45815 x 55198
+2026-03-06 02:53:37 [DEBUG] - AF239F: Grid shape: (38, 46) | Tiles to extract: 68
+2026-03-06 02:53:37 [DEBUG] - Applying QC: [GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]
+2026-03-06 02:53:37 [DEBUG] - No ROI for AF239F, using whole slide.
+2026-03-06 02:53:37 [DEBUG] - Slide origin: (0, 0)
+2026-03-06 02:53:37 [DEBUG] - Set up coordinate grid, shape=(6, 7)
+2026-03-06 02:53:37 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 0 ROI(s) | Size: 45815 x 55198
+2026-03-06 02:53:37 [DEBUG] - AF239F: Grid shape: (6, 7) | Tiles to extract: 42
+2026-03-06 02:53:37 [DEBUG] - AF239F: Extracting 2068um tiles (resizing 2041.0px -> 512px); stride: 1993px
+2026-03-06 02:53:37 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:38 [DEBUG] - Finished tile extraction for [green]AF239F[/] (42 tiles of 42 possible)
+2026-03-06 02:53:38 [DEBUG] - Applying Otsu's thresholding at level=3
+2026-03-06 02:53:38 [DEBUG] - QC ([GaussianV2(mpp=None, sigma=3, threshold=0.02), Otsu(slide_level=None)]) complete for slide AF239F (time: 0.75s)
+2026-03-06 02:53:38 [DEBUG] - Extracting tiles for AF239F
+2026-03-06 02:53:38 [DEBUG] - AF239F: Extracting 302um tiles (resizing 1192.0px -> 299px); stride: 1192px
+2026-03-06 02:53:38 [DEBUG] - Building generator with a shared pool
+2026-03-06 02:53:38 [DEBUG] - Using imap chunksize=2
+2026-03-06 02:53:38 [INFO] - Finished tile extraction for [green]AF239F[/] (55 tiles of 55 possible)
+2026-03-06 02:53:38 [DEBUG] - Generating slide report
+2026-03-06 02:53:38 [INFO] - Generating PDF (this may take some time)...
+2026-03-06 02:53:39 [DEBUG] - Rendering thumbnails with pool.
+2026-03-06 02:53:41 [DEBUG] - Rendering tile images with pool.
+2026-03-06 02:53:41 [DEBUG] - Report render complete.
+2026-03-06 02:53:41 [DEBUG] - Rendering PDF pages with thumbnails.
+2026-03-06 02:53:42 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:53:44 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:53:44 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:53:44 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:53:44 [DEBUG] - TFRecords path not found: /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um
+2026-03-06 02:53:44 [DEBUG] - No manifest at /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; creating now
+2026-03-06 02:53:44 [DEBUG] - Failed to update manifest /home/stanna/labshare/PERSONAL/stanna/DATA/Exp1/tfrecords/299px_302um; no TFRecords
+2026-03-06 02:58:44 [DEBUG] - Verifying slide annotations...
+2026-03-06 02:58:45 [DEBUG] - Verifying tfrecords...
+2026-03-06 02:58:45 [INFO] - Using feature extractor: [green]virchow[/]
+2026-03-06 02:58:46 [INFO] - Working on 15 slides
+2026-03-06 02:58:47 [DEBUG] - Setting up PyTorch dataset iterator (num_workers=4, chunk_size=8)
+2026-03-06 02:58:49 [DEBUG] - Loading indices...
+2026-03-06 02:58:49 [DEBUG] - Using num_workers=4
+2026-03-06 02:58:49 [DEBUG] - Threads per worker=6
+2026-03-06 02:58:49 [DEBUG] - Calculating activations for 15 tfrecords
+2026-03-06 02:58:49 [DEBUG] - Generating from [green]<VirchowFeatures n_features=2560, n_classes=0>
+2026-03-06 02:59:00 [DEBUG] - Calculation time: 13 sec
+2026-03-06 02:59:00 [DEBUG] - Number of activation features: 2560
+2026-03-06 02:59:00 [DEBUG] - Loaded activations from 15/15 slides (0 missing)
+2026-03-06 02:59:00 [DEBUG] - Observed categories (total: 0): 
+2026-03-06 02:59:00 [DEBUG] - Number of activation features: 2560
+2026-03-06 02:59:01 [DEBUG] - Activations exported in Torch format to /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/features/virchow
