@@ -13340,3 +13340,1250 @@
 2026-03-06 02:59:00 [DEBUG] - Observed categories (total: 0): 
 2026-03-06 02:59:00 [DEBUG] - Number of activation features: 2560
 2026-03-06 02:59:01 [DEBUG] - Activations exported in Torch format to /home/stanna/labshare/PERSONAL/stanna/DATA/Grayson/features/virchow
+2026-03-23 13:57:51 [DEBUG] - Verifying slide annotations...
+2026-03-23 13:57:52 [DEBUG] - Verifying tfrecords...
+2026-03-23 13:57:52 [DEBUG] - Verifying slide annotations...
+2026-03-23 13:57:52 [DEBUG] - Verifying tfrecords...
+2026-03-23 14:01:09 [DEBUG] - Verifying slide annotations...
+2026-03-23 14:01:09 [DEBUG] - Verifying tfrecords...
+2026-03-23 14:01:09 [DEBUG] - Verifying slide annotations...
+2026-03-23 14:01:09 [DEBUG] - Verifying tfrecords...
+2026-04-10 18:35:48 [DEBUG] - Verifying slide annotations...
+2026-04-10 18:35:48 [DEBUG] - Verifying tfrecords...
+2026-04-10 19:26:07 [DEBUG] - Verifying slide annotations...
+2026-04-10 19:26:07 [DEBUG] - Verifying tfrecords...
+2026-04-10 19:55:58 [DEBUG] - Verifying slide annotations...
+2026-04-10 19:55:58 [DEBUG] - Verifying tfrecords...
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF536F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF536F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG191F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG191F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF107.csv
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF130F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF107: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide AF130F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF136M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF136M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF257M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF257M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF259M.csv
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG034F.csv
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF252.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF259M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide AG034F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG119M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG119M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide AF252: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG120M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG120M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF265.csv
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG113M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF265: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide AG113M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG022F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG022F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF250F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF250F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG017F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG017F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH072M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AH072M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH143F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AH143F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG243F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG243F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ392M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AJ392M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG108F.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AG108F: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF271M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AF271M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ393M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AJ393M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:48 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ578M.csv
+2026-04-10 20:06:48 [DEBUG] - Slide AJ578M: extracting tiles from inside ROI.
+2026-04-10 20:06:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:49 [DEBUG] - Set up coordinate grid, shape=(24, 20)
+2026-04-10 20:06:49 [DEBUG] - AG191F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 40880
+2026-04-10 20:06:49 [DEBUG] - AG191F: Grid shape: (24, 20) | Tiles to extract: 67
+2026-04-10 20:06:49 [DEBUG] - Requesting thumbnail at level=2, width=630
+2026-04-10 20:06:49 [DEBUG] - Set up coordinate grid, shape=(24, 23)
+2026-04-10 20:06:49 [DEBUG] - AF536F: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 49800 x 47383
+2026-04-10 20:06:49 [DEBUG] - AF536F: Grid shape: (24, 23) | Tiles to extract: 0
+2026-04-10 20:06:49 [DEBUG] - Requesting thumbnail at level=2, width=630
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(25, 22)
+2026-04-10 20:06:50 [DEBUG] - AF107: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 51791 x 46402
+2026-04-10 20:06:50 [DEBUG] - AF107: Grid shape: (25, 22) | Tiles to extract: 54
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=2, width=655
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(20, 24)
+2026-04-10 20:06:50 [DEBUG] - AG120M: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 41831 x 49516
+2026-04-10 20:06:50 [DEBUG] - AG120M: Grid shape: (20, 24) | Tiles to extract: 82
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=3, width=529
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(23, 18)
+2026-04-10 20:06:50 [DEBUG] - AF136M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 37474
+2026-04-10 20:06:50 [DEBUG] - AF136M: Grid shape: (23, 18) | Tiles to extract: 66
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=2, width=605
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(20, 26)
+2026-04-10 20:06:50 [DEBUG] - AG243F: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 41831 x 53255
+2026-04-10 20:06:50 [DEBUG] - AG243F: Grid shape: (20, 26) | Tiles to extract: 70
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=3, width=529
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(23, 24)
+2026-04-10 20:06:50 [DEBUG] - AF257M: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 49989
+2026-04-10 20:06:50 [DEBUG] - AF257M: Grid shape: (23, 24) | Tiles to extract: 67
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(24, 21)
+2026-04-10 20:06:50 [DEBUG] - AF271M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 43803
+2026-04-10 20:06:50 [DEBUG] - AF271M: Grid shape: (24, 21) | Tiles to extract: 80
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=2, width=630
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(26, 26)
+2026-04-10 20:06:50 [DEBUG] - AF265: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 53783 x 52895
+2026-04-10 20:06:50 [DEBUG] - AF265: Grid shape: (26, 26) | Tiles to extract: 0
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=3, width=680
+2026-04-10 20:06:50 [DEBUG] - Set up coordinate grid, shape=(22, 19)
+2026-04-10 20:06:50 [DEBUG] - AF130F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 45815 x 39429
+2026-04-10 20:06:50 [DEBUG] - AF130F: Grid shape: (22, 19) | Tiles to extract: 54
+2026-04-10 20:06:50 [DEBUG] - Requesting thumbnail at level=2, width=580
+2026-04-10 20:06:51 [DEBUG] - Set up coordinate grid, shape=(23, 25)
+2026-04-10 20:06:51 [DEBUG] - AF250F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 50799
+2026-04-10 20:06:51 [DEBUG] - AF250F: Grid shape: (23, 25) | Tiles to extract: 0
+2026-04-10 20:06:51 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:06:51 [DEBUG] - Set up coordinate grid, shape=(20, 23)
+2026-04-10 20:06:51 [DEBUG] - AG034F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 41831 x 47726
+2026-04-10 20:06:51 [DEBUG] - AG034F: Grid shape: (20, 23) | Tiles to extract: 74
+2026-04-10 20:06:51 [DEBUG] - Requesting thumbnail at level=2, width=529
+2026-04-10 20:06:51 [DEBUG] - Set up coordinate grid, shape=(31, 28)
+2026-04-10 20:06:51 [DEBUG] - AJ578M: Slide info: 0.263492 um/px | 4 ROI(s) | Size: 61364 x 54858
+2026-04-10 20:06:51 [DEBUG] - AJ578M: Grid shape: (31, 28) | Tiles to extract: 80
+2026-04-10 20:06:51 [DEBUG] - Requesting thumbnail at level=2, width=808
+2026-04-10 20:06:51 [DEBUG] - Set up coordinate grid, shape=(31, 29)
+2026-04-10 20:06:51 [DEBUG] - AJ393M: Slide info: 0.263492 um/px | 5 ROI(s) | Size: 61955 x 58012
+2026-04-10 20:06:51 [DEBUG] - AJ393M: Grid shape: (31, 29) | Tiles to extract: 54
+2026-04-10 20:06:51 [DEBUG] - Requesting thumbnail at level=2, width=816
+2026-04-10 20:06:52 [DEBUG] - Set up coordinate grid, shape=(19, 23)
+2026-04-10 20:06:52 [DEBUG] - AG119M: Slide info: 0.2532 um/px | 18 ROI(s) | Size: 39839 x 47087
+2026-04-10 20:06:52 [DEBUG] - AG119M: Grid shape: (19, 23) | Tiles to extract: 65
+2026-04-10 20:06:52 [DEBUG] - Requesting thumbnail at level=2, width=504
+2026-04-10 20:06:52 [DEBUG] - Set up coordinate grid, shape=(26, 21)
+2026-04-10 20:06:52 [DEBUG] - AF252: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 53783 x 42654
+2026-04-10 20:06:52 [DEBUG] - AF252: Grid shape: (26, 21) | Tiles to extract: 64
+2026-04-10 20:06:52 [DEBUG] - Requesting thumbnail at level=2, width=680
+2026-04-10 20:06:52 [DEBUG] - Set up coordinate grid, shape=(25, 29)
+2026-04-10 20:06:52 [DEBUG] - AF259M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 51791 x 58919
+2026-04-10 20:06:52 [DEBUG] - AF259M: Grid shape: (25, 29) | Tiles to extract: 63
+2026-04-10 20:06:52 [DEBUG] - Requesting thumbnail at level=3, width=655
+2026-04-10 20:06:53 [DEBUG] - Set up coordinate grid, shape=(28, 29)
+2026-04-10 20:06:53 [DEBUG] - AH143F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 54463 x 57421
+2026-04-10 20:06:53 [DEBUG] - AH143F: Grid shape: (28, 29) | Tiles to extract: 7
+2026-04-10 20:06:53 [DEBUG] - Requesting thumbnail at level=2, width=717
+2026-04-10 20:06:53 [DEBUG] - Set up coordinate grid, shape=(23, 24)
+2026-04-10 20:06:53 [DEBUG] - AG017F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 47807 x 49174
+2026-04-10 20:06:53 [DEBUG] - AG017F: Grid shape: (23, 24) | Tiles to extract: 5
+2026-04-10 20:06:53 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:06:53 [DEBUG] - Set up coordinate grid, shape=(26, 24)
+2026-04-10 20:06:53 [DEBUG] - AG108F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 53783 x 49809
+2026-04-10 20:06:53 [DEBUG] - AG108F: Grid shape: (26, 24) | Tiles to extract: 79
+2026-04-10 20:06:53 [DEBUG] - Requesting thumbnail at level=3, width=680
+2026-04-10 20:06:53 [DEBUG] - Set up coordinate grid, shape=(38, 35)
+2026-04-10 20:06:53 [DEBUG] - AJ392M: Slide info: 0.263492 um/px | 7 ROI(s) | Size: 75164 x 69644
+2026-04-10 20:06:53 [DEBUG] - AJ392M: Grid shape: (38, 35) | Tiles to extract: 106
+2026-04-10 20:06:53 [DEBUG] - Requesting thumbnail at level=3, width=990
+2026-04-10 20:06:54 [DEBUG] - Set up coordinate grid, shape=(27, 25)
+2026-04-10 20:06:54 [DEBUG] - AG022F: Slide info: 0.2532 um/px | 27 ROI(s) | Size: 55776 x 51750
+2026-04-10 20:06:54 [DEBUG] - AG022F: Grid shape: (27, 25) | Tiles to extract: 3
+2026-04-10 20:06:54 [DEBUG] - Requesting thumbnail at level=3, width=706
+2026-04-10 20:06:55 [DEBUG] - Set up coordinate grid, shape=(37, 25)
+2026-04-10 20:06:55 [DEBUG] - AG113M: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 75696 x 52021
+2026-04-10 20:06:55 [DEBUG] - AG113M: Grid shape: (37, 25) | Tiles to extract: 81
+2026-04-10 20:06:55 [DEBUG] - Requesting thumbnail at level=3, width=958
+2026-04-10 20:06:55 [DEBUG] - Set up coordinate grid, shape=(32, 29)
+2026-04-10 20:06:55 [DEBUG] - AH072M: Slide info: 0.263492 um/px | 19 ROI(s) | Size: 63335 x 57421
+2026-04-10 20:06:55 [DEBUG] - AH072M: Grid shape: (32, 29) | Tiles to extract: 58
+2026-04-10 20:06:55 [DEBUG] - Requesting thumbnail at level=2, width=834
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG260M.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AG260M: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF436M.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AF436M: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG115M.csv
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG256F.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AG256F: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ407M.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AG115M: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide AJ407M: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ406M.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AJ406M: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Set up coordinate grid, shape=(24, 21)
+2026-04-10 20:06:56 [DEBUG] - AG115M: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 49800 x 43641
+2026-04-10 20:06:56 [DEBUG] - AG115M: Grid shape: (24, 21) | Tiles to extract: 93
+2026-04-10 20:06:56 [DEBUG] - Requesting thumbnail at level=2, width=630
+2026-04-10 20:06:56 [DEBUG] - Set up coordinate grid, shape=(27, 22)
+2026-04-10 20:06:56 [DEBUG] - AG256F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 55776 x 45249
+2026-04-10 20:06:56 [DEBUG] - AG256F: Grid shape: (27, 22) | Tiles to extract: 70
+2026-04-10 20:06:56 [DEBUG] - Requesting thumbnail at level=2, width=706
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG117M.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AG117M: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:56 [DEBUG] - Set up coordinate grid, shape=(20, 24)
+2026-04-10 20:06:56 [DEBUG] - AG260M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 41831 x 49517
+2026-04-10 20:06:56 [DEBUG] - AG260M: Grid shape: (20, 24) | Tiles to extract: 0
+2026-04-10 20:06:56 [DEBUG] - Requesting thumbnail at level=3, width=529
+2026-04-10 20:06:56 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG110F.csv
+2026-04-10 20:06:56 [DEBUG] - Slide AG110F: extracting tiles from inside ROI.
+2026-04-10 20:06:56 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:57 [DEBUG] - Set up coordinate grid, shape=(32, 33)
+2026-04-10 20:06:57 [DEBUG] - AJ407M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 62350 x 64321
+2026-04-10 20:06:57 [DEBUG] - AJ407M: Grid shape: (32, 33) | Tiles to extract: 80
+2026-04-10 20:06:57 [DEBUG] - Requesting thumbnail at level=2, width=821
+2026-04-10 20:06:57 [DEBUG] - Set up coordinate grid, shape=(20, 21)
+2026-04-10 20:06:57 [DEBUG] - AG110F: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 41831 x 43018
+2026-04-10 20:06:57 [DEBUG] - AG110F: Grid shape: (20, 21) | Tiles to extract: 58
+2026-04-10 20:06:57 [DEBUG] - Requesting thumbnail at level=2, width=529
+2026-04-10 20:06:57 [DEBUG] - Set up coordinate grid, shape=(24, 25)
+2026-04-10 20:06:57 [DEBUG] - AF436M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 51935
+2026-04-10 20:06:57 [DEBUG] - AF436M: Grid shape: (24, 25) | Tiles to extract: 80
+2026-04-10 20:06:57 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:06:57 [DEBUG] - Set up coordinate grid, shape=(35, 31)
+2026-04-10 20:06:57 [DEBUG] - AJ406M: Slide info: 0.263492 um/px | 9 ROI(s) | Size: 69250 x 61758
+2026-04-10 20:06:57 [DEBUG] - AJ406M: Grid shape: (35, 31) | Tiles to extract: 102
+2026-04-10 20:06:57 [DEBUG] - Requesting thumbnail at level=2, width=912
+2026-04-10 20:06:57 [DEBUG] - Set up coordinate grid, shape=(20, 22)
+2026-04-10 20:06:57 [DEBUG] - AG117M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 41831 x 45778
+2026-04-10 20:06:57 [DEBUG] - AG117M: Grid shape: (20, 22) | Tiles to extract: 2
+2026-04-10 20:06:57 [DEBUG] - Requesting thumbnail at level=2, width=529
+2026-04-10 20:06:57 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG015F.csv
+2026-04-10 20:06:57 [DEBUG] - Slide AG015F: extracting tiles from inside ROI.
+2026-04-10 20:06:57 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:58 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG189F.csv
+2026-04-10 20:06:58 [DEBUG] - Slide AG189F: extracting tiles from inside ROI.
+2026-04-10 20:06:58 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:58 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF104.csv
+2026-04-10 20:06:58 [DEBUG] - Slide AF104: extracting tiles from inside ROI.
+2026-04-10 20:06:58 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:58 [DEBUG] - Set up coordinate grid, shape=(21, 24)
+2026-04-10 20:06:58 [DEBUG] - AG189F: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 43824 x 49838
+2026-04-10 20:06:58 [DEBUG] - AG189F: Grid shape: (21, 24) | Tiles to extract: 45
+2026-04-10 20:06:58 [DEBUG] - Requesting thumbnail at level=3, width=554
+2026-04-10 20:06:58 [DEBUG] - Set up coordinate grid, shape=(25, 21)
+2026-04-10 20:06:58 [DEBUG] - AF104: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 51791 x 42986
+2026-04-10 20:06:58 [DEBUG] - AF104: Grid shape: (25, 21) | Tiles to extract: 71
+2026-04-10 20:06:58 [DEBUG] - Requesting thumbnail at level=2, width=655
+2026-04-10 20:06:58 [DEBUG] - Set up coordinate grid, shape=(23, 24)
+2026-04-10 20:06:58 [DEBUG] - AG015F: Slide info: 0.2532 um/px | 28 ROI(s) | Size: 47807 x 48685
+2026-04-10 20:06:58 [DEBUG] - AG015F: Grid shape: (23, 24) | Tiles to extract: 1
+2026-04-10 20:06:58 [DEBUG] - Requesting thumbnail at level=2, width=605
+2026-04-10 20:06:59 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG045M.csv
+2026-04-10 20:06:59 [DEBUG] - Slide AG045M: extracting tiles from inside ROI.
+2026-04-10 20:06:59 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG041M.csv
+2026-04-10 20:06:59 [DEBUG] - Slide AG041M: extracting tiles from inside ROI.
+2026-04-10 20:06:59 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:06:59 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:00 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG040F.csv
+2026-04-10 20:07:00 [DEBUG] - Slide AG040F: extracting tiles from inside ROI.
+2026-04-10 20:07:00 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:00 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG031M.csv
+2026-04-10 20:07:00 [DEBUG] - Slide AG031M: extracting tiles from inside ROI.
+2026-04-10 20:07:00 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:00 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG252F.csv
+2026-04-10 20:07:00 [DEBUG] - Slide AG252F: extracting tiles from inside ROI.
+2026-04-10 20:07:00 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:00 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG046M.csv
+2026-04-10 20:07:00 [DEBUG] - Slide AG046M: extracting tiles from inside ROI.
+2026-04-10 20:07:00 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:01 [DEBUG] - Set up coordinate grid, shape=(24, 25)
+2026-04-10 20:07:01 [DEBUG] - AG041M: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 51606
+2026-04-10 20:07:01 [DEBUG] - AG041M: Grid shape: (24, 25) | Tiles to extract: 80
+2026-04-10 20:07:01 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:01 [DEBUG] - Set up coordinate grid, shape=(27, 28)
+2026-04-10 20:07:01 [DEBUG] - AG045M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 55776 x 56954
+2026-04-10 20:07:01 [DEBUG] - AG045M: Grid shape: (27, 28) | Tiles to extract: 88
+2026-04-10 20:07:01 [DEBUG] - Requesting thumbnail at level=3, width=706
+2026-04-10 20:07:01 [DEBUG] - Set up coordinate grid, shape=(25, 23)
+2026-04-10 20:07:01 [DEBUG] - AG031M: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 51791 x 47539
+2026-04-10 20:07:01 [DEBUG] - AG031M: Grid shape: (25, 23) | Tiles to extract: 1
+2026-04-10 20:07:01 [DEBUG] - Requesting thumbnail at level=2, width=655
+2026-04-10 20:07:01 [DEBUG] - Set up coordinate grid, shape=(27, 23)
+2026-04-10 20:07:01 [DEBUG] - AG252F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 55776 x 48500
+2026-04-10 20:07:01 [DEBUG] - AG252F: Grid shape: (27, 23) | Tiles to extract: 4
+2026-04-10 20:07:01 [DEBUG] - Requesting thumbnail at level=2, width=706
+2026-04-10 20:07:01 [DEBUG] - Set up coordinate grid, shape=(23, 26)
+2026-04-10 20:07:01 [DEBUG] - AG040F: Slide info: 0.2532 um/px | 23 ROI(s) | Size: 47807 x 54214
+2026-04-10 20:07:01 [DEBUG] - AG040F: Grid shape: (23, 26) | Tiles to extract: 93
+2026-04-10 20:07:01 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:01 [DEBUG] - Set up coordinate grid, shape=(26, 23)
+2026-04-10 20:07:01 [DEBUG] - AG046M: Slide info: 0.2532 um/px | 14 ROI(s) | Size: 53783 x 47534
+2026-04-10 20:07:01 [DEBUG] - AG046M: Grid shape: (26, 23) | Tiles to extract: 95
+2026-04-10 20:07:01 [DEBUG] - Requesting thumbnail at level=2, width=680
+2026-04-10 20:07:02 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ391M.csv
+2026-04-10 20:07:02 [DEBUG] - Slide AJ391M: extracting tiles from inside ROI.
+2026-04-10 20:07:02 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:02 [DEBUG] - Set up coordinate grid, shape=(32, 29)
+2026-04-10 20:07:02 [DEBUG] - AJ391M: Slide info: 0.263492 um/px | 3 ROI(s) | Size: 63335 x 57026
+2026-04-10 20:07:02 [DEBUG] - AJ391M: Grid shape: (32, 29) | Tiles to extract: 77
+2026-04-10 20:07:02 [DEBUG] - Requesting thumbnail at level=2, width=834
+2026-04-10 20:07:02 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ409M.csv
+2026-04-10 20:07:02 [DEBUG] - Slide AJ409M: extracting tiles from inside ROI.
+2026-04-10 20:07:02 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:02 [DEBUG] - Set up coordinate grid, shape=(36, 33)
+2026-04-10 20:07:02 [DEBUG] - AJ409M: Slide info: 0.263492 um/px | 3 ROI(s) | Size: 71419 x 65504
+2026-04-10 20:07:02 [DEBUG] - AJ409M: Grid shape: (36, 33) | Tiles to extract: 84
+2026-04-10 20:07:02 [DEBUG] - Requesting thumbnail at level=2, width=940
+2026-04-10 20:07:06 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ396M.csv
+2026-04-10 20:07:06 [DEBUG] - Slide AJ396M: extracting tiles from inside ROI.
+2026-04-10 20:07:06 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:06 [DEBUG] - Set up coordinate grid, shape=(33, 28)
+2026-04-10 20:07:06 [DEBUG] - AJ396M: Slide info: 0.263492 um/px | 3 ROI(s) | Size: 65307 x 55449
+2026-04-10 20:07:06 [DEBUG] - AJ396M: Grid shape: (33, 28) | Tiles to extract: 78
+2026-04-10 20:07:06 [DEBUG] - Requesting thumbnail at level=2, width=860
+2026-04-10 20:07:06 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ572M.csv
+2026-04-10 20:07:06 [DEBUG] - Slide AJ572M: extracting tiles from inside ROI.
+2026-04-10 20:07:06 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:06 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ483F.csv
+2026-04-10 20:07:06 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF113M.csv
+2026-04-10 20:07:06 [DEBUG] - Slide AF113M: extracting tiles from inside ROI.
+2026-04-10 20:07:06 [DEBUG] - Slide AJ483F: extracting tiles from inside ROI.
+2026-04-10 20:07:06 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:06 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:06 [DEBUG] - Set up coordinate grid, shape=(26, 27)
+2026-04-10 20:07:06 [DEBUG] - AJ483F: Slide info: 0.263492 um/px | 4 ROI(s) | Size: 52098 x 52689
+2026-04-10 20:07:06 [DEBUG] - AJ483F: Grid shape: (26, 27) | Tiles to extract: 62
+2026-04-10 20:07:06 [DEBUG] - Requesting thumbnail at level=2, width=686
+2026-04-10 20:07:06 [DEBUG] - Set up coordinate grid, shape=(26, 25)
+2026-04-10 20:07:06 [DEBUG] - AF113M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 50618
+2026-04-10 20:07:06 [DEBUG] - AF113M: Grid shape: (26, 25) | Tiles to extract: 70
+2026-04-10 20:07:06 [DEBUG] - Requesting thumbnail at level=3, width=680
+2026-04-10 20:07:06 [DEBUG] - Set up coordinate grid, shape=(29, 31)
+2026-04-10 20:07:06 [DEBUG] - AJ572M: Slide info: 0.263492 um/px | 5 ROI(s) | Size: 57421 x 60575
+2026-04-10 20:07:06 [DEBUG] - AJ572M: Grid shape: (29, 31) | Tiles to extract: 67
+2026-04-10 20:07:06 [DEBUG] - Requesting thumbnail at level=2, width=756
+2026-04-10 20:07:07 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF435F.csv
+2026-04-10 20:07:07 [DEBUG] - Slide AF435F: extracting tiles from inside ROI.
+2026-04-10 20:07:07 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:07 [DEBUG] - Set up coordinate grid, shape=(26, 26)
+2026-04-10 20:07:07 [DEBUG] - AF435F: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 53783 x 53385
+2026-04-10 20:07:07 [DEBUG] - AF435F: Grid shape: (26, 26) | Tiles to extract: 0
+2026-04-10 20:07:07 [DEBUG] - Requesting thumbnail at level=3, width=680
+2026-04-10 20:07:07 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF254F.csv
+2026-04-10 20:07:07 [DEBUG] - Slide AF254F: extracting tiles from inside ROI.
+2026-04-10 20:07:07 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG186F.csv
+2026-04-10 20:07:07 [DEBUG] - Slide AG186F: extracting tiles from inside ROI.
+2026-04-10 20:07:07 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:07 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:07 [DEBUG] - Set up coordinate grid, shape=(21, 23)
+2026-04-10 20:07:07 [DEBUG] - AG186F: Slide info: 0.2532 um/px | 1 ROI(s) | Size: 43824 x 47884
+2026-04-10 20:07:07 [DEBUG] - AG186F: Grid shape: (21, 23) | Tiles to extract: 0
+2026-04-10 20:07:07 [DEBUG] - Requesting thumbnail at level=2, width=554
+2026-04-10 20:07:07 [DEBUG] - Set up coordinate grid, shape=(25, 25)
+2026-04-10 20:07:07 [DEBUG] - AF254F: Slide info: 0.2532 um/px | 5 ROI(s) | Size: 51791 x 51925
+2026-04-10 20:07:07 [DEBUG] - AF254F: Grid shape: (25, 25) | Tiles to extract: 72
+2026-04-10 20:07:07 [DEBUG] - Requesting thumbnail at level=3, width=655
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF134M.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AF134M: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF102F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AF102F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(25, 25)
+2026-04-10 20:07:09 [DEBUG] - AF134M: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 51791 x 52413
+2026-04-10 20:07:09 [DEBUG] - AF134M: Grid shape: (25, 25) | Tiles to extract: 0
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=3, width=655
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF248F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AF248F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(20, 21)
+2026-04-10 20:07:09 [DEBUG] - AF248F: Slide info: 0.2532 um/px | 2 ROI(s) | Size: 41831 x 42690
+2026-04-10 20:07:09 [DEBUG] - AF248F: Grid shape: (20, 21) | Tiles to extract: 0
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=2, width=529
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG037F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AG037F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(24, 24)
+2026-04-10 20:07:09 [DEBUG] - AF102F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 49329
+2026-04-10 20:07:09 [DEBUG] - AF102F: Grid shape: (24, 24) | Tiles to extract: 71
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG246F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AG246F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH071M.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AH071M: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF239F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AF239F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF110F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AF110F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(24, 26)
+2026-04-10 20:07:09 [DEBUG] - AG246F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 54370
+2026-04-10 20:07:09 [DEBUG] - AG246F: Grid shape: (24, 26) | Tiles to extract: 75
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(24, 27)
+2026-04-10 20:07:09 [DEBUG] - AG037F: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 49800 x 55836
+2026-04-10 20:07:09 [DEBUG] - AG037F: Grid shape: (24, 27) | Tiles to extract: 74
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(24, 26)
+2026-04-10 20:07:09 [DEBUG] - AF110F: Slide info: 0.2532 um/px | 3 ROI(s) | Size: 49800 x 53073
+2026-04-10 20:07:09 [DEBUG] - AF110F: Grid shape: (24, 26) | Tiles to extract: 74
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:09 [DEBUG] - Set up coordinate grid, shape=(22, 27)
+2026-04-10 20:07:09 [DEBUG] - AF239F: Slide info: 0.2532 um/px | 7 ROI(s) | Size: 45815 x 55198
+2026-04-10 20:07:09 [DEBUG] - AF239F: Grid shape: (22, 27) | Tiles to extract: 73
+2026-04-10 20:07:09 [DEBUG] - Requesting thumbnail at level=3, width=580
+2026-04-10 20:07:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG187F.csv
+2026-04-10 20:07:09 [DEBUG] - Slide AG187F: extracting tiles from inside ROI.
+2026-04-10 20:07:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:10 [DEBUG] - Set up coordinate grid, shape=(29, 25)
+2026-04-10 20:07:10 [DEBUG] - AH071M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 57618 x 50323
+2026-04-10 20:07:10 [DEBUG] - AH071M: Grid shape: (29, 25) | Tiles to extract: 4
+2026-04-10 20:07:10 [DEBUG] - Requesting thumbnail at level=2, width=759
+2026-04-10 20:07:10 [DEBUG] - Set up coordinate grid, shape=(23, 28)
+2026-04-10 20:07:10 [DEBUG] - AG187F: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 47807 x 57303
+2026-04-10 20:07:10 [DEBUG] - AG187F: Grid shape: (23, 28) | Tiles to extract: 51
+2026-04-10 20:07:10 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:11 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG190F.csv
+2026-04-10 20:07:11 [DEBUG] - Slide AG190F: extracting tiles from inside ROI.
+2026-04-10 20:07:11 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF109.csv
+2026-04-10 20:07:11 [DEBUG] - Slide AF109: extracting tiles from inside ROI.
+2026-04-10 20:07:11 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG192M.csv
+2026-04-10 20:07:11 [DEBUG] - Slide AG192M: extracting tiles from inside ROI.
+2026-04-10 20:07:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:11 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF135M.csv
+2026-04-10 20:07:11 [DEBUG] - Slide AF135M: extracting tiles from inside ROI.
+2026-04-10 20:07:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:11 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF406M.csv
+2026-04-10 20:07:11 [DEBUG] - Slide AF406M: extracting tiles from inside ROI.
+2026-04-10 20:07:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:11 [DEBUG] - Set up coordinate grid, shape=(24, 22)
+2026-04-10 20:07:11 [DEBUG] - AG190F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 49800 x 46245
+2026-04-10 20:07:11 [DEBUG] - AG190F: Grid shape: (24, 22) | Tiles to extract: 72
+2026-04-10 20:07:11 [DEBUG] - Requesting thumbnail at level=2, width=630
+2026-04-10 20:07:11 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG118M.csv
+2026-04-10 20:07:11 [DEBUG] - Slide AG118M: extracting tiles from inside ROI.
+2026-04-10 20:07:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:11 [DEBUG] - Set up coordinate grid, shape=(24, 21)
+2026-04-10 20:07:11 [DEBUG] - AF109: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 49800 x 44292
+2026-04-10 20:07:11 [DEBUG] - AF109: Grid shape: (24, 21) | Tiles to extract: 63
+2026-04-10 20:07:11 [DEBUG] - Requesting thumbnail at level=2, width=630
+2026-04-10 20:07:11 [DEBUG] - Set up coordinate grid, shape=(24, 26)
+2026-04-10 20:07:11 [DEBUG] - AF135M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 49800 x 53397
+2026-04-10 20:07:11 [DEBUG] - AF135M: Grid shape: (24, 26) | Tiles to extract: 64
+2026-04-10 20:07:11 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:11 [DEBUG] - Set up coordinate grid, shape=(23, 23)
+2026-04-10 20:07:11 [DEBUG] - AG192M: Slide info: 0.2532 um/px | 10 ROI(s) | Size: 47807 x 47552
+2026-04-10 20:07:11 [DEBUG] - AG192M: Grid shape: (23, 23) | Tiles to extract: 64
+2026-04-10 20:07:11 [DEBUG] - Requesting thumbnail at level=2, width=605
+2026-04-10 20:07:12 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG043M.csv
+2026-04-10 20:07:12 [DEBUG] - Slide AG043M: extracting tiles from inside ROI.
+2026-04-10 20:07:12 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:12 [DEBUG] - Set up coordinate grid, shape=(31, 29)
+2026-04-10 20:07:12 [DEBUG] - AF406M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 63743 x 60509
+2026-04-10 20:07:12 [DEBUG] - AF406M: Grid shape: (31, 29) | Tiles to extract: 51
+2026-04-10 20:07:12 [DEBUG] - Requesting thumbnail at level=3, width=806
+2026-04-10 20:07:12 [DEBUG] - Set up coordinate grid, shape=(25, 27)
+2026-04-10 20:07:12 [DEBUG] - AG118M: Slide info: 0.2532 um/px | 17 ROI(s) | Size: 51791 x 55337
+2026-04-10 20:07:12 [DEBUG] - AG118M: Grid shape: (25, 27) | Tiles to extract: 102
+2026-04-10 20:07:12 [DEBUG] - Requesting thumbnail at level=3, width=655
+2026-04-10 20:07:12 [DEBUG] - Set up coordinate grid, shape=(23, 23)
+2026-04-10 20:07:12 [DEBUG] - AG043M: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 47807 x 46899
+2026-04-10 20:07:12 [DEBUG] - AG043M: Grid shape: (23, 23) | Tiles to extract: 78
+2026-04-10 20:07:12 [DEBUG] - Requesting thumbnail at level=2, width=605
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG021F.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AG021F: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:13 [DEBUG] - Set up coordinate grid, shape=(19, 25)
+2026-04-10 20:07:13 [DEBUG] - AG021F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 39839 x 51798
+2026-04-10 20:07:13 [DEBUG] - AG021F: Grid shape: (19, 25) | Tiles to extract: 0
+2026-04-10 20:07:13 [DEBUG] - Requesting thumbnail at level=3, width=504
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG016F.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AG016F: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF434F.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AF434F: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG112M.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AG112M: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF267F.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AF267F: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ404M.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AJ404M: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ583M.csv
+2026-04-10 20:07:13 [DEBUG] - Slide AJ583M: extracting tiles from inside ROI.
+2026-04-10 20:07:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:14 [DEBUG] - Set up coordinate grid, shape=(29, 30)
+2026-04-10 20:07:14 [DEBUG] - AJ583M: Slide info: 0.263492 um/px | 2 ROI(s) | Size: 56632 x 59787
+2026-04-10 20:07:14 [DEBUG] - AJ583M: Grid shape: (29, 30) | Tiles to extract: 69
+2026-04-10 20:07:14 [DEBUG] - Requesting thumbnail at level=2, width=746
+2026-04-10 20:07:14 [DEBUG] - Set up coordinate grid, shape=(24, 25)
+2026-04-10 20:07:14 [DEBUG] - AG016F: Slide info: 0.2532 um/px | 22 ROI(s) | Size: 49800 x 52093
+2026-04-10 20:07:14 [DEBUG] - AG016F: Grid shape: (24, 25) | Tiles to extract: 88
+2026-04-10 20:07:14 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:14 [DEBUG] - Set up coordinate grid, shape=(30, 29)
+2026-04-10 20:07:14 [DEBUG] - AJ404M: Slide info: 0.263492 um/px | 5 ROI(s) | Size: 59984 x 57815
+2026-04-10 20:07:14 [DEBUG] - AJ404M: Grid shape: (30, 29) | Tiles to extract: 78
+2026-04-10 20:07:14 [DEBUG] - Requesting thumbnail at level=2, width=790
+2026-04-10 20:07:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG020F.csv
+2026-04-10 20:07:14 [DEBUG] - Slide AG020F: extracting tiles from inside ROI.
+2026-04-10 20:07:14 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:14 [DEBUG] - Set up coordinate grid, shape=(23, 27)
+2026-04-10 20:07:14 [DEBUG] - AG112M: Slide info: 0.2532 um/px | 17 ROI(s) | Size: 47807 x 55516
+2026-04-10 20:07:14 [DEBUG] - AG112M: Grid shape: (23, 27) | Tiles to extract: 65
+2026-04-10 20:07:14 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:14 [DEBUG] - Set up coordinate grid, shape=(28, 23)
+2026-04-10 20:07:14 [DEBUG] - AF434F: Slide info: 0.2532 um/px | 15 ROI(s) | Size: 57767 x 48495
+2026-04-10 20:07:14 [DEBUG] - AF434F: Grid shape: (28, 23) | Tiles to extract: 67
+2026-04-10 20:07:14 [DEBUG] - Requesting thumbnail at level=2, width=731
+2026-04-10 20:07:14 [DEBUG] - Set up coordinate grid, shape=(27, 24)
+2026-04-10 20:07:14 [DEBUG] - AF267F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 55776 x 49475
+2026-04-10 20:07:14 [DEBUG] - AF267F: Grid shape: (27, 24) | Tiles to extract: 82
+2026-04-10 20:07:14 [DEBUG] - Requesting thumbnail at level=3, width=706
+2026-04-10 20:07:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG033F.csv
+2026-04-10 20:07:14 [DEBUG] - Slide AG033F: extracting tiles from inside ROI.
+2026-04-10 20:07:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG036F.csv
+2026-04-10 20:07:14 [DEBUG] - Slide AG036F: extracting tiles from inside ROI.
+2026-04-10 20:07:14 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:14 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:14 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG035F.csv
+2026-04-10 20:07:14 [DEBUG] - Slide AG035F: extracting tiles from inside ROI.
+2026-04-10 20:07:14 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:15 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG032F.csv
+2026-04-10 20:07:15 [DEBUG] - Slide AG032F: extracting tiles from inside ROI.
+2026-04-10 20:07:15 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:15 [DEBUG] - Set up coordinate grid, shape=(22, 23)
+2026-04-10 20:07:15 [DEBUG] - AG033F: Slide info: 0.2532 um/px | 17 ROI(s) | Size: 45815 x 47068
+2026-04-10 20:07:15 [DEBUG] - AG033F: Grid shape: (22, 23) | Tiles to extract: 104
+2026-04-10 20:07:15 [DEBUG] - Requesting thumbnail at level=2, width=580
+2026-04-10 20:07:15 [DEBUG] - Set up coordinate grid, shape=(23, 26)
+2026-04-10 20:07:15 [DEBUG] - AG036F: Slide info: 0.2532 um/px | 13 ROI(s) | Size: 47807 x 53890
+2026-04-10 20:07:15 [DEBUG] - AG036F: Grid shape: (23, 26) | Tiles to extract: 73
+2026-04-10 20:07:15 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:15 [DEBUG] - Set up coordinate grid, shape=(24, 26)
+2026-04-10 20:07:15 [DEBUG] - AG020F: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 49800 x 53557
+2026-04-10 20:07:15 [DEBUG] - AG020F: Grid shape: (24, 26) | Tiles to extract: 63
+2026-04-10 20:07:15 [DEBUG] - Requesting thumbnail at level=3, width=630
+2026-04-10 20:07:16 [DEBUG] - Set up coordinate grid, shape=(23, 24)
+2026-04-10 20:07:16 [DEBUG] - AG035F: Slide info: 0.2532 um/px | 34 ROI(s) | Size: 47807 x 50151
+2026-04-10 20:07:16 [DEBUG] - AG035F: Grid shape: (23, 24) | Tiles to extract: 8
+2026-04-10 20:07:16 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:16 [DEBUG] - Set up coordinate grid, shape=(29, 32)
+2026-04-10 20:07:16 [DEBUG] - AG032F: Slide info: 0.2532 um/px | 21 ROI(s) | Size: 59759 x 64742
+2026-04-10 20:07:16 [DEBUG] - AG032F: Grid shape: (29, 32) | Tiles to extract: 117
+2026-04-10 20:07:16 [DEBUG] - Requesting thumbnail at level=3, width=756
+2026-04-10 20:07:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH144F.csv
+2026-04-10 20:07:16 [DEBUG] - Slide AH144F: extracting tiles from inside ROI.
+2026-04-10 20:07:16 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG042M.csv
+2026-04-10 20:07:16 [DEBUG] - Slide AG042M: extracting tiles from inside ROI.
+2026-04-10 20:07:16 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:16 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG255F.csv
+2026-04-10 20:07:16 [DEBUG] - Slide AG255F: extracting tiles from inside ROI.
+2026-04-10 20:07:16 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Set up coordinate grid, shape=(26, 29)
+2026-04-10 20:07:17 [DEBUG] - AG255F: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 53783 x 60374
+2026-04-10 20:07:17 [DEBUG] - AG255F: Grid shape: (26, 29) | Tiles to extract: 85
+2026-04-10 20:07:17 [DEBUG] - Requesting thumbnail at level=3, width=680
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG121M.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AG121M: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Set up coordinate grid, shape=(27, 27)
+2026-04-10 20:07:17 [DEBUG] - AG042M: Slide info: 0.2532 um/px | 11 ROI(s) | Size: 55776 x 55815
+2026-04-10 20:07:17 [DEBUG] - AG042M: Grid shape: (27, 27) | Tiles to extract: 106
+2026-04-10 20:07:17 [DEBUG] - Requesting thumbnail at level=3, width=706
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF263F.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AF263F: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AJ395M.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AJ395M: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF537F.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AF537F: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF256F.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AF256F: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG264M.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AG264M: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG263M.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AG263M: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG122M.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AG122M: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Set up coordinate grid, shape=(20, 23)
+2026-04-10 20:07:17 [DEBUG] - AF256F: Slide info: 0.2532 um/px | 2 ROI(s) | Size: 41831 x 48055
+2026-04-10 20:07:17 [DEBUG] - AF256F: Grid shape: (20, 23) | Tiles to extract: 0
+2026-04-10 20:07:17 [DEBUG] - Requesting thumbnail at level=2, width=529
+2026-04-10 20:07:17 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AF238F.csv
+2026-04-10 20:07:17 [DEBUG] - Slide AF238F: extracting tiles from inside ROI.
+2026-04-10 20:07:17 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:07:17 [DEBUG] - Set up coordinate grid, shape=(22, 23)
+2026-04-10 20:07:17 [DEBUG] - AF537F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 45815 x 47232
+2026-04-10 20:07:17 [DEBUG] - AF537F: Grid shape: (22, 23) | Tiles to extract: 0
+2026-04-10 20:07:17 [DEBUG] - Requesting thumbnail at level=2, width=580
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(32, 32)
+2026-04-10 20:07:18 [DEBUG] - AJ395M: Slide info: 0.263492 um/px | 4 ROI(s) | Size: 63335 x 62744
+2026-04-10 20:07:18 [DEBUG] - AJ395M: Grid shape: (32, 32) | Tiles to extract: 86
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=2, width=834
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(20, 24)
+2026-04-10 20:07:18 [DEBUG] - AG263M: Slide info: 0.2532 um/px | 4 ROI(s) | Size: 41831 x 48544
+2026-04-10 20:07:18 [DEBUG] - AG263M: Grid shape: (20, 24) | Tiles to extract: 57
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=2, width=529
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(26, 25)
+2026-04-10 20:07:18 [DEBUG] - AH144F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 51112 x 49140
+2026-04-10 20:07:18 [DEBUG] - AH144F: Grid shape: (26, 25) | Tiles to extract: 17
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=2, width=673
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(22, 27)
+2026-04-10 20:07:18 [DEBUG] - AG264M: Slide info: 0.2532 um/px | 9 ROI(s) | Size: 45815 x 55360
+2026-04-10 20:07:18 [DEBUG] - AG264M: Grid shape: (22, 27) | Tiles to extract: 91
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=3, width=580
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(23, 27)
+2026-04-10 20:07:18 [DEBUG] - AF263F: Slide info: 0.2532 um/px | 8 ROI(s) | Size: 47807 x 55351
+2026-04-10 20:07:18 [DEBUG] - AF263F: Grid shape: (23, 27) | Tiles to extract: 0
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(23, 26)
+2026-04-10 20:07:18 [DEBUG] - AF238F: Slide info: 0.2532 um/px | 6 ROI(s) | Size: 47807 x 53238
+2026-04-10 20:07:18 [DEBUG] - AF238F: Grid shape: (23, 26) | Tiles to extract: 78
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(22, 25)
+2026-04-10 20:07:18 [DEBUG] - AG122M: Slide info: 0.2532 um/px | 12 ROI(s) | Size: 45815 x 51618
+2026-04-10 20:07:18 [DEBUG] - AG122M: Grid shape: (22, 25) | Tiles to extract: 0
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=3, width=580
+2026-04-10 20:07:18 [DEBUG] - Set up coordinate grid, shape=(23, 30)
+2026-04-10 20:07:18 [DEBUG] - AG121M: Slide info: 0.2532 um/px | 19 ROI(s) | Size: 47807 x 62016
+2026-04-10 20:07:18 [DEBUG] - AG121M: Grid shape: (23, 30) | Tiles to extract: 83
+2026-04-10 20:07:18 [DEBUG] - Requesting thumbnail at level=3, width=605
+2026-04-10 20:35:43 [DEBUG] - Verifying slide annotations...
+2026-04-10 20:35:43 [DEBUG] - Verifying tfrecords...
+2026-04-10 20:40:49 [DEBUG] - No ROIs provided for AG985F
+2026-04-10 20:40:49 [INFO] - No ROI for AG985F, using whole slide.
+2026-04-10 20:40:49 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:49 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:40:49 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 65504 x 56238
+2026-04-10 20:40:49 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 15525
+2026-04-10 20:40:49 [DEBUG] - Requesting thumbnail at level=2, width=862
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 3 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 4 (0.01 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.01 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.01 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.01 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 23 (0.00 mm^2)
+2026-04-10 20:40:49 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:49 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:40:50 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG985F.csv
+2026-04-10 20:40:50 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2026-04-10 20:40:50 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:50 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:40:50 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2026-04-10 20:40:50 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2026-04-10 20:40:52 [DEBUG] - No ROIs provided for AG986F
+2026-04-10 20:40:52 [INFO] - No ROI for AG986F, using whole slide.
+2026-04-10 20:40:52 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:52 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2026-04-10 20:40:52 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 62350 x 48943
+2026-04-10 20:40:52 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 12800
+2026-04-10 20:40:52 [DEBUG] - Requesting thumbnail at level=2, width=821
+2026-04-10 20:40:52 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:40:52 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.01 mm^2)
+2026-04-10 20:40:52 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.00 mm^2)
+2026-04-10 20:40:52 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 18 (0.00 mm^2)
+2026-04-10 20:40:52 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:52 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2026-04-10 20:40:53 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG986F.csv
+2026-04-10 20:40:53 [DEBUG] - Slide AG986F: extracting tiles from inside ROI.
+2026-04-10 20:40:53 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:53 [DEBUG] - Set up coordinate grid, shape=(128, 100)
+2026-04-10 20:40:53 [DEBUG] - AG986F: Slide info: 0.263492 um/px | 16 ROI(s) | Size: 62350 x 48943
+2026-04-10 20:40:53 [DEBUG] - AG986F: Grid shape: (128, 100) | Tiles to extract: 557
+2026-04-10 20:40:59 [DEBUG] - No ROIs provided for AG987F
+2026-04-10 20:40:59 [INFO] - No ROI for AG987F, using whole slide.
+2026-04-10 20:40:59 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:59 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2026-04-10 20:40:59 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 59589 x 52689
+2026-04-10 20:40:59 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 13176
+2026-04-10 20:40:59 [DEBUG] - Requesting thumbnail at level=2, width=785
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 0 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.01 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 10 (0.01 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 18 (0.01 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.01 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 23 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 24 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 26 (0.01 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 29 (0.00 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 31 (0.01 mm^2)
+2026-04-10 20:40:59 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:40:59 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2026-04-10 20:41:00 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG987F.csv
+2026-04-10 20:41:00 [DEBUG] - Slide AG987F: extracting tiles from inside ROI.
+2026-04-10 20:41:00 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:00 [DEBUG] - Set up coordinate grid, shape=(122, 108)
+2026-04-10 20:41:00 [DEBUG] - AG987F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 59589 x 52689
+2026-04-10 20:41:00 [DEBUG] - AG987F: Grid shape: (122, 108) | Tiles to extract: 571
+2026-04-10 20:41:03 [DEBUG] - No ROIs provided for AG991M
+2026-04-10 20:41:03 [INFO] - No ROI for AG991M, using whole slide.
+2026-04-10 20:41:03 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:03 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2026-04-10 20:41:03 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 66687 x 64124
+2026-04-10 20:41:03 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 18084
+2026-04-10 20:41:03 [DEBUG] - Requesting thumbnail at level=2, width=878
+2026-04-10 20:41:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:41:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:41:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.00 mm^2)
+2026-04-10 20:41:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.00 mm^2)
+2026-04-10 20:41:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 18 (0.00 mm^2)
+2026-04-10 20:41:03 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:04 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2026-04-10 20:41:05 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG991M.csv
+2026-04-10 20:41:05 [DEBUG] - Slide AG991M: extracting tiles from inside ROI.
+2026-04-10 20:41:05 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:05 [DEBUG] - Set up coordinate grid, shape=(137, 132)
+2026-04-10 20:41:05 [DEBUG] - AG991M: Slide info: 0.263492 um/px | 15 ROI(s) | Size: 66687 x 64124
+2026-04-10 20:41:05 [DEBUG] - AG991M: Grid shape: (137, 132) | Tiles to extract: 366
+2026-04-10 20:41:11 [DEBUG] - No ROIs provided for AH063F
+2026-04-10 20:41:11 [INFO] - No ROI for AH063F, using whole slide.
+2026-04-10 20:41:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:11 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2026-04-10 20:41:11 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67475 x 69644
+2026-04-10 20:41:11 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 19877
+2026-04-10 20:41:11 [DEBUG] - Requesting thumbnail at level=3, width=888
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 4 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.01 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 10 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 25 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 35 (0.01 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 39 (0.00 mm^2)
+2026-04-10 20:41:11 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:11 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2026-04-10 20:41:13 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH063F.csv
+2026-04-10 20:41:13 [DEBUG] - Slide AH063F: extracting tiles from inside ROI.
+2026-04-10 20:41:13 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:13 [DEBUG] - Set up coordinate grid, shape=(139, 143)
+2026-04-10 20:41:13 [DEBUG] - AH063F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 67475 x 69644
+2026-04-10 20:41:13 [DEBUG] - AH063F: Grid shape: (139, 143) | Tiles to extract: 674
+2026-04-10 20:41:16 [DEBUG] - No ROIs provided for AH073M
+2026-04-10 20:41:16 [INFO] - No ROI for AH073M, using whole slide.
+2026-04-10 20:41:16 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:16 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2026-04-10 20:41:16 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 66884 x 69447
+2026-04-10 20:41:16 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 19591
+2026-04-10 20:41:16 [DEBUG] - Requesting thumbnail at level=3, width=881
+2026-04-10 20:41:16 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:41:16 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 10 (0.00 mm^2)
+2026-04-10 20:41:16 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 11 (0.00 mm^2)
+2026-04-10 20:41:16 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:41:16 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:16 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2026-04-10 20:41:18 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH073M.csv
+2026-04-10 20:41:18 [DEBUG] - Slide AH073M: extracting tiles from inside ROI.
+2026-04-10 20:41:18 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:18 [DEBUG] - Set up coordinate grid, shape=(137, 143)
+2026-04-10 20:41:18 [DEBUG] - AH073M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 66884 x 69447
+2026-04-10 20:41:18 [DEBUG] - AH073M: Grid shape: (137, 143) | Tiles to extract: 570
+2026-04-10 20:41:22 [DEBUG] - No ROIs provided for AH074M
+2026-04-10 20:41:22 [INFO] - No ROI for AH074M, using whole slide.
+2026-04-10 20:41:22 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:22 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2026-04-10 20:41:22 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 75164 x 71419
+2026-04-10 20:41:22 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 22638
+2026-04-10 20:41:22 [DEBUG] - Requesting thumbnail at level=3, width=990
+2026-04-10 20:41:22 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:41:22 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.01 mm^2)
+2026-04-10 20:41:22 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:41:22 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.01 mm^2)
+2026-04-10 20:41:22 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.01 mm^2)
+2026-04-10 20:41:22 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 23 (0.00 mm^2)
+2026-04-10 20:41:22 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:22 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2026-04-10 20:41:23 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH074M.csv
+2026-04-10 20:41:23 [DEBUG] - Slide AH074M: extracting tiles from inside ROI.
+2026-04-10 20:41:23 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:24 [DEBUG] - Set up coordinate grid, shape=(154, 147)
+2026-04-10 20:41:24 [DEBUG] - AH074M: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 75164 x 71419
+2026-04-10 20:41:24 [DEBUG] - AH074M: Grid shape: (154, 147) | Tiles to extract: 835
+2026-04-10 20:41:26 [DEBUG] - No ROIs provided for AH139F
+2026-04-10 20:41:26 [INFO] - No ROI for AH139F, using whole slide.
+2026-04-10 20:41:26 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:26 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2026-04-10 20:41:26 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67870 x 61955
+2026-04-10 20:41:26 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 17653
+2026-04-10 20:41:26 [DEBUG] - Requesting thumbnail at level=2, width=894
+2026-04-10 20:41:26 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.00 mm^2)
+2026-04-10 20:41:26 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.01 mm^2)
+2026-04-10 20:41:26 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:41:26 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 13 (0.00 mm^2)
+2026-04-10 20:41:26 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.01 mm^2)
+2026-04-10 20:41:26 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 21 (0.00 mm^2)
+2026-04-10 20:41:26 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:26 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2026-04-10 20:41:27 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH139F.csv
+2026-04-10 20:41:27 [DEBUG] - Slide AH139F: extracting tiles from inside ROI.
+2026-04-10 20:41:27 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:27 [DEBUG] - Set up coordinate grid, shape=(139, 127)
+2026-04-10 20:41:27 [DEBUG] - AH139F: Slide info: 0.263492 um/px | 13 ROI(s) | Size: 67870 x 61955
+2026-04-10 20:41:27 [DEBUG] - AH139F: Grid shape: (139, 127) | Tiles to extract: 659
+2026-04-10 20:41:30 [DEBUG] - No ROIs provided for AH141F
+2026-04-10 20:41:30 [INFO] - No ROI for AH141F, using whole slide.
+2026-04-10 20:41:30 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:30 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-04-10 20:41:30 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 69250 x 65307
+2026-04-10 20:41:30 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 19028
+2026-04-10 20:41:30 [DEBUG] - Requesting thumbnail at level=2, width=912
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 4 (0.00 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 10 (0.00 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 11 (0.00 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.01 mm^2)
+2026-04-10 20:41:30 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.01 mm^2)
+2026-04-10 20:41:31 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:31 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-04-10 20:41:32 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH141F.csv
+2026-04-10 20:41:32 [DEBUG] - Slide AH141F: extracting tiles from inside ROI.
+2026-04-10 20:41:32 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:32 [DEBUG] - Set up coordinate grid, shape=(142, 134)
+2026-04-10 20:41:32 [DEBUG] - AH141F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 69250 x 65307
+2026-04-10 20:41:32 [DEBUG] - AH141F: Grid shape: (142, 134) | Tiles to extract: 638
+2026-04-10 20:41:34 [DEBUG] - No ROIs provided for AH142F
+2026-04-10 20:41:34 [INFO] - No ROI for AH142F, using whole slide.
+2026-04-10 20:41:34 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:34 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2026-04-10 20:41:34 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 69841 x 62350
+2026-04-10 20:41:34 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 18432
+2026-04-10 20:41:34 [DEBUG] - Requesting thumbnail at level=2, width=920
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 3 (0.01 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 11 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 13 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.01 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 18 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 24 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 25 (0.01 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 29 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 31 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 32 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 33 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 34 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 35 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 39 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 41 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 43 (0.01 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 45 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 46 (0.00 mm^2)
+2026-04-10 20:41:34 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:34 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2026-04-10 20:41:35 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH142F.csv
+2026-04-10 20:41:35 [DEBUG] - Slide AH142F: extracting tiles from inside ROI.
+2026-04-10 20:41:35 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:35 [DEBUG] - Set up coordinate grid, shape=(144, 128)
+2026-04-10 20:41:35 [DEBUG] - AH142F: Slide info: 0.263492 um/px | 14 ROI(s) | Size: 69841 x 62350
+2026-04-10 20:41:35 [DEBUG] - AH142F: Grid shape: (144, 128) | Tiles to extract: 623
+2026-04-10 20:41:38 [DEBUG] - No ROIs provided for AH145M
+2026-04-10 20:41:38 [INFO] - No ROI for AH145M, using whole slide.
+2026-04-10 20:41:38 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:38 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2026-04-10 20:41:38 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67081 x 72799
+2026-04-10 20:41:38 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 20700
+2026-04-10 20:41:38 [DEBUG] - Requesting thumbnail at level=3, width=883
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 0 (0.01 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.01 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.01 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.01 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 21 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 26 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 29 (0.00 mm^2)
+2026-04-10 20:41:38 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:38 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2026-04-10 20:41:40 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH145M.csv
+2026-04-10 20:41:40 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2026-04-10 20:41:40 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:40 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2026-04-10 20:41:40 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2026-04-10 20:41:40 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2026-04-10 20:41:44 [DEBUG] - No ROIs provided for AH146M
+2026-04-10 20:41:44 [INFO] - No ROI for AH146M, using whole slide.
+2026-04-10 20:41:44 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:44 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2026-04-10 20:41:44 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 73784 x 64913
+2026-04-10 20:41:44 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 20216
+2026-04-10 20:41:44 [DEBUG] - Requesting thumbnail at level=2, width=972
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 0 (0.00 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 10 (0.01 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.00 mm^2)
+2026-04-10 20:41:44 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:44 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2026-04-10 20:41:45 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH146M.csv
+2026-04-10 20:41:45 [DEBUG] - Slide AH146M: extracting tiles from inside ROI.
+2026-04-10 20:41:45 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:45 [DEBUG] - Set up coordinate grid, shape=(152, 133)
+2026-04-10 20:41:45 [DEBUG] - AH146M: Slide info: 0.263492 um/px | 6 ROI(s) | Size: 73784 x 64913
+2026-04-10 20:41:45 [DEBUG] - AH146M: Grid shape: (152, 133) | Tiles to extract: 728
+2026-04-10 20:41:48 [DEBUG] - No ROIs provided for AH210F
+2026-04-10 20:41:48 [INFO] - No ROI for AH210F, using whole slide.
+2026-04-10 20:41:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:48 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2026-04-10 20:41:48 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 74376 x 67870
+2026-04-10 20:41:48 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 21267
+2026-04-10 20:41:48 [DEBUG] - Requesting thumbnail at level=3, width=979
+2026-04-10 20:41:48 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 4 (0.00 mm^2)
+2026-04-10 20:41:48 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.01 mm^2)
+2026-04-10 20:41:48 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:41:48 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 11 (0.01 mm^2)
+2026-04-10 20:41:48 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.00 mm^2)
+2026-04-10 20:41:48 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:48 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2026-04-10 20:41:49 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH210F.csv
+2026-04-10 20:41:49 [DEBUG] - Slide AH210F: extracting tiles from inside ROI.
+2026-04-10 20:41:49 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:49 [DEBUG] - Set up coordinate grid, shape=(153, 139)
+2026-04-10 20:41:49 [DEBUG] - AH210F: Slide info: 0.263492 um/px | 24 ROI(s) | Size: 74376 x 67870
+2026-04-10 20:41:49 [DEBUG] - AH210F: Grid shape: (153, 139) | Tiles to extract: 711
+2026-04-10 20:41:53 [DEBUG] - No ROIs provided for AH211F
+2026-04-10 20:41:53 [INFO] - No ROI for AH211F, using whole slide.
+2026-04-10 20:41:53 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:53 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2026-04-10 20:41:53 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 53478 x 58209
+2026-04-10 20:41:53 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 13200
+2026-04-10 20:41:53 [DEBUG] - Requesting thumbnail at level=2, width=704
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.01 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 13 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.01 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 21 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:41:54 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:54 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2026-04-10 20:41:55 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH211F.csv
+2026-04-10 20:41:55 [DEBUG] - Slide AH211F: extracting tiles from inside ROI.
+2026-04-10 20:41:55 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:55 [DEBUG] - Set up coordinate grid, shape=(110, 120)
+2026-04-10 20:41:55 [DEBUG] - AH211F: Slide info: 0.263492 um/px | 18 ROI(s) | Size: 53478 x 58209
+2026-04-10 20:41:55 [DEBUG] - AH211F: Grid shape: (110, 120) | Tiles to extract: 1046
+2026-04-10 20:41:59 [DEBUG] - No ROIs provided for AH212F
+2026-04-10 20:41:59 [INFO] - No ROI for AH212F, using whole slide.
+2026-04-10 20:41:59 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:59 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2026-04-10 20:41:59 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 60772 x 62744
+2026-04-10 20:41:59 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 16125
+2026-04-10 20:41:59 [DEBUG] - Requesting thumbnail at level=2, width=800
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.01 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 11 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 18 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:41:59 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:41:59 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2026-04-10 20:42:00 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH212F.csv
+2026-04-10 20:42:00 [DEBUG] - Slide AH212F: extracting tiles from inside ROI.
+2026-04-10 20:42:00 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:01 [DEBUG] - Set up coordinate grid, shape=(125, 129)
+2026-04-10 20:42:01 [DEBUG] - AH212F: Slide info: 0.263492 um/px | 22 ROI(s) | Size: 60772 x 62744
+2026-04-10 20:42:01 [DEBUG] - AH212F: Grid shape: (125, 129) | Tiles to extract: 662
+2026-04-10 20:42:03 [DEBUG] - No ROIs provided for AH213F
+2026-04-10 20:42:03 [INFO] - No ROI for AH213F, using whole slide.
+2026-04-10 20:42:03 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:03 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2026-04-10 20:42:03 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 74179 x 76150
+2026-04-10 20:42:03 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 23864
+2026-04-10 20:42:03 [DEBUG] - Requesting thumbnail at level=3, width=977
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 13 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.01 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.01 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 25 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 26 (0.01 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 31 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 35 (0.01 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 36 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 38 (0.01 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 40 (0.00 mm^2)
+2026-04-10 20:42:04 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:04 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2026-04-10 20:42:05 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH213F.csv
+2026-04-10 20:42:05 [DEBUG] - Slide AH213F: extracting tiles from inside ROI.
+2026-04-10 20:42:05 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:05 [DEBUG] - Set up coordinate grid, shape=(152, 157)
+2026-04-10 20:42:05 [DEBUG] - AH213F: Slide info: 0.263492 um/px | 41 ROI(s) | Size: 74179 x 76150
+2026-04-10 20:42:05 [DEBUG] - AH213F: Grid shape: (152, 157) | Tiles to extract: 1238
+2026-04-10 20:42:08 [DEBUG] - No ROIs provided for AH215M
+2026-04-10 20:42:08 [INFO] - No ROI for AH215M, using whole slide.
+2026-04-10 20:42:08 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:08 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2026-04-10 20:42:08 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 51703 x 54661
+2026-04-10 20:42:08 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 11872
+2026-04-10 20:42:08 [DEBUG] - Requesting thumbnail at level=2, width=681
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 0 (0.01 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.00 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 3 (0.01 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.01 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.00 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.01 mm^2)
+2026-04-10 20:42:08 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:08 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2026-04-10 20:42:09 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH215M.csv
+2026-04-10 20:42:09 [DEBUG] - Slide AH215M: extracting tiles from inside ROI.
+2026-04-10 20:42:09 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:42:09 [DEBUG] - Set up coordinate grid, shape=(106, 112)
+2026-04-10 20:42:09 [DEBUG] - AH215M: Slide info: 0.263492 um/px | 28 ROI(s) | Size: 51703 x 54661
+2026-04-10 20:42:09 [DEBUG] - AH215M: Grid shape: (106, 112) | Tiles to extract: 1051
+2026-04-10 20:44:21 [DEBUG] - No ROIs provided for AH145M
+2026-04-10 20:44:21 [INFO] - No ROI for AH145M, using whole slide.
+2026-04-10 20:44:21 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:44:21 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2026-04-10 20:44:21 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 67081 x 72799
+2026-04-10 20:44:21 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 20700
+2026-04-10 20:45:08 [DEBUG] - Requesting thumbnail at level=3, width=883
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 0 (0.01 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.01 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.01 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.01 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 21 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 26 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 29 (0.00 mm^2)
+2026-04-10 20:45:08 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:45:08 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2026-04-10 20:47:36 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AH145M.csv
+2026-04-10 20:47:36 [DEBUG] - Slide AH145M: extracting tiles from inside ROI.
+2026-04-10 20:47:36 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:47:36 [DEBUG] - Set up coordinate grid, shape=(138, 150)
+2026-04-10 20:47:36 [DEBUG] - AH145M: Slide info: 0.263492 um/px | 23 ROI(s) | Size: 67081 x 72799
+2026-04-10 20:47:36 [DEBUG] - AH145M: Grid shape: (138, 150) | Tiles to extract: 843
+2026-04-10 20:47:36 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2026-04-10 20:47:43 [DEBUG] - Requesting thumbnail at level=3, width=1024
+2026-04-10 20:49:45 [DEBUG] - Loaded ROIs from /home/stanna/labshare/SLIDES/PDCD10/ROI/anna/AG985F.csv
+2026-04-10 20:49:45 [DEBUG] - Slide AG985F: extracting tiles from inside ROI.
+2026-04-10 20:49:45 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:49:45 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:49:45 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 17 ROI(s) | Size: 65504 x 56238
+2026-04-10 20:49:45 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 663
+2026-04-10 20:49:45 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-04-10 20:49:58 [DEBUG] - No ROIs provided for AG985F
+2026-04-10 20:49:58 [INFO] - No ROI for AG985F, using whole slide.
+2026-04-10 20:49:58 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:49:58 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:49:58 [DEBUG] - AG985F: Slide info: 0.263492 um/px | 0 ROI(s) | Size: 65504 x 56238
+2026-04-10 20:49:58 [DEBUG] - AG985F: Grid shape: (135, 115) | Tiles to extract: 15525
+2026-04-10 20:50:03 [DEBUG] - Requesting thumbnail at level=2, width=862
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 3 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 4 (0.01 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.01 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.01 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.01 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 23 (0.00 mm^2)
+2026-04-10 20:50:03 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:50:04 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:50:05 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-04-10 20:50:50 [DEBUG] - Requesting thumbnail at level=2, width=862
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 0 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 1 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 2 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 3 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 4 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 5 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 6 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 7 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 8 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 9 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 10 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 11 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 12 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 14 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 15 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 16 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 17 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 18 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 19 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 21 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 22 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 23 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 24 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 25 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 26 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 27 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 28 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 29 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 30 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 31 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 32 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 33 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 34 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 35 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 36 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 37 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 38 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 39 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 40 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 41 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 42 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 43 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 44 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 45 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 46 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 47 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 48 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 49 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 50 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 51 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 52 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 53 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 54 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 55 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 56 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 57 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 58 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 60 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 61 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 62 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 63 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 64 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 65 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 66 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 67 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 70 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 71 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 72 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 73 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 74 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 75 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 76 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 77 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 78 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 79 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 80 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 81 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 87 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 88 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 91 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 92 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 93 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 94 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 95 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 96 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 97 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 98 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 99 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 100 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 101 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 103 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 104 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 105 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 106 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 107 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 108 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 109 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 112 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 113 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 114 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 115 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 116 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 117 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 118 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 120 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 121 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 122 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 124 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 125 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 126 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 127 (0.01 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 128 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 129 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 135 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 136 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 137 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 138 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 140 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 144 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 145 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 146 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 147 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Skipping small ROI with area < 0.01 mm^2: 148 (0.00 mm^2)
+2026-04-10 20:50:50 [DEBUG] - Slide origin: (0, 0)
+2026-04-10 20:50:50 [DEBUG] - Set up coordinate grid, shape=(135, 115)
+2026-04-10 20:50:53 [DEBUG] - Requesting thumbnail at level=2, width=1024
+2026-04-11 00:47:12 [DEBUG] - Verifying slide annotations...
+2026-04-11 00:47:24 [DEBUG] - Verifying tfrecords...
+2026-04-11 00:47:30 [DEBUG] - Verifying slide annotations...
+2026-04-11 00:47:34 [DEBUG] - Verifying tfrecords...
