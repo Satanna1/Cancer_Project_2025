@@ -1,1 +1,5 @@
 AG037F.svs
+myenv/
+lightning_logs/
+cufile.log
+slideflow.log
